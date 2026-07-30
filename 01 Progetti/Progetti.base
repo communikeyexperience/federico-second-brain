@@ -1,0 +1,30 @@
+filters:
+  and:
+    - 'tipo == "progetto"'
+views:
+  - type: table
+    name: Tutti i progetti
+    order:
+      - file.name
+      - cliente
+      - stato
+      - priorita
+      - scadenza
+  - type: table
+    name: Attivi per priorità
+    filters:
+      and:
+        - 'stato == "attivo"'
+    order:
+      - file.name
+      - cliente
+      - priorita
+      - scadenza
+  - type: table
+    name: Per cliente
+    groupBy:
+      property: cliente
+    order:
+      - file.name
+      - stato
+      - priorita

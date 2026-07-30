@@ -1,0 +1,11 @@
+filters:
+  and:
+    - 'tipo == "cliente"'
+views:
+  - type: table
+    name: Tutti i clienti
+    order:
+      - file.name
+      - settore
+      - referente
+      - stato_relazione

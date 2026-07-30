@@ -1,0 +1,10 @@
+# Obsidian — stato di finestra locale, cambia ad ogni sessione, non serve condividerlo
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Plugin e temi: si reinstallano da Obsidian, non vanno versionati.
+# Alcuni plugin (es. Local REST API) salvano qui chiavi/certificati reali.
+.obsidian/plugins/
+.obsidian/themes/
+
+.DS_Store
