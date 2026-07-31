@@ -15,13 +15,7 @@ tags: [sbg, spazio-beauty-gallery, daniele-buzzanca]
 
 Collegamento tematico interessante: il settore (parrucchieria) è lo stesso della famiglia di Federico — **Il Ricciolo**, salone storico co-fondato da sua madre Annalisa Pinna e zio Marco (vedi [[Persone]]) — non è chiaro se ci sia un legame diretto o solo un'affinità di settore.
 
-Federico ha indicato che ci sono ancora "dei ragionamenti da fare" — nessun dettaglio su tipo di collaborazione richiesta o stato di avanzamento.
-
-## Prossimi passi
-- [ ] Verificare se c'è un legame con Il Ricciolo o è solo affinità di settore
-- [ ] Raccogliere stato di avanzamento della relazione
-
-## Analisi del file "SBG Academy new.xlsx" (caricato da Federico, 2026-07-24)
+Federico ha indicato che ci sono ancora "dei ragionamenti da fare" — nessun Analisi del file "SBG Academy new.xlsx" (caricato da Federico, 2026-07-24)
 
 > File di lavoro di Daniele Buzzanca: struttura, curriculum giorno-per-giorno e conti economici dei percorsi formativi SBG. Risponde in gran parte alla domanda "che tipo di collaborazione" — il file è un vero business plan dell'Academy, non solo un'idea.
 
@@ -62,22 +56,3 @@ Michael Virdis, Roberto Muroni, Nicoletta Sottosanti, Charles, Jimy Diana, Franc
 Questa nota resta per ora in `00 Inbox/`, ma il livello di dettaglio del file caricato (business plan completo, conti economici, curriculum) suggerisce che il rapporto con SBG sia più maturo di un semplice prospect — da valutare se promuoverla a `03 Risorse/Clienti/` insieme a una scheda cliente dedicata.
 
 ## Note
-
-## Strategia funnel lead generation — presentazione (2026-07-27)
-
-> Su richiesta di Federico, sviluppata un'ipotesi di funnel di acquisizione lead qualificati per le quattro Academy tecniche, partendo dal perimetro economico dell'analisi del 2026-07-24. Deck: [[SBG Academy - Strategia Funnel Lead Generation (2026-07-27)]] (`01 Progetti/`).
-
-**Contenuto in sintesi**: funnel PPC → Landing Page → Lead → CRM/Nurturing → Iscrizione. Quattro asset necessari, con owner ipotizzato:
-1. **Landing page** — team web Communikey (Stefano Figus)
-2. **Shooting foto/video** — Matteo Collu
-3. **Campagna PPC** — ipotesi di riuso del team/CRM di **Roberto Atzori**, collaborazione già in valutazione altrove in Communikey (vedi [[Communikey Experience]])
-4. **CRM e gestione commerciale** — stesso CRM Atzori o alternativa; **owner del follow-up commerciale non assegnato** (punto aperto)
-
-Investimento indicativo: retainer gestione PPC/CRM ~1.000€/mese + media budget minimo 350-500€/mese/canale (benchmark dal caso [[Coach Academy]]) → 16.200-18.000€/anno, coerente con la forbice 15-20.000€/anno già stimata nell'analisi economica.
-
-**Punti aperti espliciti nel deck (Angolo Cieco)**:
-- Chi gestisce commercialmente i lead in ingresso (SBG o Communikey) — non assegnato
-- Disponibilità e costo reali del team Atzori per questo cliente specifico — non confermati
-- Il funnel presuppone un accordo formalizzato Communikey-SBG, non ancora scritto
-
-**Collegamento diretto al prossimo blocco di lavoro**: Federico ha segnalato che, subito dopo il funnel, va affrontato e messo per iscritto l'accordo tra Communikey (Federico Gaudino, Cristiano Musa) e Daniele Buzzanca — non ancora impostato. Da trattare come tema distinto e propedeutico all'attivazione di qualsiasi asset del funnel.
