@@ -49,6 +49,7 @@ EXTRA_VALID_EXTENSIONS = {
 
 EXEMPT_FROM_MIN_LINKS = {
     "02 Aree/Coaching - Conoscenza/Glossario",
+    "03 Risorse/Capitale Intellettuale/Glossario",
     "Templates",
 }
 
@@ -227,7 +228,7 @@ def main():
     report.append("")
 
     report.append(f"## 3. Note con meno di {MIN_WIKILINKS} wikilink in uscita")
-    report.append("*(escluse le cartelle atomiche per design: Glossario Coaching, Templates, indici/_index/README)*")
+    report.append("*(escluse le cartelle atomiche per design: Glossario Coaching, Glossario ZirkonIA, Templates, indici/_index/README)*")
     few_links = []
     for key, rel_path in notes.items():
         base = key.split("/")[-1]

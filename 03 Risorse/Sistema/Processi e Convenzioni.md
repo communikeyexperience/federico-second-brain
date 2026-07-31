@@ -131,7 +131,7 @@ Il vault si affida a **Obsidian Sync** (piano a pagamento) invece che a Git: inc
 
 - Note progetto: `Nome Progetto - Descrizione breve.md` (es. `Fagioli - Blog Ristorazione.md`)
 - Note cliente: nome proprio o ragione sociale, senza abbreviazioni (es. `Centro Dentale 2EMME.md`)
-- Voci di glossario: il termine esatto, niente prefissi — vivono come note atomiche in `02 Aree/Coaching - Conoscenza/Glossario/`
+- Voci di glossario: il termine esatto, niente prefissi — vivono come note atomiche in `02 Aree/Coaching - Conoscenza/Glossario/` (coaching) e, dal 2026-07-31, in `03 Risorse/Capitale Intellettuale/Glossario/` (termini business/mercato/tecnologia ZirkonIA). Se il termine contiene "/" (es. "LTV/CAC"), il nome file usa "-" al suo posto, il titolo H1 nella nota resta con lo slash originale.
 - Tag: minuscolo, con trattini al posto degli spazi (es. `blog-ristorazione`, non `Blog Ristorazione`)
 
 ## Regole ferme (da non dimenticare mai)
