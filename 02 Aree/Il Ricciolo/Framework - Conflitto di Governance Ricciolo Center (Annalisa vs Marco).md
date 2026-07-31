@@ -14,7 +14,7 @@ summary: "Applicazione del framework MEDIAZIONE (Posizioni/Interessi, BATNA, ZOP
 
 ## Appunti di preparazione (8 luglio 2026, prima dell'incontro)
 Prima dell'incontro diretto tra Annalisa e Marco, Federico ha scritto una nota separata a ciascuno dei due, con spunti per entrare nella stanza senza posizioni già chiuse — dichiarandosi esplicitamente non schierato con nessuno dei due:
-- [[Per Annalisa - Appunti Incontro con Marco.pdf|Per Annalisa - Appunti Incontro con Marco]]
+- [[Per Annalisa - Appunti Incontro con Marco.pdf|Per Annalisa - Appunti Incontro con Marco]] (anche in formato [[Per Annalisa - Appunti Incontro con Marco.docx|.docx]])
 - [[Per Marco - Appunti Incontro con Annalisa.docx|Per Marco - Appunti Incontro con Annalisa]]
 
 ## 1. Posizioni vs Interessi

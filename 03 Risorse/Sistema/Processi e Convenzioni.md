@@ -118,7 +118,7 @@ Se la lente 2 non produce nulla di rilevante, va dichiarato esplicitamente ("nes
 Ogni cartella del vault ha un file che collega sistematicamente tutte le note al suo interno (`_index.md`, o `README.md` dove esisteva già come introduzione alla cartella) — evita che una nota resti "orfana nel grafo" (mai raggiungibile da nessun altro punto del vault). Se crei una nota nuova in una cartella, aggiungila anche all'indice di quella cartella (o rilancia lo script di audit, che segnala le note orfane da agganciare — non le aggancia da solo).
 
 ## Script di audit qualità (aggiunto 2026-07-08)
-`03 Risorse/Sistema/audit_vault.py` — controlla 6 cose in automatico: frontmatter con campo `tipo`, note troppo lunghe (>300 righe, solo avviso), minimo 3 wikilink in uscita (esclude Glossario Coaching e Templates, che sono note atomiche per design), zero link rotti, zero note orfane, un solo grafo connesso. Non corregge nulla da solo — produce un referto in italiano da leggere. Per lanciarlo (serve Python 3, già presente in un ambiente di sviluppo):
+[[audit_vault.py]] — controlla 6 cose in automatico: frontmatter con campo `tipo`, note troppo lunghe (>300 righe, solo avviso), minimo 3 wikilink in uscita (esclude Glossario Coaching e Templates, che sono note atomiche per design), zero link rotti, zero note orfane, un solo grafo connesso. Non corregge nulla da solo — produce un referto in italiano da leggere. Per lanciarlo (serve Python 3, già presente in un ambiente di sviluppo):
 ```
 python3 "03 Risorse/Sistema/audit_vault.py"
 ```

@@ -57,6 +57,6 @@ Questa nota resta per ora in `00 Inbox/`, ma il livello di dettaglio del file ca
 
 ## Documenti collegati
 - [[SBG Academy - Analisi Economica con Grafici (2026-07-24).pdf|Analisi Economica con Grafici]] — stessi dati dei quattro percorsi tecnici riportati nella tabella sopra
-- [[SBG Academy - Strategia Funnel Lead Generation (2026-07-27).pdf|Strategia Funnel Lead Generation]] — presentazione preparata da Communikey per Daniele Buzzanca, ipotesi di lavoro sul marketing (oggi 15-20.000€/anno stimati, non ancora un piano operativo)
+- [[SBG Academy - Strategia Funnel Lead Generation (2026-07-27).pdf|Strategia Funnel Lead Generation]] (anche in formato [[SBG Academy - Strategia Funnel Lead Generation (2026-07-27).pptx|.pptx]]) — presentazione preparata da Communikey per Daniele Buzzanca, ipotesi di lavoro sul marketing (oggi 15-20.000€/anno stimati, non ancora un piano operativo)
 
 ## Note

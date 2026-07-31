@@ -44,7 +44,7 @@ KNOWN_PLACEHOLDER_TARGETS = {"Progetto X", "Concetto Y", "Area Z", "Nome Cliente
 EXTRA_VALID_EXTENSIONS = {
     ".base", ".canvas",
     ".pdf", ".docx", ".doc", ".pptx", ".ppt", ".xlsx", ".xls", ".csv",
-    ".png", ".jpg", ".jpeg", ".gif", ".mp4", ".mp3", ".zip", ".key",
+    ".png", ".jpg", ".jpeg", ".gif", ".mp4", ".mp3", ".zip", ".key", ".py",
 }
 
 EXEMPT_FROM_MIN_LINKS = {
@@ -89,7 +89,11 @@ def collect_files():
             else:
                 ext = os.path.splitext(f)[1]
                 if ext in EXTRA_VALID_EXTENSIONS:
-                    other_files.add(rel_path[: -len(ext)])
+                    # tiene l'estensione nella chiave: due file con lo stesso
+                    # nome base ma estensione diversa (es. un .pdf e un .pptx
+                    # dello stesso documento) sono file fisici distinti, non
+                    # vanno collassati in un'unica voce
+                    other_files.add(rel_path)
 
     by_basename = defaultdict(list)
     for key in notes:
@@ -98,7 +102,7 @@ def collect_files():
 
     other_by_basename = defaultdict(list)
     for key in other_files:
-        base = key.split("/")[-1]
+        base = key.split("/")[-1]  # nome file COMPLETO di estensione
         other_by_basename[base].append(key)
 
     return notes, other_files, by_basename, other_by_basename
@@ -110,17 +114,9 @@ def resolve_target(raw_target, notes, other_files, by_basename, other_by_basenam
         t = t[2:]
     if t in notes:
         return t
-    # strip estensioni note (.base, .canvas) prima di confrontare
-    t_noext = t
-    for ext in EXTRA_VALID_EXTENSIONS:
-        if t.endswith(ext):
-            t_noext = t[: -len(ext)]
-            break
-    had_extension = t_noext != t
-    if had_extension and t_noext in other_files:
-        return "__FILE__:" + t_noext
+    if t in other_files:
+        return "__FILE__:" + t
     base = t.split("/")[-1]
-    base_noext = t_noext.split("/")[-1]
     if base in by_basename:
         candidates = by_basename[base]
         if len(candidates) == 1:
@@ -128,10 +124,16 @@ def resolve_target(raw_target, notes, other_files, by_basename, other_by_basenam
         return "__AMBIGUOUS__"
     # Obsidian risolve un [[link]] senza estensione SOLO su una nota .md con
     # quel nome esatto (sopra) - non fa fallback automatico su un allegato
-    # (pdf/docx/...) con lo stesso nome base. Quindi il fallback sotto vale
-    # solo se il link includeva già l'estensione.
-    if had_extension and base_noext in other_by_basename:
-        return "__FILE__:" + base_noext
+    # (pdf/docx/...) con lo stesso nome base, nemmeno se ne esiste uno solo.
+    # Quindi il fallback sotto vale solo se il link includeva già l'estensione
+    # (altrimenti "base" qui sopra sarebbe già senza estensione e non
+    # troverebbe comunque corrispondenza in other_by_basename, le cui chiavi
+    # includono sempre l'estensione).
+    if base in other_by_basename:
+        candidates = other_by_basename[base]
+        if len(candidates) == 1:
+            return "__FILE__:" + candidates[0]
+        return "__AMBIGUOUS__"
     return None
 
 
