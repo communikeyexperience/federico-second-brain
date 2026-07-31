@@ -116,7 +116,8 @@ def resolve_target(raw_target, notes, other_files, by_basename, other_by_basenam
         if t.endswith(ext):
             t_noext = t[: -len(ext)]
             break
-    if t_noext in other_files:
+    had_extension = t_noext != t
+    if had_extension and t_noext in other_files:
         return "__FILE__:" + t_noext
     base = t.split("/")[-1]
     base_noext = t_noext.split("/")[-1]
@@ -125,7 +126,11 @@ def resolve_target(raw_target, notes, other_files, by_basename, other_by_basenam
         if len(candidates) == 1:
             return candidates[0]
         return "__AMBIGUOUS__"
-    if base_noext in other_by_basename:
+    # Obsidian risolve un [[link]] senza estensione SOLO su una nota .md con
+    # quel nome esatto (sopra) - non fa fallback automatico su un allegato
+    # (pdf/docx/...) con lo stesso nome base. Quindi il fallback sotto vale
+    # solo se il link includeva già l'estensione.
+    if had_extension and base_noext in other_by_basename:
         return "__FILE__:" + base_noext
     return None
 

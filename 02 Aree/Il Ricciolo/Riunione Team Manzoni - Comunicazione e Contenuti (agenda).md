@@ -93,7 +93,7 @@ Con i target già pro-rateati sulle ore, restano in campo alcune spiegazioni pla
 
 ## Blocco 3 — Formazione tecnica: produzione contenuti
 
-> Terzo blocco della stessa riunione, aggiunto 2026-07-28 la mattina stessa dell'incontro. Coincide con uno dei "2 Incontri di Formazione Visiva" già previsti nel [[Piano di Comunicazione Ricciolo (v5)]] ("sessioni pratiche per lo staff su inquadrature, luce, estetica e coerenza con la nuova palette"). Contenuto di partenza fornito da Federico in forma grezza, riorganizzato qui; la checklist di invio è allineata al formato ufficiale del carosello nel Piano v5.
+> Terzo blocco della stessa riunione, aggiunto 2026-07-28 la mattina stessa dell'incontro. Coincide con uno dei "2 Incontri di Formazione Visiva" già previsti nel [[Piano di Comunicazione Ricciolo (v5).pdf|Piano di Comunicazione Ricciolo (v5)]] ("sessioni pratiche per lo staff su inquadrature, luce, estetica e coerenza con la nuova palette"). Contenuto di partenza fornito da Federico in forma grezza, riorganizzato qui; la checklist di invio è allineata al formato ufficiale del carosello nel Piano v5.
 
 ### I 5 punti fondamentali per foto e video
 
@@ -113,7 +113,7 @@ Sfondo dietro il soggetto sempre sgombro — niente asciugamani, prodotti fuori 
 Chi ha fatto il lavoro deve comparire — foto ritratto o foto mentre lavora. Alimenta direttamente l'elemento "backstage/racconto" del carosello (vedi sotto).
 
 ### Checklist di invio del materiale (per ogni carosello)
-Allineata ai 4 elementi del formato ufficiale in [[Piano di Comunicazione Ricciolo (v5)]] (1. la lavorazione, 2. il racconto dello staff, 3. i prodotti, 4. la riflessione):
+Allineata ai 4 elementi del formato ufficiale in [[Piano di Comunicazione Ricciolo (v5).pdf|Piano di Comunicazione Ricciolo (v5)]] (1. la lavorazione, 2. il racconto dello staff, 3. i prodotti, 4. la riflessione):
 - Foto/video della lavorazione
 - Il prodotto utilizzato (foto) — come già facevano
 - Informazioni sulla lavorazione: tecnica, tempo, come è stato eseguito — come già facevano
@@ -121,15 +121,15 @@ Allineata ai 4 elementi del formato ufficiale in [[Piano di Comunicazione Riccio
 
 ## Presentazione
 Scaletta pronta in formato PDF, palette Il Ricciolo, due versioni — **aggiornate 2026-07-28 con il Blocco 3** (formazione tecnica):
-- [[Riunione Team Manzoni - Presentazione (v2)]] — formato widescreen (16:9), per proiettore/laptop, 24 slide
-- [[Riunione Team Manzoni - Presentazione (mobile) (v2)]] — formato verticale, ottimizzato per lettura da cellulare, 24 pagine
+- [[Riunione Team Manzoni - Presentazione (v2).pdf|Riunione Team Manzoni - Presentazione (v2)]] — formato widescreen (16:9), per proiettore/laptop, 24 slide
+- [[Riunione Team Manzoni - Presentazione (mobile) (v2).pdf|Riunione Team Manzoni - Presentazione (mobile) (v2)]] — formato verticale, ottimizzato per lettura da cellulare, 24 pagine
 
-Le versioni precedenti ([[Riunione Team Manzoni - Presentazione]], [[Riunione Team Manzoni - Presentazione (mobile)]], senza Blocco 3) restano nel vault come riferimento ma sono superate dalla v2.
+Le versioni precedenti ([[Riunione Team Manzoni - Presentazione.pdf|Riunione Team Manzoni - Presentazione]], [[Riunione Team Manzoni - Presentazione (mobile).pdf|Riunione Team Manzoni - Presentazione (mobile)]], senza Blocco 3) restano nel vault come riferimento ma sono superate dalla v2.
 
 In entrambe le v2, le ultime slide ("Appunti personali di Federico") restano marcate "non proiettare al gruppo" — contengono il dettaglio su Silvia/Monica e vanno usate solo come preparazione personale, non mostrate in plenaria.
 
 ## Collegamenti
-- [[Riunione Team Manzoni - Presentazione]] — versione PDF pronta per la riunione
+- [[Riunione Team Manzoni - Presentazione.pdf|Riunione Team Manzoni - Presentazione]] — versione PDF pronta per la riunione
 - [[Il Ricciolo - Restyling Comunicazione Social]] — progetto di riferimento
 - [[Il Ricciolo]] — area di riferimento
 - [[Linea Guida Social Media (v1.0, Luglio 2026)]] — fonte delle regole rapide

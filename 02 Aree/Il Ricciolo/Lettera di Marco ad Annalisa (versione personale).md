@@ -41,5 +41,5 @@ Marco
 ## Collegamenti
 - [[Framework - Conflitto di Governance Ricciolo Center (Annalisa vs Marco)]]
 - [[Proposta di Annalisa a Marco (governance Ricciolo Center)]] — testo da non ricalcare nella forma
-- [[Sintesi per Marco - La tua proposta per i prossimi anni]]
+- [[Sintesi per Marco - La tua proposta per i prossimi anni.pdf|Sintesi per Marco - La tua proposta per i prossimi anni]]
 - [[Appunti di Marco - Bozza Controproposta e Tattiche]]

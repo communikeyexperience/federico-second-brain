@@ -13,7 +13,7 @@ Standard da applicare ogni volta che Federico chiede uno "schema di Gantt" o una
 Qualunque richiesta di cronosequenza/roadmap operativa con rappresentazione grafica su linea del tempo, non solo elenco testuale di tappe.
 
 ## Riferimento — file d'esempio
-Il template è stato validato il 2026-07-22 su [[Cronosequenza Iknosys - Fagioli-Roberto Atzori (22 lug - 18 nov 2026)]] (pagina 1), dopo tre round di correzione con Federico. Usare quel file come riferimento visivo diretto.
+Il template è stato validato il 2026-07-22 su [[Cronosequenza Iknosys - Fagioli-Roberto Atzori (22 lug - 18 nov 2026).pdf|Cronosequenza Iknosys - Fagioli-Roberto Atzori (22 lug - 18 nov 2026)]] (pagina 1), dopo tre round di correzione con Federico. Usare quel file come riferimento visivo diretto.
 
 ## Le regole
 
@@ -39,7 +39,7 @@ Ricerca fatta su richiesta di Federico per affinare lo standard. Convenzioni pro
 Fonti consultate: [Docsie — Gantt Chart glossary](https://www.docsie.io/blog/glossary/gantt-chart/), [Airtable — Gantt view milestones, dependencies, and critical paths](https://support.airtable.com/docs/gantt-view-milestones-dependencies-and-critical-paths), [Figma — What is a Gantt Chart?](https://www.figma.com/resource-library/what-is-a-gantt-chart/), [Wrike — Gantt chart basics](https://www.wrike.com/project-management-guide/gantt-chart-basics/), [TeamGantt — Gantt Chart Guide](https://www.teamgantt.com/what-is-a-gantt-chart).
 
 ## Collegamenti
-- [[Cronosequenza Iknosys - Fagioli-Roberto Atzori (22 lug - 18 nov 2026)]] — file di riferimento
+- [[Cronosequenza Iknosys - Fagioli-Roberto Atzori (22 lug - 18 nov 2026).pdf|Cronosequenza Iknosys - Fagioli-Roberto Atzori (22 lug - 18 nov 2026)]] — file di riferimento
 - [[Fagioli - Preparazione Conversazione HubSpot e Roberto Atzori]] — contesto che ha generato questo standard
 - [[Riunione con Roberto Atzori - Collaborazione e Iknosys (2026-07-18)]]
 - [[Processi e Convenzioni]]

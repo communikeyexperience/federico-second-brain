@@ -27,5 +27,5 @@ tags: [ricciolo, formazione, staff, comunicazione]
 Entrambi rebrandizzati Communikey Experience (palette agenzia, non palette Ricciolo), a cura di Federico Gaudino e Cristiano Musa — deliverable dello studio consegnato allo staff, distinto dal materiale a marchio Ricciolo.
 
 **Collegamenti:**
-- Fonte contenuti tecnici: [[Piano di Comunicazione Ricciolo (v5)]] (formato carosello a 4 elementi: lavorazione, racconto, prodotti, riflessione)
+- Fonte contenuti tecnici: [[Piano di Comunicazione Ricciolo (v5).pdf|Piano di Comunicazione Ricciolo (v5)]] (formato carosello a 4 elementi: lavorazione, racconto, prodotti, riflessione)
 - Riunione più ampia (con Matteo, include Target Canvas): [[Riunione Team Manzoni - Comunicazione e Contenuti (agenda)]]

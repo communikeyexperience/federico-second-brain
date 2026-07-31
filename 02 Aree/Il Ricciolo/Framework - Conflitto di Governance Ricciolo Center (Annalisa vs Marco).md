@@ -72,7 +72,7 @@ Più un **metodo operativo nuovo**: proposte straordinarie sempre per iscritto, 
 - Verifica delle fideiussioni (in corso da parte di Marco, autonomamente)
 
 ## Documento consegnato a Marco
-[[Sintesi per Marco - La tua proposta per i prossimi anni]] — riepilogo calmo dei suoi tre pilastri, metodo di lavoro e lettera pronta per Annalisa, con nota che resta da verificare con il commercialista prima di finalizzare.
+[[Sintesi per Marco - La tua proposta per i prossimi anni.pdf|Sintesi per Marco - La tua proposta per i prossimi anni]] — riepilogo calmo dei suoi tre pilastri, metodo di lavoro e lettera pronta per Annalisa, con nota che resta da verificare con il commercialista prima di finalizzare.
 
 ## Versione personale della lettera (2026-07-23)
 Federico chiede una riscrittura in prima persona di Marco, tono informale (sono cugini), testo puro senza formattazione oltre ai grassetti sui titoli. Vedi [[Lettera di Marco ad Annalisa (versione personale)]] — stesso contenuto sostanziale della lettera nella Sintesi PDF, voce diversa.
