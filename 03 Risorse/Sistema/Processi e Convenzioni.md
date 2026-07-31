@@ -124,8 +124,18 @@ python3 "03 Risorse/Sistema/audit_vault.py"
 ```
 Nato dal confronto con il metodo di Giovanni Beggiato, vedi [[Analisi - Company Brain di Giovanni Beggiato vs FG Second Brain]].
 
-## Version control (deciso 2026-07-08)
-Il vault si affida a **Obsidian Sync** (piano a pagamento) invece che a Git: include già cronologia versioni, sync multi-device e crittografia, senza richiedere disciplina di commit separata — coerente con un vault a uso singolo/famiglia, non multi-collaboratore. Se in futuro ZirconIA gestirà vault-cliente con più collaboratori tecnici, rivalutare Git per quei casi specifici (lo starter kit clonabile lo lascia come opzione documentata, non imposta).
+## Integrità del grafo — procedura standard (aggiunto 2026-07-31)
+Nata da una sessione di analisi approfondita del vault (nuove note atomiche, PDF/allegati scollegati, note orfane, componenti isolate nel grafo) — non un intervento una tantum, ma una disciplina da applicare sempre, sia su note nuove sia quando si valuta l'architettura di una cartella:
+
+- **Ogni nota nuova** va agganciata subito all'indice della sua cartella (`_index.md`/`README.md`) — non aspettare la revisione settimanale.
+- **Ogni nota nuova** deve avere almeno un collegamento in entrata e in uscita, salvo le cartelle atomiche esentate (Glossario Coaching, Glossario ZirkonIA, Templates).
+- **Ogni wikilink verso un allegato non-.md** (pdf, docx, pptx, zip, ecc.) deve includere l'estensione esplicita nel link — Obsidian risolve un collegamento senza estensione solo contro una nota `.md` con quel nome esatto, mai contro un allegato con lo stesso nome base, anche se ne esiste uno solo.
+- **Prima di caricare un file di lavoro** (pdf, docx, presentazioni...) nel vault, verificare che venga anche referenziato da almeno una nota — non lasciarlo come allegato isolato "in attesa".
+- **Periodicamente**, o dopo un giro di modifiche corpose, rilanciare [[audit_vault.py]] per un controllo completo (include anche gli allegati, non solo le note `.md`).
+- **Se l'audit segnala** note orfane, allegati mai collegati, link rotti o componenti isolate: **non correggere/eliminare in autonomia** — segnalarlo a Federico e decidere insieme se collegare, correggere o eliminare. Stessa cautela per le proposte architetturali (es. atomizzare un blocco di contenuto in note singole, come fatto per i due glossari): proporre, non eseguire senza conferma.
+
+## Version control (deciso 2026-07-08, aggiornato 2026-07-30)
+Il vault è un **repository Git** con mirror su GitHub (`communikeyexperience/federico-second-brain`) — non più solo Obsidian Sync come deciso inizialmente. Include cronologia versioni completa via commit, non solo lo storico di Obsidian Sync (che resta comunque attivo per il sync multi-device dei file, in parallelo a Git). Le sessioni Claude Code committano in locale le modifiche sostanziali; il push su GitHub resta un'azione che Federico esegue di persona da Terminale (non delegabile all'assistente per policy dell'ambiente).
 
 ## Convenzioni di naming
 
