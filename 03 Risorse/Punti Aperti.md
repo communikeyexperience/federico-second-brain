@@ -62,28 +62,20 @@ Tutte le domande/conferme in sospeso sparse nel vault, raccolte in un solo posto
 - [x] Padre di Veronica (cugina, dipendente Ricciolo) → risolto: **Zio Franco** (madre: Zia Franca)
 - Vedi [[Il Ricciolo]] e [[Framework - Conflitto di Governance Ricciolo Center (Annalisa vs Marco)]] per il dettaglio completo
 - [x] Palette social — risolto (2026-07-20): in riunione ([[Riunione Marketing Social con Matteo, Annalisa, Cristiano]]) finalizzata a Rosa Prada + Perla + Verde chiarissimo/muschio, via fucsia e viola scuro. Non più menzionati salmone/beige della short list iniziale.
-- [x] Identità di "Roberta" → **risolto 2026-07-28**: erano due persone distinte, entrambe staff operativo Ricciolo Manzoni — **Roberta Zuncheddu** (moglie di Matteo Gaudino, front office) e **Roberta Vatilonga** (cognome prima trascritto "Vadironga"/"va di longa", quella che ha sollevato la perplessità sul target Canvas). Resta non riconciliata la voce ancora precedente (2026-07-20: nickname "Robi"/"Roby", pre-briefing marketing con Annalisa/Serena, associata a un altro salone) — non chiaro quale delle due, se una delle due. Vedi [[Persone]]
+- [ ] Identità di "Roberta" (nickname "Robi"/"Roby") — coinvolta nel pre-briefing marketing e nella promo, salone/ruolo esatto non confermato. Vedi [[Riunione Marketing Social con Matteo, Annalisa, Cristiano]]
 - [ ] Identità di "Antonio" (formatore software marketing/CRM, 2026-07-20) — possibile legame con Roberto (Azzori?) già in [[Persone]], non confermato
-- [x] Identità/ruolo di "Deborah" → confermata 2026-07-28 come staff operativo Ricciolo Manzoni, vicina/ha raggiunto il proprio target Canvas; mansione esatta ancora non nota
-- [ ] Ruolo esatto di "Silvia" — staff operativo Ricciolo Manzoni, presente un solo giorno a settimana, sotto target nel Canvas personale; mansione non nota
-- [ ] Chi tra Roberta Zuncheddu e Roberta Vatilonga è "vicina/ha raggiunto" il target Canvas nel resoconto di Federico del 28/7 — non specificato
-- [ ] "Monica" (nuova, 2026-07-28) — staff Ricciolo Manzoni, un solo giorno a settimana, sotto target Canvas come Silvia; non era nell'elenco iniziale dei partecipanti alla riunione, da confermare se invitata
-- [ ] Possibile legame tra "Roberta Zuncheddu" e la "famiglia Zuncheddu" già citata come contatto edilizia di Monia Boncioli ([[Business Experience]]) — nessuna conferma, probabile solo omonimia di cognome
-- [x] I target personali del Canvas Manzoni sono proporzionati alle giornate lavorative di ciascuno? → **confermato 2026-07-28 da Federico**: sì, già pro-rateati sulle ore. Lo scostamento di Silvia/Monica non è un problema di metodo — cause alternative (varianza di un solo giorno, giorno assegnato strutturalmente debole, gap di pratica, tenure) in [[Riunione Team Manzoni - Comunicazione e Contenuti (agenda)]]
-- [ ] Quale giorno della settimana lavorano Silvia e Monica — se coincide con i giorni di calo già segnalati (sabato/infrasettimanale) il target pro-rateato sulle ore potrebbe comunque non essere equo
-- [ ] Silvia e Monica sono assunzioni recenti? Se sì, lo scostamento dal target potrebbe rientrare nella normale curva di apprendimento, non un problema da "stimolare"
-- [ ] Data della riunione Federico/Cristiano con lo staff Ricciolo Manzoni su comunicazione/contenuti — non ancora fissata al 2026-07-28. Vedi [[Riunione Team Manzoni - Comunicazione e Contenuti (agenda)]]
+- [ ] Identità/ruolo di "Deborah" — nominata solo come ipotesi per il photoshoot staff del Ricciolo
 - [ ] Data esatta della riunione Matteo/Annalisa/Cristiano su marketing social — dedotta ~14 luglio 2026 dai riferimenti interni, non confermata da Federico
 - [ ] Esito del confronto privato Annalisa/Matteo sulla frizione di processo emersa in riunione (2026-07-20) — non tracciato
 - [ ] Preventivo di Cristiano Musa per il restyling comunicazione — atteso, range stimato €700-1.000/mese, vedi [[Il Ricciolo - Restyling Comunicazione Social]]
 - [ ] Decisione logo/marchio in evidenza nel feed Instagram — Annalisa favorevole, Matteo contrario, mai risolta
 - [ ] Data esatta della riunione di trattativa preventivo (Matteo, Daniele Mulas, Annalisa, Cristiano) — non dichiarata nel testo, verosimilmente poco prima del 22/7. Vedi [[Riunione Trattativa Preventivo Social (Matteo, Daniele Mulas, Annalisa, Cristiano)]]
-- [x] Prezzo/scope finale del preventivo Il Ricciolo — deciso da Federico (2026-07-23): **650€+30%** (arrotondato da 670€), video ridotti da 12 a 4 (solo Stage/Custom), automazioni incluse come affiancamento. Documento finale in formato mobile: [[Piano di Comunicazione Ricciolo (v3, mobile)]]. Resta da inviare a Matteo e ottenere la sua conferma.
+- [x] Prezzo/scope finale del preventivo Il Ricciolo — deciso da Federico (2026-07-23): **650€+30%** (arrotondato da 670€), video ridotti da 12 a 4 (solo Stage/Custom), automazioni incluse come affiancamento. Documento finale: [[Piano di Comunicazione Ricciolo (v5).pdf|Piano di Comunicazione Ricciolo (v5)]] (la v3 mobile citata inizialmente è stata superata lo stesso giorno da v4 e v5). Resta da inviare a Matteo e ottenere la sua conferma.
 - [ ] Ruolo/rapporto esatto di Daniele Mulas con la famiglia Gaudino (amico, consulente pagato, entrambi?) — vedi [[Persone]]
 - [ ] Se e come prezzare separatamente lo scope SMS/landing page/QR code sollevato da Daniele Mulas — Federico lo considera fuori perimetro dell'attuale preventivo social
 
 ## Centro Dentale 2EMME
-- [ ] Esito del preventivo ZirconIA richiesto da 2EMME — **finalizzato 2026-07-29**, vedi [[2EMME - Piano di Lavoro e Preventivo 2026-2027]]. Tutte le voci quantificate (Cultura Interna, Content Strategy, Espansione Territoriale, ZirconIA fascia 50%). Manca solo l'invio effettivo a Stefano Vacca e la sua conferma/esito.
+- [ ] Esito del preventivo ZirconIA richiesto da 2EMME
 
 ## Persone — round chiuso (2026-07-03)
 Investitori potenziali, mentori e team ZirconIA raccolti/chiariti dove possibile — vedi [[Persone]]. Punto chiuso per questa fase.
@@ -158,35 +150,6 @@ Vedi [[ZirconIA - Piano Beta Testing e Cronoprogramma Matteo]].
 - [ ] Software oltre a Claude/Claude Code da indicare ai beta tester — non ancora specificato
 - [ ] Il roster nominato finora (Fascia 0: 1-2 persone, Fascia 1: 5 persone) supera già la stima di "5-6 totali" — da notare, non ancora un problema
 - [ ] Costruire il Modulo B/C (backend su API commerciale) — prerequisito per il modello "account gestiti da Communikey" a regime, vedi [[ZirconIA]] → "Architettura MVP"
-
-## Riccardo Fagioli e Cristiano — Mini Aula e Evento Iknosys (2026-07-28)
-Vedi [[Riunione Riccardo Fagioli e Cristiano - Mini Aula e Evento Iknosys (2026-07-28)]].
-- [ ] Lista dei 10 nomi target per la mini aula (partenza: gruppo "140 grammi" — The Good, Lo Square)
-- [ ] Formula esatta di "busta chiusa" e deposito/impegno alla presenza — non ancora decisa
-- [ ] Data e location definitive della mini aula — ipotesi fine settembre/inizio ottobre, Cagliari poi eventualmente Olbia
-- [ ] Riconciliare la nuova finestra di lancio campagna PPC ("primi di settembre", detto in riunione) con la scadenza vincolante precedente (18-20 agosto) in [[Fagioli - Preparazione Conversazione HubSpot e Roberto Atzori]]
-- [ ] Identità di "Marco" — ha chiamato Riccardo/Cristiano a fine riunione sul tema Roberto Atzori, non corrisponde a nessun Marco già in [[Persone]]
-- [x] Cosa sia il "progetto di Monte Magno" citato in riunione — **risolto 2026-07-30**: era Marco Montemagno, divulgatore digitale, valutato come possibile guest star evento Iknosys — vedi [[Evento Iknosys - Guest Star (Ospite Keynote)]]
-- [ ] Decidere se procedere con Andrea Giuliodori come guest star evento Iknosys o valutare altri profili della shortlist (Vignali, Temporelli, Scandellari, Taverniti, La Mesa, Xhaët)
-- [ ] Verificare autonomamente i canali di contatto di Andrea Giuliodori prima di inviare qualunque proposta (dati da ricerca esterna, non verificati da Communikey)
-
-## Mini Aula 10 Imprenditori — Concept Operativo, domande aperte (2026-07-30)
-Vedi [[Mini Aula 10 Imprenditori - Concept Operativo (framework marketing)]].
-- [ ] Percentuale di sconto reale per la "busta chiusa" (50% era solo un'ipotesi buttata lì in riunione, non decisa)
-- [x] Meccanismo di deposito — **risolto 2026-07-30**: ticket d'ingresso 100€, buono da 500€ restituito da Riccardo in caso di insoddisfazione. Resta da definire la condizione esatta di "insoddisfazione"
-- [ ] Tipo di garanzia sull'offerta principale: condizionata a un risultato (raccomandata), incondizionata, o anti-garanzia
-- [ ] Chi registra il video sales personalizzato (Riccardo?) e tempi di produzione per 10 video
-- [ ] Location esatta a Cagliari per la mini aula
-- [ ] Chi prepara materialmente i report personalizzati (dati/bilanci/KPI) e con quale deadline
-- [ ] Budget disponibile per i materiali (dossier stampati, video, "pacco" omaggio)
-- [ ] Scegliere tra modello A (aula di gruppo, vendita in giornata), modello B (invito individuale + evento come vetrina + vendita differita), o l'ibrido raccomandato — vedi [[Mini Aula 10 Imprenditori - Concept Operativo (framework marketing)]], sezione "Confronto strategico"
-- [ ] Se si sceglie B/ibrido: risolvere il conflitto di timeline con i "centurioni" sul palco di novembre (a novembre non ci sarebbero ancora conversioni chiuse da mostrare)
-
-- [ ] Ruolo esatto di Paolo Bertoni (nome fatto da Riccardo come possibile persona tecnica per la mini aula)
-- [ ] Numero hostess evento Iknosys (8-12) — deadline di conferma da fissare
-- [ ] Esito trattativa con Daniele Cavallini per androidi/umanoidi (noleggio vs acquisto ~30.000$)
-- [x] Rapporto tra "palco secondario" e stand Iknosys — **risolto 2026-07-30**: sono la stessa cosa, un podio a sinistra del palco principale
-- [ ] Nome dell'azienda "di peso" che fornirebbe i robot per lo stand Iknosys — Federico non lo ricorda, da confermare se coincide con la trattativa Daniele Cavallini o è un fornitore diverso
 
 ## Note
 Vedi anche [[Persone]] per la disambiguazione degli omonimi.

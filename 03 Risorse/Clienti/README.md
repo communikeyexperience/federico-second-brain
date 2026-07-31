@@ -14,6 +14,7 @@ Vedi anche [[Clienti.base|Clienti (tabella)]].
 - [[626 School]]
 - [[Riccardo Fagioli]]
 - [[Coach Academy Cagliari]]
+- [[Iknosys]]
 
 ## 🔗 Indice — tutte le note di questa cartella
 *(generato automaticamente il 2026-07-08 — collega sistematicamente ogni nota per evitare orfani nel grafo; se aggiungi/rimuovi note qui dentro, rilancia lo script di audit per rigenerare questa sezione)*
@@ -21,5 +22,6 @@ Vedi anche [[Clienti.base|Clienti (tabella)]].
 - [[626 School]]
 - [[Centro Dentale 2EMME]]
 - [[Coach Academy Cagliari]]
+- [[Iknosys]]
 - [[Riccardo Fagioli]]
 - [[SYRVE]]

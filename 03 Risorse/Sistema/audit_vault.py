@@ -41,7 +41,11 @@ EXCLUDE_FOLDER_PREFIX = "ELIMINA_"
 EXCLUDE_FILE_PREFIX = "ELIMINA_"
 EXCLUDE_BASENAMES = {"CLAUDE"}
 KNOWN_PLACEHOLDER_TARGETS = {"Progetto X", "Concetto Y", "Area Z", "Nome Cliente"}
-EXTRA_VALID_EXTENSIONS = {".base", ".canvas"}
+EXTRA_VALID_EXTENSIONS = {
+    ".base", ".canvas",
+    ".pdf", ".docx", ".doc", ".pptx", ".ppt", ".xlsx", ".xls", ".csv",
+    ".png", ".jpg", ".jpeg", ".gif", ".mp4", ".mp3", ".zip", ".key",
+}
 
 EXEMPT_FROM_MIN_LINKS = {
     "02 Aree/Coaching - Conoscenza/Glossario",
