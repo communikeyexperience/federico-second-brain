@@ -39,6 +39,7 @@ Un abbraccio,
 Marco
 
 ## Collegamenti
+- [[Lettera di Marco ad Annalisa (versione personale).pdf|Versione PDF di questa lettera]]
 - [[Framework - Conflitto di Governance Ricciolo Center (Annalisa vs Marco)]]
 - [[Proposta di Annalisa a Marco (governance Ricciolo Center)]] — testo da non ricalcare nella forma
 - [[Sintesi per Marco - La tua proposta per i prossimi anni.pdf|Sintesi per Marco - La tua proposta per i prossimi anni]]

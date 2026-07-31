@@ -102,4 +102,4 @@ Il sito storico federicogaudino.com è ancora il primo risultato quando qualcuno
 Dettagli completi in [[Ricerca - Presenza Online (Federico Gaudino)|Ricerca - Presenza Online]].
 
 ## Note
-Vedi [[Home]] per la dashboard operativa e [[Processi e Convenzioni]] per come uso questo vault.
+Vedi [[Home]] per la dashboard operativa e [[Processi e Convenzioni]] per come uso questo vault. Curriculum: [[Federico Gaudino - Curriculum Vitae.pdf|Federico Gaudino - Curriculum Vitae]].

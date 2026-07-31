@@ -137,4 +137,4 @@ Il modello B è preferibile come architettura di base (leva negoziale migliore, 
 - [ ] Decidere se testare prima una versione ridotta del modello A su 1-2 prospect di fiducia
 
 ## Collegamenti
-[[Riunione Riccardo Fagioli e Cristiano - Mini Aula e Evento Iknosys (2026-07-28)]], [[Punti Aperti]], [[Persone]]
+[[Riunione Riccardo Fagioli e Cristiano - Mini Aula e Evento Iknosys (2026-07-28)]], [[Punti Aperti]], [[Persone]], [[Mini Aula - Concept Operativo (framework marketing).pdf|versione PDF di questa nota]]

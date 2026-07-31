@@ -59,4 +59,4 @@ Accordo di massima per procedere: fissare un incontro per dare il via operativo.
 - **Stefano** — nome citato una sola volta in un passaggio ambiguo (vedi nota di disambiguazione sopra) — da chiarire con Federico se è persona reale o solo esempio.
 
 ## Collegamenti
-[[Persone]], [[Riccardo Fagioli]], [[Riunione con Roberto Atzori - Collaborazione e Iknosys (2026-07-18)]], [[Communikey Experience]], [[Punti Aperti]]
+[[Persone]], [[Riccardo Fagioli]], [[Riunione con Roberto Atzori - Collaborazione e Iknosys (2026-07-18)]], [[Communikey Experience]], [[Punti Aperti]], [[Riunione Roby e Riccardo Fagioli - Strategia Lead Generation Iknosys (2026-07-24).pdf|versione PDF di questa nota]]

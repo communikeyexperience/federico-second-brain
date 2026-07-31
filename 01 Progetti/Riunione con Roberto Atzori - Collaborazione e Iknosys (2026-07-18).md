@@ -78,4 +78,4 @@ Ha chiuso proponendo di **partire dalla rubrica telefonica** come primo canale a
 - Federico e Cristiano hanno riferito lo stato dei propri vault personali: quello di Federico "operativo, non ancora completo"; quello di Cristiano "replicato alla perfezione ma non ancora operativo, in fase di popolamento".
 
 ## Collegamenti
-[[Persone]], [[Communikey Experience]], [[ZirconIA]], [[Roadmap Strategica ZirkonIA 2026-2029]] (naming da riconciliare), [[Punti Aperti]]
+[[Persone]], [[Communikey Experience]], [[ZirconIA]], [[Roadmap Strategica ZirkonIA 2026-2029]] (naming da riconciliare), [[Punti Aperti]], [[ZirconIA - Presentazione per Roberto Atzori.pdf|Presentazione ZirconIA usata in questa riunione]]

@@ -41,3 +41,7 @@ Da tenere presente: i 3 mesi dalla conferma finirebbero **prima** dell'evento de
 - [ ] Dopo la riunione: aggiornare [[RistoComics (SYRVE)]] con l'esito
 - [ ] Dopo la riunione: registrare le decisioni sull'evento Iknosys (zonizzazione, staff, impianti) in una nota dedicata o in [[Communikey Experience]]
 - [ ] Dopo la riunione: aggiornare [[Punti Aperti]] → voce "Roberto Atzori / Iknosys" con la risposta di Riccardo sul preventivo Befive
+
+## Documenti collegati
+- [[Scaletta Riunione Riccardo Fagioli (2026-07-28).pdf|Scaletta]] — versione PDF di questa agenda
+- [[Estrazione Task - Riunione Riccardo Fagioli 28-07-2026.pdf|Estrazione Task]] — task emersi durante la riunione (Riccardo Fagioli, Cristiano Musa, Federico)
