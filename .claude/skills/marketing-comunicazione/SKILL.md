@@ -76,3 +76,15 @@ Il feedback utile nomina *quale* principio manca o è usato male e propone la ri
 - `references/03-persuasione-cialdini.md` — i sei principi di persuasione + principio di contrasto + limite etico
 - `references/04-struttura-testo-e3-scope.md` — modello E3 (27 strumenti Engage-Explain-Exchange) + decalogo S.C.O.P.E. per la comunicazione scritta
 - `references/05-lead-generation-hormozi.md` — Core Four, lead magnet in 7 passi, Hook-Retain-Reward, Regola del 100, Lead Getters (non ancora validato dall'utente)
+
+## Controparte nel vault (aggiunto 2026-07-31)
+
+Ogni file in `references/` ha una nota gemella nel vault, in `03 Risorse/Capitale Intellettuale/` — stesso pattern già in uso per le SOP comportamentali in `02 Aree/SOP e Procedure/`: la nota vault è la fonte "umana" (leggibile/modificabile in Obsidian, collegata al resto del vault), questa skill ne è la controparte eseguibile. Se aggiorni un file `references/`, aggiorna a mano anche la nota corrispondente (e viceversa) — nessun meccanismo le tiene allineate automaticamente:
+
+| File reference | Nota vault |
+|---|---|
+| `01-posizionamento-strategico.md` | [[Libro - Strategia Oceano Blu (Kim, Mauborgne)]], [[Libro - Positioning (Ries, Trout)]] |
+| `02-pubblico-e-differenziazione.md` | [[Libro - La mucca viola (Seth Godin)]], [[Libro - Questo è il marketing (Seth Godin)]] |
+| `03-persuasione-cialdini.md` | [[Libro - Le armi della persuasione (Robert Cialdini)]] (nota preesistente, non toccata) |
+| `04-struttura-testo-e3-scope.md` | [[Framework - E3 e S.C.O.P.E. (Borzacchiello, Mazzilli)]] |
+| `05-lead-generation-hormozi.md` | [[Framework - Hook-Retain-Reward e Core Four (Alex Hormozi)]] |

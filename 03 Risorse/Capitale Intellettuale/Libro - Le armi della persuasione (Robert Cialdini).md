@@ -29,6 +29,7 @@ Cialdini non presenta queste armi come "trucchi da usare", ma soprattutto come *
 - **Autorità ↔ personal branding desiderato**: risuona con quanto Federico dichiara nell'[[Intervista - Orizzonte, Missione e Impatto]] sul voler essere riconosciuto per competenza/innovazione ("è quello che ha fatto Dubai") — i simboli di autorità (titoli, storia, risultati visibili) sono leve reali per la credibilità, non vanità.
 - **Impegno e coerenza ↔ "mettila per iscritto" (Giusta Causa)**: coerente con il principio già annotato — una missione scritta e pubblica (per l'azienda) o un impegno scritto (per un cliente/investitore) genera coerenza comportamentale nel tempo, non solo chiarezza.
 - **Uso pratico immediato**: rilevante per Communikey Experience (copywriting, funnel di vendita, script video appena avviati per Fagioli/Iknosys) e per la trattativa di vendita di [[Business Experience]] (Apollo Residence, investitori) — utile anche come lente di autodifesa quando Federico stesso è il destinatario di una trattativa (es. valutare se una scadenza "urgente" proposta da una controparte è scarsità reale o tattica).
+- **Aggiornamento 2026-07-31**: le sei leggi sono richiamate esplicitamente nel decalogo [[Framework - E3 e S.C.O.P.E. (Borzacchiello, Mazzilli)]] (punto 7). Questa nota è ora anche la fonte "umana" della skill `marketing-comunicazione` (`.claude/skills/marketing-comunicazione/references/03-persuasione-cialdini.md` ne è la controparte eseguibile).
 
 ## Una citazione
 > "Il segreto delle armi della persuasione sta nel loro potere, non nel loro contenuto."
