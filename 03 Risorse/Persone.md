@@ -97,5 +97,8 @@ Indice di chi compare nel vault, per evitare confusione tra omonimi (vedi caso "
 - **Iter di Ruggeri** — partner tecnico [[Apollo Residence - Assemini]], nessun referente specifico individuato per ora (rapporto aziendale generico)
 - **Domenico** — ingegnere strutturista di [[Apollo Residence - Assemini]], cognome non ancora raccolto (2026-07-22) — anticipo da predisporre
 
+## Vicende legali/personali — separate da ZirkonIA (nuovo, 2026-08-01)
+- **Luigi Vargiu** — persona che ha truffato Federico personalmente tramite **Byteint**, società (chiusa, sede a Londra) usata per uno schema simile a un Ponzi. La società è oggi sotto indagine, con diverse denunce presentate. Emerso perché il nome "Byteint" era comparso, senza spiegazione, in [[Roadmap Strategica ZirkonIA 2026-2029]] — rimosso da lì e da [[ZirkonIA]] su richiesta di Federico: non ha alcun legame con il progetto, tenuto qui solo per memoria personale. Vedi [[Punti Aperti]].
+
 ## Note
 Aggiungi qui ogni nuova persona non appena compare in una conversazione — costa 30 secondi ora, evita ambiguità dopo.

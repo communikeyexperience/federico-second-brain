@@ -7,12 +7,14 @@ tags: [zirkonia, business, roadmap, investitori, analisi-mercato]
 
 > Documento caricato da Federico il 2026-07-15 ("il documento di cui ti parlavo prima delle analisi"): "Roadmap Strategica 2026–2029 · Analisi di mercato · Posizionamento · Proiezioni economiche · Piano di scalabilità e percorso investitori". Preparato per Federico Gaudino, luglio 2026, dominio zirkonia.ai. Trascritto integralmente da PDF in questa nota.
 
+> 🛑 **Affidabilità del documento — nota 2026-08-01**: Federico stesso, ripensandoci in sessione EDUCAZIONE, giudica questa analisi "per il momento non utile" nel suo complesso — non solo da correggere sui punti sotto, ma da NON usare esternamente (investitori, pitch) finché non viene riscritta e verificata riga per riga. Un riferimento a una vicenda del tutto estranea a ZirkonIA (vedi punto 5 sotto, rimosso) era comparso in mezzo a una tabella altrimenti generica — segnale che il documento può contenere altro materiale non verificato. Vedi [[Punti Aperti]] per il follow-up.
+>
 > ⚠️ **Discrepanze rispetto al vault attuale — da chiarire con Federico, non risolte silenziosamente** (vedi anche [[Punti Aperti]]):
 > 1. **Naming — risolto 2026-08-01**: confermato da Federico in sessione EDUCAZIONE che la grafia corretta è "**ZirkonIA**" (con la K), coerente con questo documento e col dominio "zirkonia.ai". Il resto del vault, che fino ad oggi usava "ZirconIA" (con la C), è stato aggiornato di conseguenza.
 > 2. **Architettura tecnica — risolto 2026-08-01**: Federico ha confermato che "la tecnologia RAG multi-tenant già sviluppata" è un **errore di stesura/fraintendimento** — non era vero né al momento della scrittura né oggi. La direzione reale: la tecnologia dei primi deployment sarà un RAG, ma **non multi-tenant** (non prevista prima di ~un anno). Federico stesso giudica questo intero documento da riscrivere e aggiornare allo stato attuale del progetto — vedi [[ZirkonIA]] → "Chiarimento architettura reale" e [[Punti Aperti]].
 > 3. **Modello di pricing**: il documento propone setup una tantum (€3.000–8.000) + **retainer mensile ricorrente** (€350/600/900+), radicalmente diverso dall'offerta attuale in [[ZirkonIA]] (Entry €4.500 / Pro €6.000 una tantum + canone annuale €1.800) e dal "piano di vendita concreto" già confermato il 2026-07-03 (~100 clienti/anno, fatturato in gran parte una tantum non ricorrente).
 > 4. **Target e proiezioni**: 12 clienti Anno 1 (2027), 120 clienti Anno 3 (2029), ARR €680K — diverso dal target già in vault (~100 clienti/anno, €500-600K fatturato anno 1).
-> 5. **Entità nuove, non presenti nel vault**: "Iknosys" (rete ristorazione, cliente pilota citato), "Kosmo Pinnacle" (network per mercato UAE), "**Byteint**" — citata come posizione da "formalizzare o chiudere... prima della due diligence" nel cap table: sembra un'esposizione societaria/legale pregressa non ancora documentata qui.
+> 5. **Entità nuove, non presenti nel vault**: "Iknosys" (rete ristorazione, cliente pilota citato), "Kosmo Pinnacle" (network per mercato UAE). ~~"Byteint"~~ — **rimosso 2026-08-01**: confermato da Federico che non ha nulla a che fare con ZirkonIA — nome di una società (chiusa, sede a Londra) legata a una truffa personale subita da Federico, oggi sotto indagine. Il riferimento è stato rimosso da questo documento su sua richiesta esplicita; il fatto resta annotato separatamente in [[Persone]].
 
 ---
 
@@ -153,7 +155,7 @@ Il capitale va raccolto quando accelera una macchina già funzionante. Il moment
 | Moat documentato | Switching cost misurato (dati ingeriti per cliente), template verticali proprietari |
 | Compliance | GDPR, DPA con i clienti, posizionamento AI Act, sicurezza multi-tenant (RLS) |
 | Team | Almeno una figura commerciale e una tecnica non fondatore; advisory board |
-| Cap table pulita | Nessuna pendenza; attenzione a formalizzare o chiudere la posizione Byteint prima della due diligence |
+| Cap table pulita | Nessuna pendenza *(la riga originale menzionava "Byteint": rimosso 2026-08-01su richiesta di Federico — riferimento a una vicenda personale estranea a ZirkonIA, non un'esposizione societaria del progetto — vedi [[Persone]])* |
 
 ### 6.3 Interlocutori prioritari
 CDP Venture Capital (fondo Italia Venture / AI), Primo Capital, LVenture Group, Vento, B4i Bocconi, oltre a business angel verticali nei settori beauty, hospitality e real estate — dove i casi studio ZirkonIA parlano la loro lingua. In parallelo: bandi regionali sardi e Smart&Start; Invitalia come capitale non diluitivo nella Fase 1–2.

@@ -246,7 +246,7 @@ Federico ha caricato due PDF preparati esternamente: [[Roadmap Strategica Zirkon
 - ~~Naming "ZirkonIA" (con k) vs "ZirconIA" (con c)~~ — **risolto 2026-08-01**: Federico ha confermato in sessione EDUCAZIONE che la grafia corretta è "ZirkonIA", con la K. L'intero vault (~300 note, 12 file/cartelle) è stato aggiornato di conseguenza in questa sessione — vedi [[Punti Aperti]].
 - Architettura "RAG multi-tenant già sviluppata" (Supabase/pgvector, RLS, voice profile) vs la conclusione del 2026-07-15 in questo vault ("non è un database vettoriale, è testo semplice + skill")
 - Pricing a retainer mensile ricorrente vs l'offerta una tantum + canone annuale già in questa nota
-- Entità non ancora documentate qui: Iknosys, Kosmo Pinnacle, Byteint (quest'ultima con un'esposizione cap table da chiudere prima di due diligence)
+- Entità non ancora documentate qui: Iknosys, Kosmo Pinnacle. ~~Byteint~~ — **rimosso 2026-08-01**: non è un'entità ZirkonIA, era un riferimento a una vicenda personale estranea al progetto (vedi [[Persone]]), rimosso su richiesta di Federico.
 
 Non è chiaro se questo documento descriva la stessa iniziativa vista da un angolo diverso (es. prodotto SaaS pensato in parallelo al vault di coaching/Obsidian) o un'iniziativa distinta. Da chiarire con Federico prima di usare questo materiale per landing page, pitch o materiali esterni — vedi [[Punti Aperti]].
 
