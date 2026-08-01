@@ -21,6 +21,13 @@ Federico ha messo da parte il concetto Cube (oggetto fisico da scrivania in cera
 
 **Nota di continuità**: il contenuto storico sul Cube più sotto in questa nota (protocollo, pricing, analisi competitor) resta come riferimento — non riscritto, solo superato — perché la logica che lo ha reso obsoleto (commoditizzazione del formato da scrivania) è parte del ragionamento dietro il pivot, non un errore da cancellare.
 
+### Primo test fisico e modello di consegna — sessione EDUCAZIONE (2026-08-01)
+Confermato da Federico: **"ZirkonIA Touch" è il nome riservato al futuro prodotto personalizzato/brandizzato**, da usare quando ci sarà capacità produttiva per una versione custom — non un concetto abbandonato, solo non ancora realizzato fisicamente. Oggi è già stato acquistato un primo esemplare di registratore AI dalla Cina per un test diretto: qualità/funzionamento giudicati "molto simile a Plaud". Se il test è soddisfacente, il passo successivo è ordinarne una serie e brandizzarla.
+
+Precisazione di scope, dichiarata esplicitamente come "la parte importante del progetto": il registratore è lo strumento, ma il vero valore per il cliente è la **consulenza** — la capacità che ZirkonIA dà alle persone di gestire queste tecnologie e i relativi processi di crescita (creazione contenuti, sviluppo idee, newsletter, analisi).
+
+Modello di consegna concretizzato: oltre agli incontri periodici durante l'anno (già Fase 4 — Evoluzione Continua), la consegna include un **"cofanetto"** — box fisico con il registratore AI + un playbook con le linee guida generali d'uso del sistema.
+
 ## Positioning landing page — la vera promessa (2026-07-11)
 Domanda di Federico durante lavoro sulla landing page: qual è la promessa reale di ZirconIA, oltre "conserva la memoria"? Riflessione (ZirconIA Core):
 
