@@ -22,6 +22,6 @@ Dare un nome esplicito a questi tre segnali permette di riconoscerli *mentre* si
 ## Collegamenti
 - [[Gaudino Costruzioni]] — caso originario
 - [[Framework - Risolvere stalli tra soci su allocazione budget]] — stessa famiglia di problema (decisioni di peso prese senza metodo esplicito), causa diversa (conflitto tra soci vs. paura individuale)
-- Candidato per il Question Bank di [[ZirconIA]]: una domanda tipo "raccontami una decisione presa per paura" è probabilmente una delle più rivelatrici nelle 200 domande di Profilazione Profonda
+- Candidato per il Question Bank di [[ZirkonIA]]: una domanda tipo "raccontami una decisione presa per paura" è probabilmente una delle più rivelatrici nelle 200 domande di Profilazione Profonda
 
 ## Note

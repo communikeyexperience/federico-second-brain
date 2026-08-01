@@ -29,7 +29,7 @@ C'è poi un punto che riguarda te direttamente, e che il tuo stesso vault aveva 
 - Aperto, non tuo da chiudere: il nodo di processo Annalisa/Matteo, rimandato a un confronto privato tra loro — utile chiedere, alla prossima occasione, se quel confronto è avvenuto, prima di ripartire con la prossima riunione operativa
 - Persone da confermare: Roberta, Antonio, Deborah (vedi [[Persone]])
 
-## 💎 [ZirconIA Log]
+## 💎 [ZirkonIA Log]
 - Creato [[Riunione Marketing Social con Matteo, Annalisa, Cristiano]] — sbobinatura Canon della registrazione
 - Creato [[Il Ricciolo - Restyling Comunicazione Social]] — nota progetto, stato attivo, in `01 Progetti`
 - Aggiornato [[Il Ricciolo]] — nuova sezione marketing/social + seconda linea di tensione familiare

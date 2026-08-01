@@ -1,6 +1,6 @@
 ---
 tipo: risorsa
-tags: [zirconia, business, roadmap, investitori, analisi-mercato]
+tags: [zirkonia, business, roadmap, investitori, analisi-mercato]
 ---
 
 # Roadmap Strategica ZirkonIA 2026–2029
@@ -8,9 +8,9 @@ tags: [zirconia, business, roadmap, investitori, analisi-mercato]
 > Documento caricato da Federico il 2026-07-15 ("il documento di cui ti parlavo prima delle analisi"): "Roadmap Strategica 2026–2029 · Analisi di mercato · Posizionamento · Proiezioni economiche · Piano di scalabilità e percorso investitori". Preparato per Federico Gaudino, luglio 2026, dominio zirkonia.ai. Trascritto integralmente da PDF in questa nota.
 
 > ⚠️ **Discrepanze rispetto al vault attuale — da chiarire con Federico, non risolte silenziosamente** (vedi anche [[Punti Aperti]]):
-> 1. **Naming**: il documento usa sistematicamente "**ZirkonIA**" (con la k) e dominio "zirkonia.ai", mentre questo vault usa "**ZirconIA**" (con la c) in ogni nota esistente. Non è chiaro se sia un refuso del documento o il naming reale abbia questa variante.
-> 2. **Architettura tecnica**: il documento descrive "la tecnologia RAG multi-tenant **già sviluppata**" — pipeline Supabase/pgvector, RLS, voice profile per cliente, API Anthropic — un'infrastruttura SaaS cloud multi-tenant reale. Questo **contraddice direttamente** quanto stabilito in questo vault il 2026-07-15 (vedi [[Analisi - Rischio competitivo big tech e memoria organizzativa]]): "ZirconIA non è un database vettoriale... è testo semplice (markdown) + layer di skill". Le due descrizioni non sono conciliabili come stanno — o descrivono due iniziative tecniche diverse (un vault Obsidian personale per il coaching vs. un prodotto SaaS RAG per i clienti), o una delle due descrizioni è superata/erronea.
-> 3. **Modello di pricing**: il documento propone setup una tantum (€3.000–8.000) + **retainer mensile ricorrente** (€350/600/900+), radicalmente diverso dall'offerta attuale in [[ZirconIA]] (Entry €4.500 / Pro €6.000 una tantum + canone annuale €1.800) e dal "piano di vendita concreto" già confermato il 2026-07-03 (~100 clienti/anno, fatturato in gran parte una tantum non ricorrente).
+> 1. **Naming — risolto 2026-08-01**: confermato da Federico in sessione EDUCAZIONE che la grafia corretta è "**ZirkonIA**" (con la K), coerente con questo documento e col dominio "zirkonia.ai". Il resto del vault, che fino ad oggi usava "ZirconIA" (con la C), è stato aggiornato di conseguenza.
+> 2. **Architettura tecnica**: il documento descrive "la tecnologia RAG multi-tenant **già sviluppata**" — pipeline Supabase/pgvector, RLS, voice profile per cliente, API Anthropic — un'infrastruttura SaaS cloud multi-tenant reale. Questo **contraddice direttamente** quanto stabilito in questo vault il 2026-07-15 (vedi [[Analisi - Rischio competitivo big tech e memoria organizzativa]]): "ZirkonIA non è un database vettoriale... è testo semplice (markdown) + layer di skill". Le due descrizioni non sono conciliabili come stanno — o descrivono due iniziative tecniche diverse (un vault Obsidian personale per il coaching vs. un prodotto SaaS RAG per i clienti), o una delle due descrizioni è superata/erronea.
+> 3. **Modello di pricing**: il documento propone setup una tantum (€3.000–8.000) + **retainer mensile ricorrente** (€350/600/900+), radicalmente diverso dall'offerta attuale in [[ZirkonIA]] (Entry €4.500 / Pro €6.000 una tantum + canone annuale €1.800) e dal "piano di vendita concreto" già confermato il 2026-07-03 (~100 clienti/anno, fatturato in gran parte una tantum non ricorrente).
 > 4. **Target e proiezioni**: 12 clienti Anno 1 (2027), 120 clienti Anno 3 (2029), ARR €680K — diverso dal target già in vault (~100 clienti/anno, €500-600K fatturato anno 1).
 > 5. **Entità nuove, non presenti nel vault**: "Iknosys" (rete ristorazione, cliente pilota citato), "Kosmo Pinnacle" (network per mercato UAE), "**Byteint**" — citata come posizione da "formalizzare o chiudere... prima della due diligence" nel cap table: sembra un'esposizione societaria/legale pregressa non ancora documentata qui.
 
@@ -188,4 +188,4 @@ MRR e ARR; nuovi clienti per canale (diretto, referral, partner); churn; tempo m
 **Fonti principali** (dal documento originale): Grand View Research (AI Meeting Assistant Market 2026–2033), MarketsandMarkets (AI Assistant Market 2025–2030), Sacra e Bloomberg (Plaud), Forbes e YipitData (Granola, Fathom, Otter, Fireflies), ISTAT Rapporto annuale 2026 e Imprese e ICT 2025, Osservatorio Innovazione Digitale nelle PMI PoliMi 2025–26. Le proiezioni sono elaborazioni su ipotesi dichiarate e non costituiscono garanzia di risultato.
 
 ## Collegamenti
-[[ZirconIA]] (posizionamento attuale, architettura MVP, pivot hardware), [[Glossario ZirkonIA - Termini Business e Mercato]] (glossario di questo documento), [[Analisi - Rischio competitivo big tech e memoria organizzativa]], [[Punti Aperti]] (voci di chiarimento aperte da questo documento)
+[[ZirkonIA]] (posizionamento attuale, architettura MVP, pivot hardware), [[Glossario ZirkonIA - Termini Business e Mercato]] (glossario di questo documento), [[Analisi - Rischio competitivo big tech e memoria organizzativa]], [[Punti Aperti]] (voci di chiarimento aperte da questo documento)

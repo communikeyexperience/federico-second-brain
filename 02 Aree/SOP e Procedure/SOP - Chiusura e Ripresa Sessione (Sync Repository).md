@@ -1,7 +1,7 @@
 ---
 data: "2026-07-20"
 tipo: sop
-tags: [zirconia-core, brain, repository, git, sync]
+tags: [zirkonia-core, brain, repository, git, sync]
 ---
 
 # SOP — Chiusura e Ripresa Sessione (Sync Repository)

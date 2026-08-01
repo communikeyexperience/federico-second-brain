@@ -36,7 +36,7 @@ Distingue esplicitamente **tassonomia** (come archivi le cose — nel suo caso, 
 
 ## Confronto strutturale
 
-| Dimensione | Beggiato (Company Brain) | Noi (FG Second Brain / ZirconIA) |
+| Dimensione | Beggiato (Company Brain) | Noi (FG Second Brain / ZirkonIA) |
 |---|---|---|
 | Archiviazione | Tassonomia propria a 11 cartelle "AI-first" | **PARA classico** (Inbox → Progetti → Aree → Risorse → Archivio), meno granulare su alcune distinzioni |
 | Ontologia / collegamenti | Wikilink + hub obbligatori, gate automatico anti-orfani | Wikilink organici, **nessun hub sistematico né controllo automatico** — gap oggi in chiusura (vedi sotto) |
@@ -52,7 +52,7 @@ Distingue esplicitamente **tassonomia** (come archivi le cose — nel suo caso, 
 ## Confronto con FG Second Brain (onesto, non solo elogiativo)
 
 **Dove il sistema di Beggiato è oggettivamente più avanti**:
-1. **Disciplina delle note atomiche** — è la differenza più concreta e più urgente da guardare. Il tuo vault tende ad avere poche note che *crescono* nel tempo per aggiunte successive (`ZirconIA.md` è già a 24K caratteri, `Business Experience.md` a 20K, `Persone.md` a 12K) invece di scomporsi in note atomiche collegate. Questo rende più lento sia per me sia per te trovare un dettaglio specifico, e viola il principio "una nota, un'idea" che rende le note riusabili in contesti diversi.
+1. **Disciplina delle note atomiche** — è la differenza più concreta e più urgente da guardare. Il tuo vault tende ad avere poche note che *crescono* nel tempo per aggiunte successive (`ZirkonIA.md` è già a 24K caratteri, `Business Experience.md` a 20K, `Persone.md` a 12K) invece di scomporsi in note atomiche collegate. Questo rende più lento sia per me sia per te trovare un dettaglio specifico, e viola il principio "una nota, un'idea" che rende le note riusabili in contesti diversi.
 2. **Passaggio "Canon" prima delle note atomiche** — quando carichi una trascrizione lunga (come le interviste EDUCAZIONE), io sintetizzo direttamente in note tematiche, senza un passaggio intermedio esplicito di "estrazione fatti verificati, conferma tua, poi struttura". Nella pratica ho comunque applicato la tua regola di disambiguazione (mai inventare, sempre flaggare l'incerto), ma non è un processo formalizzato e verificabile come il suo.
 3. **Campo "summary" nel frontmatter** — il tuo schema attuale (in Processi e Convenzioni) non lo prevede. È un'aggiunta a costo quasi zero con beneficio concreto: mi permette di capire la pertinenza di una nota senza aprirla tutta.
 4. **Zero orfani / indice per cartella / audit automatico** — non esiste nulla di equivalente nel tuo vault. Rischio concreto ma oggi contenuto (189 note, non migliaia).
@@ -82,7 +82,7 @@ Non in assoluto — è più **ingegnerizzato per scalare** (pensato per arrivare
 - **RAG/database vettoriale** — il vault (189 note) è due ordini di grandezza sotto la soglia in cui inizia a servire
 
 ## Collegamenti
-[[Processi e Convenzioni]] (schema frontmatter aggiornato con `summary`, principio note atomiche, passaggio Canon, script di audit), [[ZirconIA]] (parallelismi diretti con il protocollo delle "200 domande" e l'architettura del vault come prodotto)
+[[Processi e Convenzioni]] (schema frontmatter aggiornato con `summary`, principio note atomiche, passaggio Canon, script di audit), [[ZirkonIA]] (parallelismi diretti con il protocollo delle "200 domande" e l'architettura del vault come prodotto)
 
 ## Note
 Video pubblicato 11/06/2026, canale con 8,91K iscritti al momento della visione (8/07/2026).

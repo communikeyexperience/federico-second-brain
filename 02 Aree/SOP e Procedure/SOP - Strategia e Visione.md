@@ -1,7 +1,7 @@
 ---
 data: "2026-07-03"
 tipo: sop
-tags: [zirconia-core, strategia, visione, crescita]
+tags: [zirkonia-core, strategia, visione, crescita]
 ---
 
 # SOP — Strategia e Visione

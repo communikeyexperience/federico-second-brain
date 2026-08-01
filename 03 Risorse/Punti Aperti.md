@@ -75,10 +75,10 @@ Tutte le domande/conferme in sospeso sparse nel vault, raccolte in un solo posto
 - [ ] Se e come prezzare separatamente lo scope SMS/landing page/QR code sollevato da Daniele Mulas — Federico lo considera fuori perimetro dell'attuale preventivo social
 
 ## Centro Dentale 2EMME
-- [ ] Esito del preventivo ZirconIA richiesto da 2EMME
+- [ ] Esito del preventivo ZirkonIA richiesto da 2EMME
 
 ## Persone — round chiuso (2026-07-03)
-Investitori potenziali, mentori e team ZirconIA raccolti/chiariti dove possibile — vedi [[Persone]]. Punto chiuso per questa fase.
+Investitori potenziali, mentori e team ZirkonIA raccolti/chiariti dove possibile — vedi [[Persone]]. Punto chiuso per questa fase.
 
 ## Business Experience — Case Resilienti
 - [ ] Ancora nessun cliente — prossimi passi noti (sviluppo progetto, valutazioni tecniche, modelli 3D, certificazioni) ma non ancora avviati
@@ -103,10 +103,10 @@ Investitori potenziali, mentori e team ZirconIA raccolti/chiariti dove possibile
 - [ ] "Ditta individuale intestata a Cristiano Musa" (2026-07-03) vs "associazione di professionisti da ~10 anni" (2026-07-10, detto per il CV/microcredito) — capire se sono la stessa cosa descritta diversamente o un'evoluzione nel tempo. Vedi [[Communikey Experience]].
 - [ ] **Valutazione soluzione fiscale Georgia (Gegidze, 1% tax)** — Federico ha chiesto un parere su un servizio pubblicizzato via ad Meta per ridurre le tasse dello studio. Vedi [[Analisi - Valutazione soluzione fiscale Georgia (Gegidze) per Communikey Experience]]: il nodo è che senza un reale trasferimento della residenza fiscale fuori dall'Italia (poco compatibile con clienti tutti radicati in Sardegna), la soluzione non produce il risparmio promesso. Decisione da prendere insieme a Cristiano, con un fiscalista — non ancora affrontata a voce.
 
-## ZirconIA — Roadmap Strategica caricata da Federico, da riconciliare (nuovo, 2026-07-15)
-Vedi [[Roadmap Strategica ZirkonIA 2026-2029]] e [[ZirconIA]] → "Documento esterno". Il documento descrive un'iniziativa che diverge dal vault attuale su più punti concreti:
-- [ ] Naming del brand: "ZirkonIA" (con k, dominio zirkonia.ai) vs "ZirconIA" (con c) usato in tutto il resto del vault — quale è corretto/attuale?
-- [ ] Architettura tecnica — **parzialmente chiarito 2026-08-01** (sessione EDUCAZIONE Socratica): Federico conferma che oggi ZirconIA è cattura audio (device stile Plaud) + layer IA generico/model-agnostic (Claude/ChatGPT/Perplexity) + vault markdown come memoria persistente — non un database vettoriale multi-tenant. Resta aperto chi abbia scritto il claim "RAG multi-tenant già sviluppata" nella Roadmap e su quali basi — vedi [[ZirconIA]] → "Chiarimento architettura reale".
+## ZirkonIA — Roadmap Strategica caricata da Federico, da riconciliare (nuovo, 2026-07-15)
+Vedi [[Roadmap Strategica ZirkonIA 2026-2029]] e [[ZirkonIA]] → "Documento esterno". Il documento descrive un'iniziativa che diverge dal vault attuale su più punti concreti:
+- [x] Naming del brand — **risolto 2026-08-01** (sessione EDUCAZIONE): "ZirkonIA", con la K, è la grafia corretta — confermato da Federico. Tutto il vault è stato aggiornato (~300 note, 12 file/cartelle rinominati); vedi [[ZirkonIA]] → "Documento esterno".
+- [ ] Architettura tecnica — **parzialmente chiarito 2026-08-01** (sessione EDUCAZIONE Socratica): Federico conferma che oggi ZirkonIA è cattura audio (device stile Plaud) + layer IA generico/model-agnostic (Claude/ChatGPT/Perplexity) + vault markdown come memoria persistente — non un database vettoriale multi-tenant. Resta aperto chi abbia scritto il claim "RAG multi-tenant già sviluppata" nella Roadmap e su quali basi — vedi [[ZirkonIA]] → "Chiarimento architettura reale".
 - [ ] Modello di pricing: retainer mensile ricorrente (documento) vs una tantum + canone annuale (vault) — quale è il modello attuale?
 - [x] **Iknosys** — risolto 2026-07-16: rete di ristorazione, prospect/cliente di Communikey. Usa oggi HubSpot come CRM (giudicato da Federico troppo complesso, non funziona bene per loro) — possibile terreno per proporgli il CRM di Roberto Atzori come alternativa, vedi [[Persone]] e [[Communikey Experience]]. Resta aperto invece "Kosmo Pinnacle" (network UAE) — non ancora chiarito.
 - [ ] Cos'è "Byteint" — citata nel documento come posizione da "formalizzare o chiudere" nel cap table prima di due diligence: sembra un'esposizione societaria/legale pregressa, non documentata altrove in questo vault
@@ -128,7 +128,7 @@ Vedi [[Riunione con Roberto Atzori - Collaborazione e Iknosys (2026-07-18)]].
 - [x] Proposta a Iknosys discussa direttamente con Riccardo Fagioli — vedi riunione 2026-07-24 sotto (non più solo ipotesi tra Federico/Cristiano/Roberto)
 - [ ] **Conversazione con Fagioli su HubSpot/Fabio-Gianluca — non ancora avvenuta** (2026-07-22, preparata a due con Cristiano): manca la data di sottoscrizione/rinnovo del contratto HubSpot, necessaria per calcolare la finestra di disdetta reale prima di proporre il passaggio a Roberto Atzori. Vedi [[Fagioli - Preparazione Conversazione HubSpot e Roberto Atzori]].
 - [ ] "Danilo" e l'azienda "Vela" (nome incerto) — chi sono esattamente, dettagli del progetto Academy
-- [ ] Idea "master" del metodo ZirconIA venduto a clienti come Fagioli (20% su rivendita ai suoi clienti) — solo menzionata, non approfondita
+- [ ] Idea "master" del metodo ZirkonIA venduto a clienti come Fagioli (20% su rivendita ai suoi clienti) — solo menzionata, non approfondita
 
 ## Roby e Riccardo Fagioli — riunione strategia Lead Generation Iknosys (2026-07-24)
 Vedi [[Riunione Roby e Riccardo Fagioli - Strategia Lead Generation Iknosys (2026-07-24)]].
@@ -138,18 +138,18 @@ Vedi [[Riunione Roby e Riccardo Fagioli - Strategia Lead Generation Iknosys (202
 - [ ] Verificare chi è "Stefania" (cognome) e chi è "Stefano" (persona reale o esempio ipotetico) — vedi [[Persone]]
 - [ ] "Nicola Rubbioli" — consulente HubSpot fallito, verificare se rilevante recuperare dettagli o se il capitolo è chiuso
 
-## ZirconIA — piano beta testing, esiti riunione 2026-07-22 (+ seguito)
-Vedi [[ZirconIA - Piano Beta Testing e Cronoprogramma Matteo]].
+## ZirkonIA — piano beta testing, esiti riunione 2026-07-22 (+ seguito)
+Vedi [[ZirkonIA - Piano Beta Testing e Cronoprogramma Matteo]].
 - [x] Quale "Matteo" — **risolto**: Matteo Gaudino, fratello di Federico
 - [x] Cifra fee Fascia 1 — **risolto**: ~500€ + costi esterni (non 500.000€, errore di trascrizione)
 - [x] Strumento AI per la prima consegna — **risolto**: Claude/Claude Code
 - [x] Chi è "Alessandro" per il posto Fascia 1 a scambio — **risolto**: Alessandro Gaudino, cugino di Federico (Tuttomedia)
 - [x] Identità di "Daniela" — **risolto**: amica di Cristiano (non partner, era una battuta)
-- [x] Modello di gestione account AI — **risolto dopo ricerca ToS Anthropic**: condivisione/gestione di account consumer per conto di clienti è esplicitamente vietata; per ora ogni beta tester apre il proprio account, Communikey affianca nell'onboarding. Via legittima futura: Commercial Terms/API (Modulo B/C). Vedi [[Analisi - Modello di gestione account AI per i clienti ZirconIA]].
+- [x] Modello di gestione account AI — **risolto dopo ricerca ToS Anthropic**: condivisione/gestione di account consumer per conto di clienti è esplicitamente vietata; per ora ogni beta tester apre il proprio account, Communikey affianca nell'onboarding. Via legittima futura: Commercial Terms/API (Modulo B/C). Vedi [[Analisi - Modello di gestione account AI per i clienti ZirkonIA]].
 - [ ] Slot Fascia 0 lasciato in sospeso (per ora solo Sanja confermata) — da valutare
 - [ ] Software oltre a Claude/Claude Code da indicare ai beta tester — non ancora specificato
 - [ ] Il roster nominato finora (Fascia 0: 1-2 persone, Fascia 1: 5 persone) supera già la stima di "5-6 totali" — da notare, non ancora un problema
-- [ ] Costruire il Modulo B/C (backend su API commerciale) — prerequisito per il modello "account gestiti da Communikey" a regime, vedi [[ZirconIA]] → "Architettura MVP"
+- [ ] Costruire il Modulo B/C (backend su API commerciale) — prerequisito per il modello "account gestiti da Communikey" a regime, vedi [[ZirkonIA]] → "Architettura MVP"
 
 ## Note
 Vedi anche [[Persone]] per la disambiguazione degli omonimi.

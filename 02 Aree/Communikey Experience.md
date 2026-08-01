@@ -23,7 +23,7 @@ Attività di Federico e Cristiano Musa (socio operativo al 50%, vedi sopra). Si 
 - Bushra (social), Stefano Figus (web), Matteo Collu (foto/video), Marta Vacca (copywriting), Simone Dongu (partner esterno IA)
 
 ## Gerarchia — CONFERMATO 2026-07-03
-**Communikey Experience è una verticale sotto [[Business Experience]]**, non un'azienda sorella indipendente: Business Experience è il "cappello" generale, e Communikey Experience è la declinazione che sviluppa la parte di comunicazione. [[ZirconIA]] è a sua volta il **progetto tecnologico di Communikey Experience** — quindi un livello sotto, non un'area a sé. Vedi [[Business Experience]] → sezione "Gerarchia dei progetti" per lo schema completo.
+**Communikey Experience è una verticale sotto [[Business Experience]]**, non un'azienda sorella indipendente: Business Experience è il "cappello" generale, e Communikey Experience è la declinazione che sviluppa la parte di comunicazione. [[ZirkonIA]] è a sua volta il **progetto tecnologico di Communikey Experience** — quindi un livello sotto, non un'area a sé. Vedi [[Business Experience]] → sezione "Gerarchia dei progetti" per lo schema completo.
 
 **Clienti paganti confermati**: [[Riccardo Fagioli]], [[Coach Academy Cagliari]], [[Centro Dentale 2EMME]]. Prospect: [[SYRVE]]/[[RistoComics (SYRVE)|RistoComics]].
 
@@ -52,9 +52,9 @@ Emerso in EDUCAZIONE (Analisi Aperta): riunione del mattino con **Roberto Atzori
 
 1. **Collaborazione Communikey/Roberto — struttura concordata in linea di massima**: Communikey mantiene la direzione di progetto, l'agenzia di Roberto lavora come dipartimento interno terziarizzato su PPC/posizionamento/CRM. Modello economico non ancora chiuso: ipotesi contratto fiduciario da ~€1.000/mese (marketing + supervisione vendite), media budget pagato a parte direttamente dal cliente. Margine/fatturazione ancora da decidere tra ricarico diretto e modello a scambio di lavoro (Roberto userebbe un modello simile a quello con Confesercenti, 20% in lavoro non in denaro, per motivi di regime forfettario). **In attesa del preventivo scritto di Roberto.**
 2. **Iknosys confermato come cliente pilota** per questo modello di collaborazione — sostituzione di HubSpot con un CRM gestito da Roberto, oggetto di proposta separata.
-3. **Pipeline ZirconIA — confermata come go-to-market diretto**, niente prodotto intermedio (deciso il 2026-07-16). Micro-presentazione preparata e mostrata a Roberto il 2026-07-18.
-4. **Target ICP di ZirconIA confermato esplicitamente in riunione**: 40-60 anni, "persone affermate/rilevanti" con disponibilità economica e bassa familiarità tecnologica — non i giovani. Vedi [[ZirconIA]].
-5. **Feedback critico di Roberto** su leva commerciale poco chiara e costo di educazione al mercato di un prodotto/categoria nuova — vedi analisi completa in [[ZirconIA]] e nella nota della riunione.
+3. **Pipeline ZirkonIA — confermata come go-to-market diretto**, niente prodotto intermedio (deciso il 2026-07-16). Micro-presentazione preparata e mostrata a Roberto il 2026-07-18.
+4. **Target ICP di ZirkonIA confermato esplicitamente in riunione**: 40-60 anni, "persone affermate/rilevanti" con disponibilità economica e bassa familiarità tecnologica — non i giovani. Vedi [[ZirkonIA]].
+5. **Feedback critico di Roberto** su leva commerciale poco chiara e costo di educazione al mercato di un prodotto/categoria nuova — vedi analisi completa in [[ZirkonIA]] e nella nota della riunione.
 
 Due strade alternative individuate da Federico, non ancora valutate/decise:
 1. **Acquisizione del software (SaaS)**: rimarchiarlo a nome Communikey, oppure venderlo come pacchetto integrato nel processo di consulenza esistente.
@@ -69,6 +69,6 @@ Due strade alternative individuate da Federico, non ancora valutate/decise:
 
 ## Prossimi passi
 - [ ] Aggiornare i client note (2EMME, Fagioli) per riflettere il legame con Communikey Experience invece che con Federico a titolo individuale
-- [ ] Valutare se la ditta individuale intestata a Cristiano è ancora la forma societaria giusta ora che ci sono clienti paganti stabili e un primo prospect ZirconIA (2EMME)
+- [ ] Valutare se la ditta individuale intestata a Cristiano è ancora la forma societaria giusta ora che ci sono clienti paganti stabili e un primo prospect ZirkonIA (2EMME)
 
 ## Note

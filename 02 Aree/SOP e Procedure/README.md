@@ -19,4 +19,4 @@ Ogni SOP usa il template [[Templates/SOP|SOP]].
 - [[SOP - Protocollo EDUCAZIONE]]
 - [[SOP - Recap Stato]]
 - [[SOP - Strategia e Visione]]
-- [[SOP - Tono e Stile ZirconIA Core]]
+- [[SOP - Tono e Stile ZirkonIA Core]]

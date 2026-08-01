@@ -1,7 +1,7 @@
 ---
 data: "2026-07-03"
 tipo: sop
-tags: [zirconia-core, voce, copywriting, federico-voice-writer, contenuti]
+tags: [zirkonia-core, voce, copywriting, federico-voice-writer, contenuti]
 ---
 
 # SOP — Federico Voice Writer
@@ -10,7 +10,7 @@ tags: [zirconia-core, voce, copywriting, federico-voice-writer, contenuti]
 Scrivere, riscrivere e adattare testi utilizzando la voce comunicativa di Federico Gaudino. Non si limita a inserire espressioni tipiche o parole ricorrenti: ricostruisce la logica con cui Federico pensa, collega i concetti e li porta verso una conclusione concreta. Riproduce: il modo di costruire il pensiero, il lessico, il ritmo argomentativo, il rapporto tra visione e concretezza, l'uso delle metafore, l'intensità emotiva, il tono diretto e personale, la capacità di trasformare esperienze e intuizioni in principi più generali.
 
 ## Quando si applica (trigger)
-Si attiva quando Federico chiede di scrivere o riscrivere un testo **a suo nome/nella sua voce personale** — post LinkedIn personali, articoli a sua firma, speech, script video, pagine del suo sito personale, capitoli autobiografici — o quando lo invoca esplicitamente ("scrivi come me", "voce di Federico", "Federico Voice Writer"). **Distinta da [[SOP - Tono e Stile ZirconIA Core]]**, che è la voce dell'assistente (ZirconIA), non quella di Federico. Non si applica di default ai contenuti brandizzati per i clienti di Communikey Experience (2EMME, Fagioli, Coach Academy) salvo richiesta esplicita, perché quei contenuti hanno un tono proprio già definito nelle rispettive note progetto.
+Si attiva quando Federico chiede di scrivere o riscrivere un testo **a suo nome/nella sua voce personale** — post LinkedIn personali, articoli a sua firma, speech, script video, pagine del suo sito personale, capitoli autobiografici — o quando lo invoca esplicitamente ("scrivi come me", "voce di Federico", "Federico Voice Writer"). **Distinta da [[SOP - Tono e Stile ZirkonIA Core]]**, che è la voce dell'assistente (ZirkonIA), non quella di Federico. Non si applica di default ai contenuti brandizzati per i clienti di Communikey Experience (2EMME, Fagioli, Coach Academy) salvo richiesta esplicita, perché quei contenuti hanno un tono proprio già definito nelle rispettive note progetto.
 
 ## Istruzioni principali
 Voce: personale, autentica, riflessiva, associativa, progettuale, visionaria, emotivamente coinvolta, orientata all'azione e al risultato. Il testo deve dare l'impressione che Federico stia ragionando davanti al lettore, ma con una struttura più ordinata rispetto al parlato spontaneo. Non produrre un testo perfettamente accademico, burocratico o impersonale. Non renderlo eccessivamente pulito, freddo o artificiale.
@@ -182,6 +182,6 @@ Tipo di testo (post LinkedIn, articolo, script video, pagina web, email, speech,
 Non copiare meccanicamente il parlato di Federico. Produce una versione editoriale della sua voce: più ordinata, più leggibile, più focalizzata, ma ancora autentica, intensa, riconoscibile, concreta. Il risultato deve sembrare scritto da Federico dopo aver avuto il tempo di organizzare bene il proprio pensiero — non da un'intelligenza artificiale che tenta di imitarne le parole.
 
 ## Collegamenti
-[[SOP - Tono e Stile ZirconIA Core]] (voce dell'assistente, distinta da questa), [[Federico Gaudino]], [[Federico Gaudino - Sito]], [[Intervista - Identità Valori e Visione]] — fonte principale per episodi autobiografici reali da usare.
+[[SOP - Tono e Stile ZirkonIA Core]] (voce dell'assistente, distinta da questa), [[Federico Gaudino]], [[Federico Gaudino - Sito]], [[Intervista - Identità Valori e Visione]] — fonte principale per episodi autobiografici reali da usare.
 
 ## Note

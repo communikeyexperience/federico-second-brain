@@ -1,6 +1,6 @@
 # FG SECOND BRAIN — istruzioni per Claude Code
 
-Questo è il second brain personale di **Federico Gaudino** (Obsidian vault + PARA), e anche il **caso pilota di [[ZirconIA]]** — l'azienda "second brain as a service" che Federico sta costruendo. Se questo vault viene copiato/adattato per un cliente reale di ZirconIA, questo file va aggiornato di conseguenza (vedi nota in fondo).
+Questo è il second brain personale di **Federico Gaudino** (Obsidian vault + PARA), e anche il **caso pilota di [[ZirkonIA]]** — l'azienda "second brain as a service" che Federico sta costruendo. Se questo vault viene copiato/adattato per un cliente reale di ZirkonIA, questo file va aggiornato di conseguenza (vedi nota in fondo).
 
 ## All'inizio di ogni sessione
 
@@ -12,7 +12,7 @@ Le 8 modalità operative sono implementate come Claude Code Skill in `.claude/sk
 
 | Skill | Trigger | Quando si applica |
 |---|---|---|
-| `zirconia-core-tone` | *(default)* | Ogni volta che Federico chiede un punto di vista/analisi strategica, non solo esecuzione o ricerca |
+| `zirkonia-core-tone` | *(default)* | Ogni volta che Federico chiede un punto di vista/analisi strategica, non solo esecuzione o ricerca |
 | `educazione` | `EDUCAZIONE`, "modalità educazione", "lancia l'educational" | Federico vuole essere interrogato per consolidare/validare conoscenza nel vault |
 | `mediazione` | `MEDIAZIONE` | Conflitti tra soci, disallineamenti di governance, decisioni multi-parte |
 | `strategia-visione` | `STRATEGIA`, `VISIONE`, "dove potremmo arrivare" | Esplorazione di scenari di crescita/frontiere, non un conflitto da risolvere |
@@ -27,7 +27,7 @@ Se un trigger è ambiguo (potrebbe essere il nome di un progetto/cliente invece 
 
 **Manutenzione — nessuna sincronizzazione automatica**: le note in `02 Aree/SOP e Procedure/` restano la fonte "umana" originale (versionabile, leggibile, modificabile in Obsidian), le Skill in `.claude/skills/` sono la loro controparte eseguibile. Se modifichi una SOP, aggiorna a mano anche la Skill corrispondente (e viceversa) — oggi non c'è alcun meccanismo che le tenga allineate automaticamente.
 
-**Limite di canale**: questo meccanismo vale per sessioni Claude Code aperte in questa cartella (voi, i coach). Il futuro dispositivo fisico di ZirconIA (nome di lavoro "ZirconIA Touch", concetto in ridefinizione dal 2026-07-15 — sostituisce il precedente concept "Cube" da scrivania, vedi [[ZirconIA]] → "Pivot hardware") non passerà da Claude Code e non vedrà queste Skill — per quel canale il contenuto delle SOP va iniettato nel system prompt da un backend dedicato (Modulo B/C, ancora da costruire).
+**Limite di canale**: questo meccanismo vale per sessioni Claude Code aperte in questa cartella (voi, i coach). Il futuro dispositivo fisico di ZirkonIA (nome di lavoro "ZirkonIA Touch", concetto in ridefinizione dal 2026-07-15 — sostituisce il precedente concept "Cube" da scrivania, vedi [[ZirkonIA]] → "Pivot hardware") non passerà da Claude Code e non vedrà queste Skill — per quel canale il contenuto delle SOP va iniettato nel system prompt da un backend dedicato (Modulo B/C, ancora da costruire).
 
 ## Dove sta cosa
 
@@ -35,14 +35,14 @@ Parti da **[[Home]]** come dashboard. Struttura PARA: `00 Inbox` (cattura), `01 
 
 ## Comportamento di default
 
-- Archivia proattivamente nel vault le decisioni prese, le SOP generate, le sintesi di riunioni ("Nodi di Valore") durante conversazioni normali, senza chiedere permesso ogni volta — chiudi il messaggio con un log sintetico delle azioni fatte sui file (vedi addendum in [[SOP - Tono e Stile ZirconIA Core]]).
+- Archivia proattivamente nel vault le decisioni prese, le SOP generate, le sintesi di riunioni ("Nodi di Valore") durante conversazioni normali, senza chiedere permesso ogni volta — chiudi il messaggio con un log sintetico delle azioni fatte sui file (vedi addendum in [[SOP - Tono e Stile ZirkonIA Core]]).
 - Resta invece a chiedere conferma per decisioni realmente ambigue (scelte strutturali di cartelle/tassonomia) o quando manca un dato necessario.
 - **Integrità del grafo, sempre attiva** (vedi [[Processi e Convenzioni]] → "Integrità del grafo — procedura standard"): ogni nota/allegato nuovo va agganciato all'indice della cartella e collegato da almeno una nota; i link verso allegati non-.md includono sempre l'estensione. Se emergono note orfane o allegati scollegati, segnalalo invece di correggere/eliminare in autonomia.
 - Su materie fiscali/legali/societarie: opinione strategica sì, ma dichiarata come tale — mai sostituire un professionista abilitato (commercialista, notaio, legale).
 
-## Nota per il delivery a clienti ZirconIA
+## Nota per il delivery a clienti ZirkonIA
 
 Questo file è scritto su misura per il vault personale di Federico (nomi propri, clienti, gerarchia Business Experience). Per un vault-cliente:
 - Adatta la tabella dei trigger alle SOP realmente presenti in quel vault (non tutte le 6 SOP di Federico sono rilevanti per un cliente esterno — es. Federico Voice Writer è specifica a lui).
 - Sostituisci i riferimenti a "Federico" con il nome del cliente.
-- Questo è il punto di partenza naturale per lo **starter kit clonabile** citato nei "Prossimi passi" di [[ZirconIA]].
+- Questo è il punto di partenza naturale per lo **starter kit clonabile** citato nei "Prossimi passi" di [[ZirkonIA]].

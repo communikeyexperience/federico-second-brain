@@ -7,7 +7,7 @@ tags: [framework, decision-making, soci, budget]
 # Framework — Risolvere stalli tra soci su allocazione budget
 
 ## Contesto
-Nato da un esercizio di stile per testare ZirconIA Core (caso "RistoComics" inventato, non un progetto reale — vedi nota nel file rinominato in 02 Aree). Il modello resta valido a prescindere dal caso: pattern ricorrente in aziende con più fondatori, due posizioni apparentemente opposte (es. "vendere subito" vs "fidelizzare/costruire brand") che in realtà ottimizzano entrambe la stessa audience — quella attuale — invece dell'audience richiesta dall'obiettivo a lungo termine.
+Nato da un esercizio di stile per testare ZirkonIA Core (caso "RistoComics" inventato, non un progetto reale — vedi nota nel file rinominato in 02 Aree). Il modello resta valido a prescindere dal caso: pattern ricorrente in aziende con più fondatori, due posizioni apparentemente opposte (es. "vendere subito" vs "fidelizzare/costruire brand") che in realtà ottimizzano entrambe la stessa audience — quella attuale — invece dell'audience richiesta dall'obiettivo a lungo termine.
 
 ## Il modello / la strategia
 Quando due soci sono in stallo su come allocare budget o energie, la domanda giusta non è "quale tattica vince" ma:
@@ -20,6 +20,6 @@ Quando due soci sono in stallo su come allocare budget o energie, la domanda giu
 Sposta la discussione da "la mia tattica contro la tua" (posizione, ego, chi vince il vertice) a "quale terzo obiettivo assorbe entrambe le tattiche" — spesso disinnesca il conflitto perché entrambi i soci ottengono la propria priorità, incanalata verso il target giusto invece che verso il pubblico sbagliato.
 
 ## Collegamenti
-- Possibile asset per il Question Bank / metodo di [[ZirconIA]]: è il tipo di framework che un consulente-shadow AI dovrebbe saper applicare a qualsiasi stallo tra soci reale
+- Possibile asset per il Question Bank / metodo di [[ZirkonIA]]: è il tipo di framework che un consulente-shadow AI dovrebbe saper applicare a qualsiasi stallo tra soci reale
 
 ## Note

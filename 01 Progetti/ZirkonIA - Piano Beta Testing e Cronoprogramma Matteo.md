@@ -1,18 +1,18 @@
 ---
 data: "2026-07-22"
 tipo: progetto
-tags: [zirconia, beta-testing, cronoprogramma, matteo, pricing]
+tags: [zirkonia, beta-testing, cronoprogramma, matteo, pricing]
 ---
 
-# ZirconIA — Piano Beta Testing e Cronoprogramma Matteo
+# ZirkonIA — Piano Beta Testing e Cronoprogramma Matteo
 
 > Partecipanti: Cristiano Musa, Federico. Registrazione caricata da Federico il 2026-07-22, seconda parte di un ragionamento avviato con Cristiano. Contesto: la duplicazione del vault (Federico → Cristiano → PC personale di Cristiano, terza duplicazione) è considerata conclusa e soddisfacente — si passa ora al primo vero beta tester **esterno**.
 
 ## Cronoprogramma proposto da Cristiano — prima consegna (caso Matteo)
 1. Matteo acquista un abbonamento cloud e gli altri eventuali software indicati da Communikey come necessari.
-2. Communikey conduce con lui la prima parte dell'intervista per "skillare" ZirconIA.
-3. Installazione in locale, sul PC di Matteo, di una versione di ZirconIA già skillata su di lui — il suo second brain diventa operativo.
-4. Il second brain resta skillato da Communikey nel tempo: l'intervista prosegue per apprendere ulteriori caratteristiche di Matteo e continuare a formattare il vault (coerente con il meccanismo di Fase 4/EDUCAZIONE già descritto in [[ZirconIA]]).
+2. Communikey conduce con lui la prima parte dell'intervista per "skillare" ZirkonIA.
+3. Installazione in locale, sul PC di Matteo, di una versione di ZirkonIA già skillata su di lui — il suo second brain diventa operativo.
+4. Il second brain resta skillato da Communikey nel tempo: l'intervista prosegue per apprendere ulteriori caratteristiche di Matteo e continuare a formattare il vault (coerente con il meccanismo di Fase 4/EDUCAZIONE già descritto in [[ZirkonIA]]).
 5. Matteo si occupa di mantenere attivi gli abbonamenti (cloud + altri software indicati).
 
 ## Il ragionamento di startupping di Federico — ladder a fasi
@@ -20,7 +20,7 @@ Federico propone di scegliere **5-6 beta tester** in totale, distribuiti su fasc
 
 **Fascia 0 — zero fee, veri beta test**: persone molto vicine e "controllabili" nella rete di ricerca di Federico, che Communikey può supervisionare da vicino. Pagano solo le spese esterne (abbonamenti), nessuna fee riconosciuta a Communikey. Esempi citati: **Sanja** (Sany Nail & Beauty) e **Daniela/Dani**.
 
-**Fascia 1 — ~10% fee**: persone un po' più esterne ma comunque di fiducia. Pagano le spese esterne + riconoscono a Communikey una fee. Esempi citati: **Matteo**, **Annalisa Pinna**, **Riccardo Fagioli**, "o altre persone". Federico cita una cifra — trascritta come "500.000 €" — quasi certamente un errore di trascrizione automatica (vedi Punto aperto sotto): il 10% del prezzo Entry attuale di ZirconIA (€4.500, vedi [[ZirconIA]] → Offerta e pricing) sarebbe **~450€**, molto più coerente con un "10% fee" su un test beta che una cifra a sei zeri.
+**Fascia 1 — ~10% fee**: persone un po' più esterne ma comunque di fiducia. Pagano le spese esterne + riconoscono a Communikey una fee. Esempi citati: **Matteo**, **Annalisa Pinna**, **Riccardo Fagioli**, "o altre persone". Federico cita una cifra — trascritta come "500.000 €" — quasi certamente un errore di trascrizione automatica (vedi Punto aperto sotto): il 10% del prezzo Entry attuale di ZirkonIA (€4.500, vedi [[ZirkonIA]] → Offerta e pricing) sarebbe **~450€**, molto più coerente con un "10% fee" su un test beta che una cifra a sei zeri.
 
 **Fascia 2 — 30-50% fee, o deployment reale**: clienti già "un pochettino più avanzati", dopo aver superato le prime due fasce. Esempio citato per il deployment reale: **Stefano (Vacca, Centro Dentale 2EMME)** — a cui verrebbe venduto un prodotto "completo, finalizzato" (forse senza la personalizzazione/skin delle fasce precedenti), dopo che il prodotto è stato validato tramite le fasce 0-1. Il cliente sceglie da sé lo strumento AI (Claude Code, Perplexity, ecc.), Communikey installa il brain e fornisce incontri di supporto allo sviluppo successivi.
 
@@ -28,8 +28,8 @@ Federico propone di scegliere **5-6 beta tester** in totale, distribuiti su fasc
 
 **Chiusura di Federico**: la fascia 0 sono i "beta tester veri e propri"; le fasce successive sono clienti a tutti gli effetti, anche se su una versione ancora beta del prodotto — descritto come "una cosa abbastanza normale" per questa fase.
 
-## Lettura — come si incastra con quanto già deciso su ZirconIA
-Questa ladder (0% → ~10% → 30-50% → 100%) è, di fatto, il primo abbozzo concreto di una **scala di pricing progressiva** che non era stata formalizzata prima in [[ZirconIA]] (dove oggi esiste solo il prezzo pieno Entry/Pro, €4.500/€6.000). Vale la pena portarla a un vero e proprio listino a gradini, non lasciarla implicita in una conversazione.
+## Lettura — come si incastra con quanto già deciso su ZirkonIA
+Questa ladder (0% → ~10% → 30-50% → 100%) è, di fatto, il primo abbozzo concreto di una **scala di pricing progressiva** che non era stata formalizzata prima in [[ZirkonIA]] (dove oggi esiste solo il prezzo pieno Entry/Pro, €4.500/€6.000). Vale la pena portarla a un vero e proprio listino a gradini, non lasciarla implicita in una conversazione.
 
 ## Aggiornamento 2026-07-22 (seguito) — decisioni prese da Federico
 - **Matteo confermato**: è **Matteo Gaudino** (fratello di Federico), non Matteo Collu.
@@ -44,7 +44,7 @@ Questa ladder (0% → ~10% → 30-50% → 100%) è, di fatto, il primo abbozzo c
 - **Alessandro confermato**: è **Alessandro Gaudino** (cugino di Federico, Tuttomedia Srl), non un "Gino" separato.
 - **Daniela chiarita**: è un'amica di Cristiano (la battuta su "futura moglie" era solo una battuta).
 - **Fascia 0 ristretta**: per ora **solo Sanja** — il resto (compreso lo slot lasciato in sospeso) resta da valutare, non ancora deciso.
-- **Modello account AI — risposta di merito dopo ricerca**: verificato che i Consumer Terms of Service di Anthropic vietano esplicitamente la condivisione/messa a disposizione di un account ad altri ("You may not... make your Account available to anyone else") — la versione informale del modello "Communikey apre gli account e li dà in gestione" **non è percorribile**. Esiste però una via legittima tramite i Commercial Terms/API (lo stesso schema di "Powered by Claude"/Claude Service Partners), che coincide con il Modulo B/C già ipotizzato in [[ZirconIA]] → "Architettura MVP". Analisi completa in [[Analisi - Modello di gestione account AI per i clienti ZirconIA]]. **Per ora**: ogni beta tester apre il proprio account Claude/Claude Code, Communikey lo affianca nella sessione di onboarding per ridurre l'attrito.
+- **Modello account AI — risposta di merito dopo ricerca**: verificato che i Consumer Terms of Service di Anthropic vietano esplicitamente la condivisione/messa a disposizione di un account ad altri ("You may not... make your Account available to anyone else") — la versione informale del modello "Communikey apre gli account e li dà in gestione" **non è percorribile**. Esiste però una via legittima tramite i Commercial Terms/API (lo stesso schema di "Powered by Claude"/Claude Service Partners), che coincide con il Modulo B/C già ipotizzato in [[ZirkonIA]] → "Architettura MVP". Analisi completa in [[Analisi - Modello di gestione account AI per i clienti ZirkonIA]]. **Per ora**: ogni beta tester apre il proprio account Claude/Claude Code, Communikey lo affianca nella sessione di onboarding per ridurre l'attrito.
 
 ## Punti aperti — da chiarire con Federico, non risolti qui
 - **Chi è "Alessandro"/"Gino"?** Federico nomina prima Alessandro poi si corregge in "Gino? Sì, sì lui" per il posto Fascia 1 a scambio (spazio di rappresentanza). Non chiaro se sia **Alessandro Gaudino** (cugino di Federico, titolare Tuttomedia Srl) o una persona diversa di nome Gino, non presente altrove in questo vault. Da chiarire prima di contattare chiunque.
@@ -57,10 +57,10 @@ Questa ladder (0% → ~10% → 30-50% → 100%) è, di fatto, il primo abbozzo c
 ## Aggiornamento 2026-07-29 — fascia Stefano Vacca confermata e struttura in due fasi
 Nella sessione di lavoro sul preventivo 2026-27 per [[Centro Dentale 2EMME]], Federico ha confermato due punti che restavano aperti su questa nota:
 - **Fascia Fascia 2 per Stefano Vacca: 50%** (non "30-50%" generico né il 30% ipotizzato da Cristiano in trascrizione) sul pacchetto Entry (€4.500 → €2.250 una tantum + €900/anno dal 2° anno).
-- **Struttura in due fasi, non un'unica consegna**: Fase 1 — ZirconIA **Personale** per Stefano Vacca stesso, come "cervello" del centro e utilizzatore primario. Fase 2 (prospettiva, non prezzata) — un secondo ZirconIA **Aziendale/Company Brain**, orientato all'operatività dello staff, sviluppato in un secondo momento a partire dai protocolli aziendali del centro (collegato al lavoro "Cultura Interna" del piano 2026-27). Vedi [[2EMME - Piano di Lavoro e Preventivo 2026-2027]].
+- **Struttura in due fasi, non un'unica consegna**: Fase 1 — ZirkonIA **Personale** per Stefano Vacca stesso, come "cervello" del centro e utilizzatore primario. Fase 2 (prospettiva, non prezzata) — un secondo ZirkonIA **Aziendale/Company Brain**, orientato all'operatività dello staff, sviluppato in un secondo momento a partire dai protocolli aziendali del centro (collegato al lavoro "Cultura Interna" del piano 2026-27). Vedi [[2EMME - Piano di Lavoro e Preventivo 2026-2027]].
 
 ## Collegamenti
-- [[ZirconIA]]
+- [[ZirkonIA]]
 - [[Persone]]
 - [[Riccardo Fagioli]]
 - [[Centro Dentale 2EMME]]

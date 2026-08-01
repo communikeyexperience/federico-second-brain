@@ -11,7 +11,7 @@ tags: [sistema, indice]
 - [[Communikey Experience]]
 - [[Content Pipeline]]
 - [[Il Ricciolo]]
-- [[ZirconIA]]
+- [[ZirkonIA]]
 
 **Sottocartelle:**
 - [[02 Aree/Coaching - Conoscenza/_index|Coaching - Conoscenza]]

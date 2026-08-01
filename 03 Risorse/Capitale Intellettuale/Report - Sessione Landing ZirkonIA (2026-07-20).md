@@ -1,20 +1,20 @@
 ---
 tipo: risorsa
-tags: [zirconia, report, landing-page, positioning, sessione]
+tags: [zirkonia, report, landing-page, positioning, sessione]
 data: "2026-07-20"
-summary: "Report della sessione di lavoro sul deployment/landing ZirconIA del 2026-07-20: dalla ricerca Apple/Jobs alla promessa 'capitale', tagline latina, dieci personas con headline, struttura landing e lancio completo. Con decisioni prese, scarti e prossimi passi."
+summary: "Report della sessione di lavoro sul deployment/landing ZirkonIA del 2026-07-20: dalla ricerca Apple/Jobs alla promessa 'capitale', tagline latina, dieci personas con headline, struttura landing e lancio completo. Con decisioni prese, scarti e prossimi passi."
 ---
 
-# Report — Sessione Landing ZirconIA (2026-07-20)
+# Report — Sessione Landing ZirkonIA (2026-07-20)
 
 ## Gancio
 In una sessione siamo passati da "che headline mettiamo sulla landing?" a un sistema di comunicazione completo: una promessa, un sigillo, dieci personas con la loro riga di lancio, e la struttura della pagina. Manca solo la decisione finale di validazione — e la landing scritta.
 
 ## Percorso e decisioni
 
-**1. Metodo (ricerca Apple/Jobs)** — Quattro principi estratti e applicati: beneficio non feature ("1000 canzoni in tasca", non "5GB"), narrativa del villain (il nemico rende viscerale il beneficio), headline unica ripetuta (non candidati in parallelo), regola del tre. Nota: [[Strategia - Angoli d'Attacco Landing ZirconIA (metodo Apple-Jobs)]].
+**1. Metodo (ricerca Apple/Jobs)** — Quattro principi estratti e applicati: beneficio non feature ("1000 canzoni in tasca", non "5GB"), narrativa del villain (il nemico rende viscerale il beneficio), headline unica ripetuta (non candidati in parallelo), regola del tre. Nota: [[Strategia - Angoli d'Attacco Landing ZirkonIA (metodo Apple-Jobs)]].
 
-**2. La promessa (svolta della sessione)** — Federico sposta il fuoco: non vendiamo un alleato AI, vendiamo un **capitale informativo che si accumula** — memoria persistente, proprietaria, architetturalmente fuori portata per le AI generiche (non hanno la materia prima). Scala temporale: a 3 mesi il manuale operativo + forza negoziale; a 1 anno la fabbrica di derivati (libro, playbook, passaggio generazionale, data room, content engine, protocolli, narrazione d'impresa); a 10 anni l'eredità. Nota: [[Strategia - Cosa Vendiamo Davvero (Capitale di Informazioni ZirconIA)]].
+**2. La promessa (svolta della sessione)** — Federico sposta il fuoco: non vendiamo un alleato AI, vendiamo un **capitale informativo che si accumula** — memoria persistente, proprietaria, architetturalmente fuori portata per le AI generiche (non hanno la materia prima). Scala temporale: a 3 mesi il manuale operativo + forza negoziale; a 1 anno la fabbrica di derivati (libro, playbook, passaggio generazionale, data room, content engine, protocolli, narrazione d'impresa); a 10 anni l'eredità. Nota: [[Strategia - Cosa Vendiamo Davvero (Capitale di Informazioni ZirkonIA)]].
 
 **3. Le parole scelte — testi esatti**:
 
@@ -24,7 +24,7 @@ In una sessione siamo passati da "che headline mettiamo sulla landing?" a un sis
 - Altri candidati promessa generati (in riserva): "Vent'anni d'impresa. In una domanda." / "Ogni riunione che fai diventa capitale." / "La tua esperienza, finalmente un patrimonio."
 - Struttura landing: headline → sub sul doppio rendimento → blocco a tre (**cosa crei** / **cosa risparmi** / **cosa resta**) → sigillo.
 
-**4. Le dieci personas — con le headline definitive** (versione scelta da Federico; dettaglio completo con dolore/capitale/derivato killer/gancio in [[Strategia - Personas Acquirenti ZirconIA]]):
+**4. Le dieci personas — con le headline definitive** (versione scelta da Federico; dettaglio completo con dolore/capitale/derivato killer/gancio in [[Strategia - Personas Acquirenti ZirkonIA]]):
 
 1. **Ristoratore** — *"Apri il prossimo locale con dieci anni di esperienza già dentro."* (derivato killer: playbook per il nuovo locale)
 2. **Parrucchiere-impresa** — *"Una vita di mestiere, consegnata a tua figlia in un giorno."* (passaggio generazionale — caso vivente: Il Ricciolo)
@@ -52,7 +52,7 @@ Pattern comune del dolore: **"l'azienda sono io — insieme orgoglio e gabbia"**
 >
 > Le tue parole diventano capitale.
 > *Verba volant, data manent.*
-> **ZirconIA.**
+> **ZirkonIA.**
 
 **6. Regole di copy fissate**:
 - Mai numeri sopra ~10 anni ("40 anni" esclude chi ne ha 10-12); preferire formule vaghe che scalano da sole ("una vita di", "i tuoi") — correzione esplicita di Federico
@@ -69,7 +69,7 @@ Due cose restano deliberatamente aperte, e vanno chiuse nell'ordine giusto. Prim
 - 📦 Non ancora toccato (dal brief originale di Federico): pacco di consegna, playbook, ordine materiali/asset, presentazione
 
 ## Collegamenti
-- [[ZirconIA]] — area principale (aggiornata con tutti i rimandi)
-- [[Strategia - Angoli d'Attacco Landing ZirconIA (metodo Apple-Jobs)]]
-- [[Strategia - Cosa Vendiamo Davvero (Capitale di Informazioni ZirconIA)]]
-- [[Strategia - Personas Acquirenti ZirconIA]]
+- [[ZirkonIA]] — area principale (aggiornata con tutti i rimandi)
+- [[Strategia - Angoli d'Attacco Landing ZirkonIA (metodo Apple-Jobs)]]
+- [[Strategia - Cosa Vendiamo Davvero (Capitale di Informazioni ZirkonIA)]]
+- [[Strategia - Personas Acquirenti ZirkonIA]]

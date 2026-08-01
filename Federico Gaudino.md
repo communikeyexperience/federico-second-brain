@@ -27,7 +27,7 @@ Oggi è anche **coach professionista** e **content specialist/copywriter**, con 
 | **2020 – 2024** | Attivo a Dubai/Italia nel settore immobiliare internazionale — collaborazioni con più società, tra cui una co-fondata con [[Persone|Davide Franco Gallo]] e [[Persone|Carlo Abbiati]], e **Dubai Investment For You** (sede Parigi, operativa Italia-Dubai). Su LinkedIn come "gaudino Investment", collegato a Immobilia Real Estate | Investimenti immobiliari a Dubai (ruolo: Investitore e Partner) — precisato 2026-07-09, vedi [[Persone]] |
 | — | Fonda **Business Experience Srl** con Monia Boncioli (Agrate Brianza) — investimenti immobiliari in Sardegna, corridoio Dubai-Sardegna → [[Business Experience]] |
 | — | Radici di famiglia nel real estate: **Gaudino Costruzioni S.R.L.** (azienda del padre, in cui ha lavorato), di cui **Sardinia Investment** è il ramo commerciale |
-| **Oggi** | Coach professionista e content specialist/copywriter presso [[Coach Academy Cagliari]]; clienti in content & copywriting ([[Centro Dentale 2EMME]], [[626 School]], [[Riccardo Fagioli]]); in costruzione **ZirconIA**, azienda di "second brain as a service" di cui questo vault è il caso pilota → [[ZirconIA]] |
+| **Oggi** | Coach professionista e content specialist/copywriter presso [[Coach Academy Cagliari]]; clienti in content & copywriting ([[Centro Dentale 2EMME]], [[626 School]], [[Riccardo Fagioli]]); in costruzione **ZirkonIA**, azienda di "second brain as a service" di cui questo vault è il caso pilota → [[ZirkonIA]] |
 
 ## Voce e scrittura
 Quando scrivo testi a nome tuo (post, articoli, speech), applico [[SOP - Federico Voice Writer]] — la skill che riproduce il tuo modo di pensare, il tuo lessico e il tuo ritmo, non solo espressioni tipiche.
@@ -37,7 +37,7 @@ Federico sta caricando testi/libri che considera basi della propria conoscenza, 
 - [[Libro - Il Gioco Infinito (Simon Sinek)]] — framework Giochi Finiti/Infiniti, Giusta Causa, particolarmente in risonanza con l'eredità intellettuale descritta in [[Intervista - Orizzonte, Missione e Impatto]]
 - [[Libro - Chi ha spostato il mio formaggio (Spencer Johnson)]] — parabola breve sul cambiamento, coppia naturale con il Gioco Infinito: stessa lezione a livello psicologico individuale invece che strategico
 - [[Libro - Le sette regole per avere successo (Stephen Covey)]] — le 7 regole (proattività → sinergia), conferma indipendente del principio "vincere/vincere" già codificato in [[SOP - Mediazione]] dopo la trattativa Monia
-- [[Libro - Le armi della persuasione (Robert Cialdini)]] — le 6 armi (reciprocità, coerenza, riprova sociale, simpatia, autorità, scarsità), collegata direttamente alla sezione "Prova sociale" di [[ZirconIA]]
+- [[Libro - Le armi della persuasione (Robert Cialdini)]] — le 6 armi (reciprocità, coerenza, riprova sociale, simpatia, autorità, scarsità), collegata direttamente alla sezione "Prova sociale" di [[ZirkonIA]]
 
 ## Vita privata
 Sposato con **Sanja Rakitnican**, croata di Zagabria — vedi [[Persone]]. Si sono conosciuti il 5 gennaio 2016, sposati il 3 settembre 2022. Nell'intervista del 2026-07-03 la definisce parte centrale del suo concetto di successo personale: "stare bene con la moglie, con la famiglia".
@@ -45,7 +45,7 @@ Sposato con **Sanja Rakitnican**, croata di Zagabria — vedi [[Persone]]. Si so
 **Aggiornamento 2026-07-06**: nell'intervista "Orizzonte, Missione e Impatto" dichiara di aver rinunciato, per dedicarsi ai suoi progetti, alla possibilità/volontà di costruire una famiglia "tradizionale" con figli — consapevole che potrebbe un giorno pentirsene. Precisazione di contesto: la rinuncia riguarda specificamente la genitorialità, non il matrimonio in sé (è sposato dal 2022) — nessuna contraddizione tra i due dati.
 
 ## Valori e visione
-<!-- Da intervista del 2026-07-03, prima applicazione del protocollo di Profilazione Profonda ZirconIA -->
+<!-- Da intervista del 2026-07-03, prima applicazione del protocollo di Profilazione Profonda ZirkonIA -->
 Si definisce un sognatore con valori sani: giustizia sociale/filantropia, unione tra sapere e creazione del bello, ambizione non egoistica ma orientata a lasciare un segno concreto. Punti di forza: resilienza, coraggio, creatività trasversale. Ostacolo riconosciuto: incostanza / troppi progetti in parallelo, letta come tratto di una mente che ha bisogno di varietà. Successo professionale = numeri/valore creato; successo personale = serenità familiare. Intervista completa in [[Intervista - Identità Valori e Visione]].
 
 **Il DNA trasversale a tutti i progetti** (confermato 2026-07-03): approccio creativo e fortemente orientato all'innovazione — si descrive anche come designer, che ambisce a mettere a terra progetti ultra-competitivi con caratteristiche uniche, appetibili per investitori giovani e lungimiranti (sia fiscalmente che in termini di performance). A questo affianca **competenze da investitore professionale**, sviluppate in anni di piani di investimento in **spread trading** — conosce la metodologia di questo approccio.
@@ -53,7 +53,7 @@ Si definisce un sognatore con valori sani: giustizia sociale/filantropia, unione
 ## Eredità, missione a lungo termine e "Genesi" (2026-07-06)
 Vuole codificare nei prossimi 5-10 anni un sapere operativo — **"The Success Molecula" / "La Molecola del Successo"** — in un libro o supporto digitale, come eredità intellettuale trasmissibile (già introdotta come cultura aziendale in [[Intervista - Il Campo di Battaglia, Strategia e Team]], qui approfondita come eredità personale). Il suo "Oceano Blu" dichiarato: innovazione metodologica applicata a settori tradizionali (import di modelli da Dubai, IA, strategia militare riadattata al business).
 
-**Precedente diretto e non ovvio — progetto "Genesi" (~15 anni fa)**: con ANTdesign e **Giuseppe Spadaccino**, Federico creò un tavolino-cubo di metallo saldato (esiste ancora fisicamente) contenente una chiavetta USB da 16GB con un file di sintesi della storia dell'umanità — una capsula del tempo. Federico stesso lo descrive come precedente concettuale diretto di [[ZirconIA]] e del suo Cube fisico — materiale di narrazione/brand potenzialmente forte. Dettagli in [[Intervista - Orizzonte, Missione e Impatto]].
+**Precedente diretto e non ovvio — progetto "Genesi" (~15 anni fa)**: con ANTdesign e **Giuseppe Spadaccino**, Federico creò un tavolino-cubo di metallo saldato (esiste ancora fisicamente) contenente una chiavetta USB da 16GB con un file di sintesi della storia dell'umanità — una capsula del tempo. Federico stesso lo descrive come precedente concettuale diretto di [[ZirkonIA]] e del suo Cube fisico — materiale di narrazione/brand potenzialmente forte. Dettagli in [[Intervista - Orizzonte, Missione e Impatto]].
 
 **Secondo precedente storico, stesso periodo (2026-07-20)**: [[Progetto Storico - Total Sense (ANTdesign)|Total Sense]], concept di spettacolo immersivo a 360° (schermi/audio a 4 vie, ripresa multi-camera) mai sviluppato oltre la fase di concept. Tema di fondo simile a Genesi — rendere un'esperienza portabile/immersiva oltre il suo contesto originale — osservazione non ancora confermata da Federico come pattern consapevole.
 
@@ -64,7 +64,7 @@ Vuole codificare nei prossimi 5-10 anni un sapere operativo — **"The Success M
 ## Aree di attività — gerarchia CONFERMATA 2026-07-03
 [[Business Experience]] è il "cappello" generale, declinato in verticali:
 - **[[Business Experience]]** (ombrello) → [[Apollo Residence - Assemini]] (costruzione/immobiliare), Case Resilienti (concept, case modulari antisismiche/anti-disastro)
-- **[[Communikey Experience]]** (comunicazione, verticale di Business Experience) → **[[ZirconIA]]** (il suo progetto tecnologico) + clienti paganti di comunicazione ([[Riccardo Fagioli]], [[Coach Academy Cagliari]], [[Centro Dentale 2EMME]]) + prospect [[SYRVE]]
+- **[[Communikey Experience]]** (comunicazione, verticale di Business Experience) → **[[ZirkonIA]]** (il suo progetto tecnologico) + clienti paganti di comunicazione ([[Riccardo Fagioli]], [[Coach Academy Cagliari]], [[Centro Dentale 2EMME]]) + prospect [[SYRVE]]
 - **Coaching** — pratica interna (non erogata a clienti esterni), applicata dentro i processi di Communikey Experience e nello staff → vedi [[Coaching - Conoscenza]]
 - **Brand personale** — sito portfolio e posizionamento pubblico
 

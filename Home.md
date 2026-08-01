@@ -24,7 +24,7 @@ tipo: home
 
 ## 🧭 Aree (responsabilità continue)
 - [[Business Experience]]
-- [[ZirconIA]]
+- [[ZirkonIA]]
 - [[Coaching - Conoscenza]]
 - [[Content Pipeline]]
 - [[Il Ricciolo]]

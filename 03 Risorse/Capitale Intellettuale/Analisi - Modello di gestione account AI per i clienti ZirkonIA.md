@@ -1,13 +1,13 @@
 ---
 data: "2026-07-22"
 tipo: capitale-intellettuale
-tags: [zirconia, anthropic, tos, account, modello-di-business]
+tags: [zirkonia, anthropic, tos, account, modello-di-business]
 ---
 
-# Analisi — Modello di gestione account AI per i clienti ZirconIA
+# Analisi — Modello di gestione account AI per i clienti ZirkonIA
 
 ## Il bivio
-Nel piano di beta testing ([[ZirconIA - Piano Beta Testing e Cronoprogramma Matteo]]), Federico ha posto una domanda di fondo: i clienti/beta tester devono aprire e gestire da soli i propri account Claude/Claude Code, oppure Communikey può aprirli e "darli in gestione" dietro una quota mensile, semplificando l'esperienza per un target che ha bassa familiarità tecnologica (coerente con l'ICP dichiarato di ZirconIA)?
+Nel piano di beta testing ([[ZirkonIA - Piano Beta Testing e Cronoprogramma Matteo]]), Federico ha posto una domanda di fondo: i clienti/beta tester devono aprire e gestire da soli i propri account Claude/Claude Code, oppure Communikey può aprirli e "darli in gestione" dietro una quota mensile, semplificando l'esperienza per un target che ha bassa familiarità tecnologica (coerente con l'ICP dichiarato di ZirkonIA)?
 
 ## Cosa dicono i Termini di Servizio di Anthropic (verificato 2026-07-22)
 Dai **Consumer Terms of Service** (anthropic.com/legal/consumer-terms, versione effettiva 8 ottobre 2025):
@@ -23,7 +23,7 @@ E tra gli usi vietati dei Servizi:
 ## La via che invece esiste
 I Termini Commerciali (Commercial Terms of Service, per chi usa API key/Console) permettono esplicitamente di costruire prodotti e servizi che "power" (alimentano) prodotti offerti ai propri clienti finali — è la base legale di modelli come "Powered by Claude" e del programma Claude Partner Network / Service Partners che Anthropic stessa promuove per agenzie e system integrator.
 
-**Traduzione pratica per ZirconIA**: la domanda giusta non è "chi possiede l'account Claude.ai", ma "ZirconIA è un prodotto proprio costruito sopra l'API (percorso legittimo e scalabile), o è gente che si passa un login di Claude.ai/Claude Code (vietato)?". La prima strada coincide, non a caso, con quanto già ipotizzato in [[ZirconIA]] → "Architettura MVP — accesso multi-device per early user": un backend (Modulo B/C) che legge il vault, inietta il system prompt/skill, chiama l'API Claude e scrive le risposte nel vault — lì il cliente non ha mai bisogno di un proprio account Claude.ai, perché non ne vede uno: usa l'interfaccia di ZirconIA.
+**Traduzione pratica per ZirkonIA**: la domanda giusta non è "chi possiede l'account Claude.ai", ma "ZirkonIA è un prodotto proprio costruito sopra l'API (percorso legittimo e scalabile), o è gente che si passa un login di Claude.ai/Claude Code (vietato)?". La prima strada coincide, non a caso, con quanto già ipotizzato in [[ZirkonIA]] → "Architettura MVP — accesso multi-device per early user": un backend (Modulo B/C) che legge il vault, inietta il system prompt/skill, chiama l'API Claude e scrive le risposte nel vault — lì il cliente non ha mai bisogno di un proprio account Claude.ai, perché non ne vede uno: usa l'interfaccia di ZirkonIA.
 
 ## Implicazione per la fase attuale (beta tester)
 Per Matteo e i primi beta tester, il Modulo B/C via API non esiste ancora (è un "prossimo passo" aperto). Nel frattempo, l'unica strada compatibile con i Termini è: **ogni beta tester apre il proprio account Claude/Claude Code, a proprio nome** — Communikey può ridurre l'attrito facendolo insieme a loro nella stessa sessione di intervista/onboarding (non un problema di regole, solo di assistenza pratica), ma l'account resta legalmente suo.
@@ -31,8 +31,8 @@ Per Matteo e i primi beta tester, il Modulo B/C via API non esiste ancora (è un
 L'idea di "account gestiti da noi a canone" resta valida come traguardo, ma richiede di costruire prima il Modulo B/C sull'API commerciale — non è qualcosa che si può improvvisare oggi con account consumer.
 
 ## Collegamenti
-- [[ZirconIA - Piano Beta Testing e Cronoprogramma Matteo]]
-- [[ZirconIA]]
+- [[ZirkonIA - Piano Beta Testing e Cronoprogramma Matteo]]
+- [[ZirkonIA]]
 - [[Punti Aperti]]
 
 Fonti: [Anthropic — Consumer Terms of Service](https://www.anthropic.com/legal/consumer-terms), [Anthropic — Commercial Terms of Service](https://www.anthropic.com/legal/commercial-terms), [Claude — Service Partners](https://claude.com/partners/services), [Claude — Powered by Claude](https://claude.com/partners/powered-by-claude).

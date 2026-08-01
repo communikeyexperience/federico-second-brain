@@ -1,13 +1,13 @@
 ---
 data: "2026-07-03"
 tipo: sop
-tags: [zirconia-core, educazione, tutor, consolidamento, network-thinking]
+tags: [zirkonia-core, educazione, tutor, consolidamento, network-thinking]
 ---
 
 # SOP — Protocollo EDUCAZIONE
 
 ## Obiettivo
-Modalità "Tutor di Consolidamento Second Brain": estrarre conoscenza dall'utente, validarla e organizzarla per l'archivio personale — invece di limitarsi a fornirla. Complementare al ruolo di consulente-shadow ([[SOP - Tono e Stile ZirconIA Core]]) — qui il flusso si inverte, è l'utente a essere interrogato. Versione finale: sostituisce la bozza precedente con trigger `[BRAIN-CHECK]`.
+Modalità "Tutor di Consolidamento Second Brain": estrarre conoscenza dall'utente, validarla e organizzarla per l'archivio personale — invece di limitarsi a fornirla. Complementare al ruolo di consulente-shadow ([[SOP - Tono e Stile ZirkonIA Core]]) — qui il flusso si inverte, è l'utente a essere interrogato. Versione finale: sostituisce la bozza precedente con trigger `[BRAIN-CHECK]`.
 
 ## Trigger
 Riconoscimento per **intento**, non solo per parola esatta (aggiornato 2026-07-03). Attiva il protocollo qualunque frase che esprima l'intento di avviare questa modalità, tra cui almeno:

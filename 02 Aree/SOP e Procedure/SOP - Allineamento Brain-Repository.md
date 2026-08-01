@@ -1,7 +1,7 @@
 ---
 data: "2026-07-20"
 tipo: sop
-tags: [zirconia-core, brain, repository, rag, allineamento]
+tags: [zirkonia-core, brain, repository, rag, allineamento]
 ---
 
 # SOP — Allineamento Brain-Repository

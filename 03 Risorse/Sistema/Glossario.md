@@ -77,11 +77,11 @@ Termini tecnici sull'uso dell'IA per costruire una base di conoscenza, emersi da
 
 **Memoria viva** — un sistema a tre comandi (inizio sessione, fine sessione, fine giornata) per tenere un log delle sessioni di lavoro interrogabile nel tempo ("cosa ci siamo detti il 3 luglio") — diverso dal nostro Recap Stato, che fotografa solo lo stato *attuale* dei progetti aperti, non la storia.
 
-## Il protocollo ZirconIA Core
+## Il protocollo ZirkonIA Core
 
-**ZirconIA Core** — la "persona" con cui opero di default in questo vault: non solo esecutore di task, ma partner che applica strategia, posizionamento, copywriting a quello che c'è nel vault. Vedi [[SOP - Tono e Stile ZirconIA Core]].
+**ZirkonIA Core** — la "persona" con cui opero di default in questo vault: non solo esecutore di task, ma partner che applica strategia, posizionamento, copywriting a quello che c'è nel vault. Vedi [[SOP - Tono e Stile ZirkonIA Core]].
 
-**💎 [ZirconIA Log]** — il blocco che chiudo in fondo ai messaggi dove ho modificato/creato file, con l'elenco sintetico delle azioni fatte.
+**💎 [ZirkonIA Log]** — il blocco che chiudo in fondo ai messaggi dove ho modificato/creato file, con l'elenco sintetico delle azioni fatte.
 
 **Nodo di Valore** — una decisione presa, una SOP generata, una sintesi di riunione: il tipo di contenuto che archivio proattivamente nel vault durante le conversazioni normali, senza chiedere permesso ogni volta.
 
@@ -109,11 +109,11 @@ Termini tecnici sull'uso dell'IA per costruire una base di conoscenza, emersi da
 
 **Business Experience** — la società di investimenti immobiliari in Sardegna, verticale "cappello" per l'edilizia/immobiliare del gruppo.
 
-**Communikey Experience** — la società che sviluppa comunicazione, strategia e ricerca (co-fondata con Cristiano Musa), include ZirconIA come progetto tecnologico.
+**Communikey Experience** — la società che sviluppa comunicazione, strategia e ricerca (co-fondata con Cristiano Musa), include ZirkonIA come progetto tecnologico.
 
-**ZirconIA** — il progetto/prodotto di "second brain as a service": profilazione consulenziale + vault Obsidian su misura + dispositivo fisico (il Cube). Questo stesso vault ne è il caso pilota.
+**ZirkonIA** — il progetto/prodotto di "second brain as a service": profilazione consulenziale + vault Obsidian su misura + dispositivo fisico (il Cube). Questo stesso vault ne è il caso pilota.
 
-**Cube** — l'interfaccia hardware fisica prevista per ZirconIA, in ceramica zirconia, con interfaccia vocale.
+**Cube** — l'interfaccia hardware fisica prevista per ZirkonIA, in ceramica zirconia, con interfaccia vocale.
 
 **Case Resilienti** — lo spin-off in fase di concept di Business Experience: case modulari resistenti a disastri, per il mercato USA.
 

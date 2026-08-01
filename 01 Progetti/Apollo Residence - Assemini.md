@@ -48,7 +48,7 @@ Documento di presentazione creato per Nicola (pratica microcredito, vedi [[Busin
 ## Numeri economici (confermato 2026-07-03)
 - **Costo totale progetto**: ~€950.000
 - **Ricavo previsto (stima media)**: ~€1.200.000
-- **Margine lordo stimato**: ~€250.000 (~26% sul costo, ~21% sul ricavo) — *calcolo ZirconIA su dati forniti da Federico, da verificare con lui che rientri costi di costruzione + oneri + commercializzazione, non solo costruzione*
+- **Margine lordo stimato**: ~€250.000 (~26% sul costo, ~21% sul ricavo) — *calcolo ZirkonIA su dati forniti da Federico, da verificare con lui che rientri costi di costruzione + oneri + commercializzazione, non solo costruzione*
 
 ## Investitori
 | Nome | Città | Importo | Rendita | Note |
@@ -103,7 +103,7 @@ Federico è **founder e gestore** del progetto, e **proprietario all'80%** di Bu
 Render e planimetrie pronti (materiale commerciale/deck). Iter burocratico in corso presso il Comune di Assemini (vedi sopra) — costruzione non ancora avviata.
 
 ## Idea prodotto — reportistica cantiere in tempo reale (2026-07-04)
-Emersa nell'intervista "Il Campo di Battaglia": Federico immagina un sistema di reportistica/survey di cantiere avanzato, con una "barra di caricamento" virtuale dell'immobile per dare ai clienti acquirenti un monitoraggio in tempo reale dell'avanzamento lavori. Idea di prodotto nuova, non ancora sviluppata — potenziale sinergia con [[ZirconIA]]. Vedi [[Intervista - Il Campo di Battaglia, Strategia e Team]].
+Emersa nell'intervista "Il Campo di Battaglia": Federico immagina un sistema di reportistica/survey di cantiere avanzato, con una "barra di caricamento" virtuale dell'immobile per dare ai clienti acquirenti un monitoraggio in tempo reale dell'avanzamento lavori. Idea di prodotto nuova, non ancora sviluppata — potenziale sinergia con [[ZirkonIA]]. Vedi [[Intervista - Il Campo di Battaglia, Strategia e Team]].
 
 ## Presenza online
 Federico indica una landing page su business-experience.it, ma **non trovata**: né in homepage né nella pagina "Opportunità" c'è menzione di Apollo Residence, e una ricerca mirata (anche `site:business-experience.it Assemini`) non ha restituito risultati. Possibile che non sia ancora indicizzata, o che l'URL non sia linkato dal menu principale — serve il link diretto da Federico.

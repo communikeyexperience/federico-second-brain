@@ -5,7 +5,7 @@ description: Scrive, riscrive e adatta testi nella voce comunicativa personale d
 
 # Federico Voice Writer
 
-Fonte: `02 Aree/SOP e Procedure/SOP - Federico Voice Writer.md` (versione autorevole per la cronologia delle revisioni — questo file è la controparte eseguibile). Distinta dalla skill `zirconia-core-tone`, che è la voce dell'assistente (ZirconIA), non quella di Federico.
+Fonte: `02 Aree/SOP e Procedure/SOP - Federico Voice Writer.md` (versione autorevole per la cronologia delle revisioni — questo file è la controparte eseguibile). Distinta dalla skill `zirkonia-core-tone`, che è la voce dell'assistente (ZirkonIA), non quella di Federico.
 
 ## Obiettivo
 Non limitarti a inserire espressioni tipiche o parole ricorrenti: ricostruisci la logica con cui Federico pensa, collega i concetti e li porta verso una conclusione concreta. Riproduci: il modo di costruire il pensiero, il lessico, il ritmo argomentativo, il rapporto tra visione e concretezza, l'uso delle metafore, l'intensità emotiva, il tono diretto e personale, la capacità di trasformare esperienze e intuizioni in principi più generali.

@@ -1,8 +1,8 @@
 ---
 tipo: risorsa
-tags: [zirconia, positioning, landing-page, capitale-informativo, prodotti-derivati, strategia]
+tags: [zirkonia, positioning, landing-page, capitale-informativo, prodotti-derivati, strategia]
 data: "2026-07-20"
-summary: "Esplorazione STRATEGIA richiesta da Federico: se il brain + registrazioni creano un capitale informativo proprietario e persistente, cosa ottiene concretamente il cliente dopo 3 mesi e dopo 1 anno? Catalogo dei prodotti derivati (libro, playbook, passaggio generazionale, data room, content engine...) e la promessa '1000 canzoni in tasca' di ZirconIA."
+summary: "Esplorazione STRATEGIA richiesta da Federico: se il brain + registrazioni creano un capitale informativo proprietario e persistente, cosa ottiene concretamente il cliente dopo 3 mesi e dopo 1 anno? Catalogo dei prodotti derivati (libro, playbook, passaggio generazionale, data room, content engine...) e la promessa '1000 canzoni in tasca' di ZirkonIA."
 ---
 
 # Cosa Vendiamo Davvero — il Capitale di Informazioni e i suoi derivati
@@ -11,18 +11,18 @@ summary: "Esplorazione STRATEGIA richiesta da Federico: se il brain + registrazi
 
 ## Il salto concettuale — da servizio ad asset
 
-"1000 canzoni in tasca" funzionava perché non prometteva una tecnologia: prometteva il possesso portabile di qualcosa che ami e che è già tuo. L'equivalente ZirconIA non è "un'IA che ti aiuta" — è: **tutto quello che hai detto, deciso e imparato smette di evaporare e diventa un capitale che si accumula**.
+"1000 canzoni in tasca" funzionava perché non prometteva una tecnologia: prometteva il possesso portabile di qualcosa che ami e che è già tuo. L'equivalente ZirkonIA non è "un'IA che ti aiuta" — è: **tutto quello che hai detto, deciso e imparato smette di evaporare e diventa un capitale che si accumula**.
 
-Questo capovolge la categoria merceologica. Un consulente vende ore, e le ore evaporano. Un software vende funzioni, e le funzioni le copiano. ZirconIA vende un **asset cumulativo**: ogni riunione registrata, ogni sessione EDUCAZIONE, ogni decisione tracciata aumenta il valore di quello che possiedi — e a differenza di quasi tutto il resto in azienda, questo asset **si apprezza col tempo invece di deprezzarsi**. Il pitch non è "ti facciamo risparmiare tempo": è "ogni ora che parli diventa patrimonio".
+Questo capovolge la categoria merceologica. Un consulente vende ore, e le ore evaporano. Un software vende funzioni, e le funzioni le copiano. ZirkonIA vende un **asset cumulativo**: ogni riunione registrata, ogni sessione EDUCAZIONE, ogni decisione tracciata aumenta il valore di quello che possiedi — e a differenza di quasi tutto il resto in azienda, questo asset **si apprezza col tempo invece di deprezzarsi**. Il pitch non è "ti facciamo risparmiare tempo": è "ogni ora che parli diventa patrimonio".
 
-La difendibilità architetturale (già argomentata in [[Analisi - Rischio competitivo big tech e memoria organizzativa]]): Copilot/Gemini/ChatGPT accumulano passivamente dentro piattaforme chiuse — memoria di quello che hai *scritto lì dentro*, non estrazione deliberata di quello che *sai*. Il capitale ZirconIA è estratto con metodo (protocollo domande + registrazioni + sessioni EDUCAZIONE), è portabile (markdown, proprietà del cliente), ed è curato da umani. Un'AI generica non può competere su questo non perché è meno intelligente, ma perché **non possiede la materia prima**: quella la possiede solo il cliente, e solo se qualcuno gliel'ha estratta.
+La difendibilità architetturale (già argomentata in [[Analisi - Rischio competitivo big tech e memoria organizzativa]]): Copilot/Gemini/ChatGPT accumulano passivamente dentro piattaforme chiuse — memoria di quello che hai *scritto lì dentro*, non estrazione deliberata di quello che *sai*. Il capitale ZirkonIA è estratto con metodo (protocollo domande + registrazioni + sessioni EDUCAZIONE), è portabile (markdown, proprietà del cliente), ed è curato da umani. Un'AI generica non può competere su questo non perché è meno intelligente, ma perché **non possiede la materia prima**: quella la possiede solo il cliente, e solo se qualcuno gliel'ha estratta.
 
 ## La scala temporale — cosa ottieni, quando
 
 ### Dopo 3 mesi — "l'azienda ha un manuale, e sei ancora tu"
 - **Il tuo manuale operativo estratto**: le SOP che erano solo nella tua testa diventano documenti (prova reale: le 8 SOP di questo vault sono nate esattamente così, da conversazioni → note strutturate, in meno di 3 settimane)
 - **Ogni decisione ha un perché tracciato**: fine dei "io ricordavo A, tu ricordavi B" (la citazione diretta di Federico sull'"autopilot aziendale" in [[Intervista - Il Campo di Battaglia, Strategia e Team]])
-- **Forza negoziale immediata**: precedenti, numeri e impegni sempre disponibili in trattativa — prova reale: il caso Monia Boncioli, dove il vault ha prodotto la contro-proposta del titolo esecutivo, valore descritto da Federico come "2-10% di forza contrattuale in più" ([[ZirconIA]] → "Caso concreto di ROI")
+- **Forza negoziale immediata**: precedenti, numeri e impegni sempre disponibili in trattativa — prova reale: il caso Monia Boncioli, dove il vault ha prodotto la contro-proposta del titolo esecutivo, valore descritto da Federico come "2-10% di forza contrattuale in più" ([[ZirkonIA]] → "Caso concreto di ROI")
 - **Onboarding dimezzato**: un nuovo collaboratore legge il brain invece di rubare tempo al titolare (proiezione, non ancora misurata su cliente reale)
 
 ### Dopo 1 anno — "hai una potenza di intelligence: ecco i derivati"
@@ -61,11 +61,11 @@ Federico orienta la scelta su **"Le tue parole diventano capitale"**, con l'argo
 - **"La tua esperienza, finalmente un patrimonio."** — la più compatta; "finalmente" implica il villain (finora evaporava)
 
 ## Tensione da risolvere (non nascosta)
-Questo filone ("capitale che si accumula") e quello della nota gemella [[Strategia - Angoli d'Attacco Landing ZirconIA (metodo Apple-Jobs)|Angoli d'Attacco]] ("staff strategico contro la solitudine decisionale") sono **due promesse diverse**: una vende un *asset* (patrimonio, eredità — orientata al passato/futuro), l'altra vende un *alleato* (decidere meglio oggi — orientata al presente). Jobs ne avrebbe scelta **una** per la landing. Non vanno fuse in una frase ibrida: va deciso quale è il gancio primario e quale il rinforzo interno. Istinto (opinione, non dato): per il target 40-60 affermato, il **capitale/eredità** è più distintivo — "l'alleato per decidere" lo promettono in tanti, "il patrimonio che si accumula e si trasmette" non lo promette nessuno. Ma è esattamente il tipo di scelta da validare con un test reale (stesso metodo del confronto con Atzori), non da decidere a tavolino.
+Questo filone ("capitale che si accumula") e quello della nota gemella [[Strategia - Angoli d'Attacco Landing ZirkonIA (metodo Apple-Jobs)|Angoli d'Attacco]] ("staff strategico contro la solitudine decisionale") sono **due promesse diverse**: una vende un *asset* (patrimonio, eredità — orientata al passato/futuro), l'altra vende un *alleato* (decidere meglio oggi — orientata al presente). Jobs ne avrebbe scelta **una** per la landing. Non vanno fuse in una frase ibrida: va deciso quale è il gancio primario e quale il rinforzo interno. Istinto (opinione, non dato): per il target 40-60 affermato, il **capitale/eredità** è più distintivo — "l'alleato per decidere" lo promettono in tanti, "il patrimonio che si accumula e si trasmette" non lo promette nessuno. Ma è esattamente il tipo di scelta da validare con un test reale (stesso metodo del confronto con Atzori), non da decidere a tavolino.
 
 ## Collegamenti
-- [[ZirconIA]] — area principale
-- [[Strategia - Angoli d'Attacco Landing ZirconIA (metodo Apple-Jobs)]] — nota gemella, filone "alleato decisionale"
+- [[ZirkonIA]] — area principale
+- [[Strategia - Angoli d'Attacco Landing ZirkonIA (metodo Apple-Jobs)]] — nota gemella, filone "alleato decisionale"
 - [[Analisi - Rischio competitivo big tech e memoria organizzativa]] — perché l'architettura è difendibile
 - [[Riunione con Roberto Atzori - Collaborazione e Iknosys (2026-07-18)]] — angolo passaggio generazionale giudicato interessante
 - [[Federico Gaudino]] — Success Molecula e Genesi come precedenti del filone "eredità"

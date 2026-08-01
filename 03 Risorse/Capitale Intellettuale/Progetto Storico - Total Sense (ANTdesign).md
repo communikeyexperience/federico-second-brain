@@ -34,14 +34,14 @@ Il documento originale lascia esplicitamente vuote le sezioni **Location, Organi
 Il documento chiude con una sezione dedicata più alla filosofia che alla tecnica: parola d'ordine "condividere/sharing" — l'idea di rendere fruibile un'esperienza culturale (una mostra, un concerto, un'opera) anche fuori dal suo luogo originale, "far viaggiare la cultura sui binari della tecnologia e dell'innovazione", con un'ambizione esplicita a doppio senso: esportare la cultura sarda e importare altre culture in Sardegna.
 
 ## Perché conta oggi (osservazione, non fatto confermato da Federico)
-Il filo tra Total Sense e il resto del capitale intellettuale di questo vault è più diretto di quanto sembri a prima vista: è il secondo progetto storico del periodo ANTdesign — dopo "Genesi", la capsula del tempo co-ideata con Spadaccino (vedi [[Federico Gaudino]] → "Eredità, missione a lungo termine e Genesi") — costruito attorno alla stessa idea di fondo: **rendere un'esperienza/conoscenza portabile e immersiva oltre il suo contesto originale**. Genesi lo fa nel tempo (una capsula per il futuro), Total Sense nello spazio sensoriale (un pubblico immerso in una scena), ZirconIA lo fa nella conoscenza (un second brain interrogabile). Vale la pena chiedere a Federico se percepisce lui stesso questo filo conduttore come parte della propria identità creativa, prima di trattarlo come un pattern confermato.
+Il filo tra Total Sense e il resto del capitale intellettuale di questo vault è più diretto di quanto sembri a prima vista: è il secondo progetto storico del periodo ANTdesign — dopo "Genesi", la capsula del tempo co-ideata con Spadaccino (vedi [[Federico Gaudino]] → "Eredità, missione a lungo termine e Genesi") — costruito attorno alla stessa idea di fondo: **rendere un'esperienza/conoscenza portabile e immersiva oltre il suo contesto originale**. Genesi lo fa nel tempo (una capsula per il futuro), Total Sense nello spazio sensoriale (un pubblico immerso in una scena), ZirkonIA lo fa nella conoscenza (un second brain interrogabile). Vale la pena chiedere a Federico se percepisce lui stesso questo filo conduttore come parte della propria identità creativa, prima di trattarlo come un pattern confermato.
 
 ## Collegamenti
 - [[Federico Gaudino]] — profilo, sezione "Eredità, missione a lungo termine e Genesi"
 - [[Persone]] — Giuseppe Spadaccino, socio storico ANTdesign
 - [[SOP - Federico Voice Writer]] — la sezione "Presentazione" di questo documento è materiale di voce personale autentica, utilizzabile come fonte
 - [[Idee - Filantropia e Impatto Sociale (allineate al profilo)]] — affinità tematica con la filosofia di condivisione culturale qui espressa
-- [[ZirconIA]] — possibile precedente concettuale indiretto (immersività/portabilità dell'esperienza)
+- [[ZirkonIA]] — possibile precedente concettuale indiretto (immersività/portabilità dell'esperienza)
 
 ## Note
 Progetto storico, non attivo — nessuna azione richiesta salvo diversa indicazione di Federico.

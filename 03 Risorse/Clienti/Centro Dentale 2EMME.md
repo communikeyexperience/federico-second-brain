@@ -19,8 +19,8 @@ Presentazione di **Cinzia**, collaboratrice che si occupa della parte commercial
 
 ## Progetti collegati
 - [[2EMME Social]]
-- Richiesta di sviluppare il protocollo [[ZirconIA]] (confermato 2026-07-03) — primo prospect concreto del prodotto ZirconIA vero e proprio, non solo contenuti/comunicazione.
-- **Aggiornamento 2026-07-29**: [[2EMME - Piano di Lavoro e Preventivo 2026-2027]] finalizzato — piano di lavoro 2026-27 su 3 direttrici (Cultura Interna, Sviluppo Digitale/Content Strategy, Espansione Territoriale) + ZirconIA presentato su pagina propria come proposta esclusiva. Totale primo anno: €4.300 una tantum + €12.000 canone annuo. ZirconIA: prima consegna a Stefano Vacca come cervello personale/utilizzatore primario (fascia 50%, €2.250 + canone €900/anno), in un secondo momento un second brain aziendale/company brain per lo staff. Versione Gamma (tema Pearl, immagini dentali) pronta per la presentazione al cliente.
+- Richiesta di sviluppare il protocollo [[ZirkonIA]] (confermato 2026-07-03) — primo prospect concreto del prodotto ZirkonIA vero e proprio, non solo contenuti/comunicazione.
+- **Aggiornamento 2026-07-29**: [[2EMME - Piano di Lavoro e Preventivo 2026-2027]] finalizzato — piano di lavoro 2026-27 su 3 direttrici (Cultura Interna, Sviluppo Digitale/Content Strategy, Espansione Territoriale) + ZirkonIA presentato su pagina propria come proposta esclusiva. Totale primo anno: €4.300 una tantum + €12.000 canone annuo. ZirkonIA: prima consegna a Stefano Vacca come cervello personale/utilizzatore primario (fascia 50%, €2.250 + canone €900/anno), in un secondo momento un second brain aziendale/company brain per lo staff. Versione Gamma (tema Pearl, immagini dentali) pronta per la presentazione al cliente.
 
 ## Accessi e strumenti
 - NotebookLM "Centro Dentale 2EMME SOCIAL" (id `4f1a9b78`)

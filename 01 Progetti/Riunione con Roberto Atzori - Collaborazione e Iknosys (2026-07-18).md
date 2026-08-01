@@ -1,6 +1,6 @@
 ---
 tipo: progetto
-tags: [zirconia, communikey, roberto-atzori, iknosys, riunione]
+tags: [zirkonia, communikey, roberto-atzori, iknosys, riunione]
 ---
 
 # Riunione con Roberto Atzori — Collaborazione e Iknosys (2026-07-18)
@@ -32,7 +32,7 @@ Federico apre esprimendo un giudizio positivo sulla collaborazione, basato su un
 - **Diagnosi di Federico sul modello di business di Iknosys stesso**: "codice Ichnosis" (la parte evento/formazione) è concettualmente troppo grande e privo di una pipeline di vendita specifica — porta persone all'evento ma non riesce a convertirle né a fare upselling strutturato.
 - Numeri dell'evento: costa ~€70.000, l'anno scorso il ritorno è stato solo ~€75-80.000 (sostanzialmente in pareggio) — obiettivo dichiarato da Federico per renderlo sano: ≥€100.000 di ritorno diretto più lead/passaparola.
 
-## 3. Pitch ZirconIA a Roberto — contenuto presentato
+## 3. Pitch ZirkonIA a Roberto — contenuto presentato
 Presentato come prodotto/servizio proprietario, categoria descritta come **"memory as a service"**: second brain specializzato, costruito su file markdown stile Obsidian con istruzioni comportamentali incorporate per l'IA, costruito a partire da una **profilazione consulenziale in stile coaching** (100+ domande, in crescita verso ~200).
 
 **Punti chiave del pitch, come esposti da Federico e Cristiano**:
@@ -40,10 +40,10 @@ Presentato come prodotto/servizio proprietario, categoria descritta come **"memo
 - Due direzioni di prodotto: **brain personale** (uso individuale, es. scrivere un libro dai propri dati accumulati) e **company brain** (repository organizzativo collegato a più nodi/persone, capace di azioni come inviare email).
 - Argomento del capitale perduto: stima di Federico — 2 ore/giorno x 5 giorni/settimana di conversazioni non registrate equivalgono a ~5,2 milioni di parole/anno, paragonabile a 100+ libri di contenuto perso se non catturato.
 - Esempio di valore concreto: generare un protocollo aziendale strutturato dalle conversazioni accumulate — lavoro che se fatto a consulenza costerebbe €5.000-7.000.
-- **Differenziazione vs ChatGPT/AI generiche** (esposta esplicitamente a Roberto): la memoria di un chatbot generico è contesto diffuso, non file reali posseduti dal cliente; ZirconIA cita materiale specifico caricato (libri, framework) invece di improvvisare; il cliente resta proprietario dei propri dati, restano in locale; "non è il sistema che si è skillato perché tu lo usi, sei tu che istruisci il sistema" (Cristiano); il motore AI sottostante è sostituibile senza perdere i dati.
+- **Differenziazione vs ChatGPT/AI generiche** (esposta esplicitamente a Roberto): la memoria di un chatbot generico è contesto diffuso, non file reali posseduti dal cliente; ZirkonIA cita materiale specifico caricato (libri, framework) invece di improvvisare; il cliente resta proprietario dei propri dati, restano in locale; "non è il sistema che si è skillato perché tu lo usi, sei tu che istruisci il sistema" (Cristiano); il motore AI sottostante è sostituibile senza perdere i dati.
 - **Stato tecnico reale, dichiarato esplicitamente da Federico**: l'MVP attuale è un "wrapping" di prodotti/tool già esistenti, non un'AI costruita da zero — coerente con quanto già corretto in questo vault il 2026-07-15 (non è ancora RAG/vettoriale). Federico ha però dichiarato l'intenzione, non ancora realizzata, di portare più componenti in-house con la crescita del fatturato, **incluso un database vettoriale "in un secondo momento"** — utile da registrare come intento di roadmap tecnica, distinto dallo stato attuale.
-- **Nome del prodotto**: Cristiano lo pronuncia più volte come "Zirconia" nella conversazione — coerente con la grafia "ZirconIA" già in uso in questo vault, non con "ZirkonIA" della Roadmap caricata il 15 luglio (resta comunque un indizio parlato, non una prova scritta — la discrepanza in [[Roadmap Strategica ZirkonIA 2026-2029]] non è definitivamente risolta).
-- **Dispositivo fisico**: menzionato genericamente durante il pitch ("quando il cliente ci chiamerà... gli consegneremo anche quello"), senza nominare esplicitamente né "Cube" né "ZirconIA Touch" — non chiaro quale concept sia stato mostrato/descritto a Roberto. Roberto ha reagito con scetticismo personale ("non me lo porterei dietro, è già troppo il telefono"), non ostile. Cristiano e Federico hanno riposizionato l'oggetto come **rappresentazione simbolica/materiale del brain**, adatta a un target specifico — non per i giovani.
+- **Nome del prodotto**: Cristiano lo pronuncia più volte come "Zirkonia" nella conversazione — coerente con la grafia "ZirkonIA" confermata come corretta da Federico il 2026-08-01 (sessione EDUCAZIONE), che ha risolto la discrepanza con la Roadmap caricata il 15 luglio: vedi [[Roadmap Strategica ZirkonIA 2026-2029]].
+- **Dispositivo fisico**: menzionato genericamente durante il pitch ("quando il cliente ci chiamerà... gli consegneremo anche quello"), senza nominare esplicitamente né "Cube" né "ZirkonIA Touch" — non chiaro quale concept sia stato mostrato/descritto a Roberto. Roberto ha reagito con scetticismo personale ("non me lo porterei dietro, è già troppo il telefono"), non ostile. Cristiano e Federico hanno riposizionato l'oggetto come **rappresentazione simbolica/materiale del brain**, adatta a un target specifico — non per i giovani.
 
 ### Target/ICP confermato esplicitamente in riunione
 - Fascia d'età **40-60 anni**, definiti da Federico e Cristiano "**persone affermate**"/"**persone rilevanti**" — persone che hanno cura di sé, della propria mente, della qualità dei propri pensieri.
@@ -59,9 +59,9 @@ Emersi in risposta diretta alla sua domanda su "leva commerciale" (vedi sotto):
 4. **Delega di scrittura quotidiana** — un collaboratore scrive una mail, il sistema la "zirconizza" per farla suonare come se l'avesse scritta il titolare.
 
 ### Riferimento competitivo emerso — Andrea Pili
-Nominato da Roberto e discusso da Cristiano: prodotto di Andrea Pili installato **on-premise/sandbox presso il cliente** (non licenza SaaS in senso classico), venduto a brand strutturati, promette assenza di allucinazioni e nessuna esportazione dati verso l'esterno. Cristiano ha notato che una funzionalità simile (sicurezza/non esportazione dati) potrebbe avere senso anche per ZirconIA in casi d'uso specifici — es. un penalista che deve ragionare su atti/testimonianze senza rischiare che escano dal suo controllo.
+Nominato da Roberto e discusso da Cristiano: prodotto di Andrea Pili installato **on-premise/sandbox presso il cliente** (non licenza SaaS in senso classico), venduto a brand strutturati, promette assenza di allucinazioni e nessuna esportazione dati verso l'esterno. Cristiano ha notato che una funzionalità simile (sicurezza/non esportazione dati) potrebbe avere senso anche per ZirkonIA in casi d'uso specifici — es. un penalista che deve ragionare su atti/testimonianze senza rischiare che escano dal suo controllo.
 
-## 4. Feedback diretto di Roberto sul pitch ZirconIA
+## 4. Feedback diretto di Roberto sul pitch ZirkonIA
 Due obiezioni strutturate poste esplicitamente:
 1. **"Mi sfugge la leva commerciale"** — ha distinto il ragionamento d'acquisto del piccolo/medio imprenditore medio (tre domande: quanto risparmio, quanto tempo risparmio, quanti soldi in più mi fa fare) da quello di un imprenditore di fascia più alta, giudicando il prodotto adatto a quest'ultimo, non alla PMI media.
 2. **Costo di educazione di un prodotto/categoria che non esiste ancora sul mercato** — paragonato esplicitamente a vendere una pizza (categoria nota, nessuna educazione richiesta) vs. un prodotto nuovo (nessuna "bussola" di costo di ingresso).
@@ -78,4 +78,4 @@ Ha chiuso proponendo di **partire dalla rubrica telefonica** come primo canale a
 - Federico e Cristiano hanno riferito lo stato dei propri vault personali: quello di Federico "operativo, non ancora completo"; quello di Cristiano "replicato alla perfezione ma non ancora operativo, in fase di popolamento".
 
 ## Collegamenti
-[[Persone]], [[Communikey Experience]], [[ZirconIA]], [[Roadmap Strategica ZirkonIA 2026-2029]] (naming da riconciliare), [[Punti Aperti]], [[ZirconIA - Presentazione per Roberto Atzori.pdf|Presentazione ZirconIA usata in questa riunione]]
+[[Persone]], [[Communikey Experience]], [[ZirkonIA]], [[Roadmap Strategica ZirkonIA 2026-2029]] (naming da riconciliare), [[Punti Aperti]], [[ZirkonIA - Presentazione per Roberto Atzori.pdf|Presentazione ZirkonIA usata in questa riunione]]

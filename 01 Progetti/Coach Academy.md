@@ -34,7 +34,7 @@ Federico riferisce che con Cristiano "abbiamo già definito alcune cose" sulle p
 
 ## Prossimi passi
 - [x] Sbobinare la riunione con Ninni del 2026-07-03 e preparare proposte di collaborazione evolutive (2026-07-09)
-- [ ] Con Cristiano: valutare quali delle proposte "Prospettiva Experience Suite" (retainer contenuti, gestione media/ads a fee, co-produzione corso goal setting, ZirconIA × Coach Academy, tarocchi del coach, interviste strutturate — vedi [[Coach Academy - Riunione con Ninni e Cristiano (2026-07-03)]]) portare avanti e proporre a Ninni (2026-07-10)
+- [ ] Con Cristiano: valutare quali delle proposte "Prospettiva Experience Suite" (retainer contenuti, gestione media/ads a fee, co-produzione corso goal setting, ZirkonIA × Coach Academy, tarocchi del coach, interviste strutturate — vedi [[Coach Academy - Riunione con Ninni e Cristiano (2026-07-03)]]) portare avanti e proporre a Ninni (2026-07-10)
 - [ ] Ninni: caricare su Brevo le liste storiche (35-36 edizioni "Coach per un giorno" + scuola) e l'anagrafica fatturazione
 - [ ] Ninni: riattivare WhatsApp Stati + liste broadcast (OTS)
 - [ ] Ninni: pubblicare il primo post pilota (spunto Stregatto/Alice) sul proprio profilo personale

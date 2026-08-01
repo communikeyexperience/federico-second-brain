@@ -6,7 +6,7 @@ data: "2026-07-06"
 
 # Intervista — Orizzonte, Missione e Impatto (Federico Gaudino)
 
-> Quarta e — a detta di Federico — ultima parte dell'intervista di profilazione ("Modulo 4", 26 domande), caricata il 2026-07-06 come trascrizione già ripulita da Federico/Cristiano. Fa parte delle ~100 domande del questionario ZirconIA che diventerà il questionario da somministrare ai futuri clienti. Precedenti: [[Intervista - Identità Valori e Visione]], [[Intervista - Rapporto con l'Informazione e Processi Mentali]], [[Intervista - Il Campo di Battaglia, Strategia e Team]].
+> Quarta e — a detta di Federico — ultima parte dell'intervista di profilazione ("Modulo 4", 26 domande), caricata il 2026-07-06 come trascrizione già ripulita da Federico/Cristiano. Fa parte delle ~100 domande del questionario ZirkonIA che diventerà il questionario da somministrare ai futuri clienti. Precedenti: [[Intervista - Identità Valori e Visione]], [[Intervista - Rapporto con l'Informazione e Processi Mentali]], [[Intervista - Il Campo di Battaglia, Strategia e Team]].
 
 ## Eredità intellettuale — "The Success Molecula"
 Federico vuole codificare, nei prossimi 5-10 anni, un sapere operativo in un libro o supporto digitale/visivo, imperniato sul concetto di **"The Success Molecula" / "La Molecola del Successo"** (già emerso in forma più sintetica nel Modulo 2 come idea di cultura aziendale — qui approfondito come vera e propria eredità intellettuale personale): una sintesi delle verità toccate con mano nella sua vita, descritta come un "codice" quasi esoterico che permette di raggiungere risultati concreti — visto in azione nel coaching. L'eredità voluta è un cambio di prospettiva/mentalità tramandabile, come un sapere di famiglia.
@@ -47,7 +47,7 @@ La concorrenza pensa per singoli mercati, Federico vuole che **La Experience Sui
 3. **Concept ed Esplorazione** — la base scientifica incontra la creatività per esplorare opzioni strategiche
 4. **Sviluppo Tecnico e Rilascio** — messa a terra e avvio beta test
 
-**Nota**: struttura in 4 fasi che ricorda (senza esserne dichiarata una copia) le 4 fasi del protocollo [[ZirconIA]] — parallelismo da segnalare, non da dare per scontato come intenzionale.
+**Nota**: struttura in 4 fasi che ricorda (senza esserne dichiarata una copia) le 4 fasi del protocollo [[ZirkonIA]] — parallelismo da segnalare, non da dare per scontato come intenzionale.
 
 ## Nuove competenze da acquisire
 1. **Public speaking** ad alti livelli
@@ -64,8 +64,8 @@ Vuole sintetizzarla in schemi mentali rigidi, quasi "prompt" per il proprio sist
 ## Talenti e scalabilità
 Coraggio, lungimiranza, assenza di paura nel cambiare nazione/continente — struttura questa attitudine come "vero game changer" per la scalabilità globale del gruppo.
 
-## Visione sulla collaborazione con l'IA (rilevante per ZirconIA)
-Vuole che l'IA diventi un asset aziendale/entità strategica sempre più profilata — non solo automazione/lavoro agentico (livello tattico), ma **alta strategia**: intelligence aziendale avanzata come "arma competitiva", un sistema miniaturizzato rispetto a quello degli Stati. Cita esplicitamente: **"Con Zirconia abbiamo fatto un test predittivo su come arrivare a fatturare 5 milioni di euro in 5 anni"** — **conferma la fonte** della cifra già registrata in [[Business Experience]] e [[Strategia - Frontiere di sviluppo Suite Experience (2026-2030)]].
+## Visione sulla collaborazione con l'IA (rilevante per ZirkonIA)
+Vuole che l'IA diventi un asset aziendale/entità strategica sempre più profilata — non solo automazione/lavoro agentico (livello tattico), ma **alta strategia**: intelligence aziendale avanzata come "arma competitiva", un sistema miniaturizzato rispetto a quello degli Stati. Cita esplicitamente: **"Con Zirkonia abbiamo fatto un test predittivo su come arrivare a fatturare 5 milioni di euro in 5 anni"** — **conferma la fonte** della cifra già registrata in [[Business Experience]] e [[Strategia - Frontiere di sviluppo Suite Experience (2026-2030)]].
 
 ## Mercati oggi preclusi ma desiderati
 Stati Uniti in primis (le Americhe il focus principale), poi genericamente l'estero. Europa non attrae. Emirati Arabi e Australia considerati ma scartati (i primi per instabilità attuale, la seconda per lontananza geografica). Limite attuale dichiarato: solo questione di budget.
@@ -73,13 +73,13 @@ Stati Uniti in primis (le Americhe il focus principale), poi genericamente l'est
 ## Personal branding desiderato
 Non aspira alla copertina del Time, ma a un riconoscimento internazionale legato allo sviluppo imprenditoriale — vuole che si dica "è quello che ha fatto Dubai, quello che ha sviluppato quel sistema". Processo già in corso, da accelerare.
 
-## Come misura il valore di uno strumento di intelligence come ZirconIA
-Velocità operativa e ritorno economico diretto, alimentato costantemente con sessioni educational. **Caso concreto citato come prova**: nella trattativa societaria con Monia Boncioli, ZirconIA gli ha permesso di formulare risposte legali tempestive senza consulenza esterna immediata (suggerimento della clausola di titolo esecutivo nell'atto notarile invece della fideiussione bancaria) — tempo risparmiato e costo evitato. Descrive il valore anche in termini di "2% o 10% in più di forza contrattuale" come leva competitiva.
+## Come misura il valore di uno strumento di intelligence come ZirkonIA
+Velocità operativa e ritorno economico diretto, alimentato costantemente con sessioni educational. **Caso concreto citato come prova**: nella trattativa societaria con Monia Boncioli, ZirkonIA gli ha permesso di formulare risposte legali tempestive senza consulenza esterna immediata (suggerimento della clausola di titolo esecutivo nell'atto notarile invece della fideiussione bancaria) — tempo risparmiato e costo evitato. Descrive il valore anche in termini di "2% o 10% in più di forza contrattuale" come leva competitiva.
 
 ## Visione su protezione e trasmissione della conoscenza — "Genesi" (nuovo, importante)
 Racconta un precedente diretto, di 15 anni fa: con **ANTdesign** e il socio **Giuseppe Spadaccino** (nome nuovo, non ancora in [[Persone]]), ideò un progetto artistico chiamato **"Genesi"** — un tavolino di metallo saldato a forma di cubo multisfaccettato simile a un asteroide (esiste ancora fisicamente), all'interno del quale sigillarono una chiavetta USB da 16GB con un file di testo che riassumeva la storia dell'umanità fino a quel momento (fonti: Wikipedia + ricerche), pensato come capsula del tempo in caso di distruzione della Terra.
 
-**Collegamento diretto e non ovvio**: Federico stesso descrive [[ZirconIA]] come erede filosofico di "Genesi", evoluto con tecnologie oggi disponibili — un parallelismo concettuale forte con il **Cube** fisico di ZirconIA (oggetto fisico che custodisce memoria), utile come materiale di narrazione/brand (le "terre rare"/silice del nome Zirconia richiamano lo stesso principio del "scrivere sulla pietra").
+**Collegamento diretto e non ovvio**: Federico stesso descrive [[ZirkonIA]] come erede filosofico di "Genesi", evoluto con tecnologie oggi disponibili — un parallelismo concettuale forte con il **Cube** fisico di ZirkonIA (oggetto fisico che custodisce memoria), utile come materiale di narrazione/brand (le "terre rare"/silice del nome Zirkonia richiamano lo stesso principio del "scrivere sulla pietra").
 
 ## Paure sul futuro del settore
 Politica e burocrazia — sfiducia esplicita verso le scelte di Italia/Europa su tasse, vincoli, capacità di attrarre investimenti. Sviluppa un argomento economico articolato sulla velocità di circolazione del denaro ("il PIL è la frequenza di clock del denaro") per sostenere che gli imprenditori fanno girare l'economia, lo Stato è solo garante. Conclusione pratica: mantiene il focus sui mercati internazionali, non potendo influire sullo scenario politico italiano/europeo.
@@ -99,9 +99,9 @@ Che contenesse un codice reale — le regole della Success Molecula unite a rico
 ## 🔗 Collegamenti al Second Brain
 - **Federico Gaudino** — eredità/missione, competenze da acquisire, evoluzione del ruolo, il tributo personale (tempo/famiglia), storia/narrativa personale
 - **[[Persone]]** — nuovo nome da aggiungere: Giuseppe Spadaccino (socio storico in ANTdesign, progetto Genesi)
-- **[[ZirconIA]]** — "Genesi" come genesi concettuale/narrativa del Cube; caso Monia come prova di ROI concreto; conferma della fonte del test predittivo "€5M in 5 anni"
+- **[[ZirkonIA]]** — "Genesi" come genesi concettuale/narrativa del Cube; caso Monia come prova di ROI concreto; conferma della fonte del test predittivo "€5M in 5 anni"
 - **[[Business Experience]]** / **[[Strategia - Frontiere di sviluppo Suite Experience (2026-2030)]]** — rinforzo del focus USA/Americhe, disinteresse per l'Europa
 - **[[Intervista - Il Campo di Battaglia, Strategia e Team]]** — "La Molecola del Successo" già introdotta lì come cultura aziendale, qui approfondita come eredità personale
 
 ## Note
-Federico ha definito questa la parte conclusiva ("climax finale") del questionario ZirconIA — 26 domande numerate nella trascrizione, indicate da lui come "le ultime venticinque"; discrepanza minima, non richiede chiarimento.
+Federico ha definito questa la parte conclusiva ("climax finale") del questionario ZirkonIA — 26 domande numerate nella trascrizione, indicate da lui come "le ultime venticinque"; discrepanza minima, non richiede chiarimento.

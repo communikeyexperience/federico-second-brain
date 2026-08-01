@@ -6,7 +6,7 @@ data: "2026-07-03"
 
 # Intervista — Identità, Valori e Visione (Federico Gaudino)
 
-> Fonte primaria raccolta il 2026-07-03. Prima applicazione reale del protocollo "Profilazione Profonda" di [[ZirconIA]] — organizzata per temi, contenuto originale preservato.
+> Fonte primaria raccolta il 2026-07-03. Prima applicazione reale del protocollo "Profilazione Profonda" di [[ZirkonIA]] — organizzata per temi, contenuto originale preservato.
 
 ## Identità
 Si definisce prima di tutto "una persona e un sognatore", con valori sani e cuore generoso. Desiderio profondo di lasciare un'impronta, costruire qualcosa oltre l'interesse personale — ambizioni non egoistiche ma orientate a risultati concreti. Crede nella condivisione e nei valori umani, portati anche nel lavoro.

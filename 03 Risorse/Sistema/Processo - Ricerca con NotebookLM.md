@@ -9,7 +9,7 @@ Come usare NotebookLM per fare ricerca web su un soggetto (persona, cliente, com
 
 ## Quando si attiva
 
-- Nasce un nuovo soggetto da profilare a fondo: un cliente nuovo, un competitor per [[ZirconIA]], un tema per la content pipeline.
+- Nasce un nuovo soggetto da profilare a fondo: un cliente nuovo, un competitor per [[ZirkonIA]], un tema per la content pipeline.
 - Un soggetto esistente ha nuovo materiale: un progetto avanza, un cliente manda documenti, un'attività online cambia.
 - Serve aggiornare periodicamente un profilo già creato (come succede per [[Federico Gaudino]]).
 
@@ -28,7 +28,7 @@ Non è un processo a calendario fisso: si attiva quando un progetto/soggetto è 
 |---|---|---|
 | Persona / profilo (es. un nuovo referente, un partner) | Deep Research per il quadro generale + chat mirata per fatti puntuali | Nota profilo o sezione "Chi è" della nota cliente |
 | Cliente / progetto con documenti propri (riunioni, email, contratti) | Chat mirata per estrarre decisioni e scadenze | Sezione "Prossimi passi" o "Stato attuale" del progetto |
-| Competitor / mercato (es. ricerca per ZirconIA) | Deep Research + Tabella di dati o Mappa mentale per confronti strutturati | Nota area/risorsa dedicata |
+| Competitor / mercato (es. ricerca per ZirkonIA) | Deep Research + Tabella di dati o Mappa mentale per confronti strutturati | Nota area/risorsa dedicata |
 | Content pipeline (sintesi prima di scrivere) | Deep Research come base, poi riscrittura in voce propria | Bozza articolo/post nel progetto relativo |
 
 Non è una regola rigida: si sceglie in base a cosa serve davvero, non per completezza.

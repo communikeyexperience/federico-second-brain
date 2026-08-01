@@ -1,13 +1,13 @@
 ---
 tipo: risorsa
-tags: [zirconia, personas, target, vendita, positioning]
+tags: [zirkonia, personas, target, vendita, positioning]
 data: "2026-07-20"
-summary: "Dieci personas stereotipate di potenziali acquirenti ZirconIA (ristoratore, parrucchiere-imprenditore, avvocato, dentista, imprenditore, commercialista, coach, agente immobiliare, chef, consulente), ciascuna con dolore specifico, cosa diventa il capitale per lei, derivato killer e gancio di vendita. Ancorate dove possibile a clienti/contatti reali del vault."
+summary: "Dieci personas stereotipate di potenziali acquirenti ZirkonIA (ristoratore, parrucchiere-imprenditore, avvocato, dentista, imprenditore, commercialista, coach, agente immobiliare, chef, consulente), ciascuna con dolore specifico, cosa diventa il capitale per lei, derivato killer e gancio di vendita. Ancorate dove possibile a clienti/contatti reali del vault."
 ---
 
-# Personas Acquirenti ZirconIA
+# Personas Acquirenti ZirkonIA
 
-> Richiesta di Federico (2026-07-20): lista stereotipata di potenziali acquirenti. Filtro di base: coerenti col target confermato (40-60 anni, "persone affermate", disponibilità economica, bassa familiarità tecnologica — vedi [[ZirconIA]] → validazione Atzori). Per ogni persona: il dolore, cosa diventa il capitale, il derivato killer, il gancio. Dove esiste un aggancio reale nel vault, è indicato — quelle personas sono candidate naturali per i primi test di vendita.
+> Richiesta di Federico (2026-07-20): lista stereotipata di potenziali acquirenti. Filtro di base: coerenti col target confermato (40-60 anni, "persone affermate", disponibilità economica, bassa familiarità tecnologica — vedi [[ZirkonIA]] → validazione Atzori). Per ogni persona: il dolore, cosa diventa il capitale, il derivato killer, il gancio. Dove esiste un aggancio reale nel vault, è indicato — quelle personas sono candidate naturali per i primi test di vendita.
 
 ## 1. Il Ristoratore-Imprenditore (2-3 locali)
 **Chi è**: 45-58 anni, partito da un locale, oggi ne ha due o tre. L'azienda è la sua testa: fornitori, ricette, margini, gestione staff — tutto a voce, ogni giorno.
@@ -38,7 +38,7 @@ summary: "Dieci personas stereotipate di potenziali acquirenti ZirconIA (ristora
 **Il capitale diventa**: protocolli clinici/operativi formalizzati dalla pratica reale + storico delle decisioni gestionali (investimenti in macchinari, convenzioni, pricing).
 **Derivato killer**: il **protocollo replicabile per il secondo centro** + la difendibilità (decisioni documentate).
 **Gancio**: "Il secondo studio si apre col tuo metodo, non con la tua presenza."
-**Aggancio reale nel vault**: [[Centro Dentale 2EMME]] — **primo prospect reale di ZirconIA**, preventivo già richiesto. Questa persona è già validata dall'interesse di Stefano Vacca.
+**Aggancio reale nel vault**: [[Centro Dentale 2EMME]] — **primo prospect reale di ZirkonIA**, preventivo già richiesto. Questa persona è già validata dall'interesse di Stefano Vacca.
 
 ## 5. L'Imprenditore (edile/PMI strutturata)
 **Chi è**: 50-65 anni, impresa familiare, cantieri gestiti a esperienza, rapporti trentennali con fornitori, geometri, Comuni.
@@ -54,7 +54,7 @@ summary: "Dieci personas stereotipate di potenziali acquirenti ZirconIA (ristora
 **Il capitale diventa**: il criterio — come valuta le situazioni ambigue, come gestisce i clienti difficili, la memoria dei casi particolari risolti.
 **Derivato killer**: la **valorizzazione in cessione** (data room del sapere, non solo del portafoglio) + continuità per i clienti.
 **Gancio**: "Il tuo studio vale il doppio se funziona anche quando non ci sei."
-**Aggancio reale nel vault**: Antonello (commercialista di Business Experience) e Marco Delitala (Studio Delitala & Partners — già testimonial ZirconIA!) come contatti nel mondo professionale.
+**Aggancio reale nel vault**: Antonello (commercialista di Business Experience) e Marco Delitala (Studio Delitala & Partners — già testimonial ZirkonIA!) come contatti nel mondo professionale.
 
 ## 7. Il Coach affermato
 **Chi è**: 45-60 anni, aula da vent'anni, metodo proprio mai scritto per intero, community di ex-allievi, fatturato legato alle sue giornate in aula.
@@ -81,7 +81,7 @@ summary: "Dieci personas stereotipate di potenziali acquirenti ZirconIA (ristora
 
 ## 10. Il Consulente/Libero professionista senior (ingegnere, architetto, project manager)
 **Chi è**: 48-62 anni, decenni di progetti alle spalle, reputazione che porta lavoro da sola, nessuna struttura — è un one-man-band ad alto valore.
-**Dolore**: la solitudine decisionale pura (il filone della nota gemella [[Strategia - Angoli d'Attacco Landing ZirconIA (metodo Apple-Jobs)|Angoli d'Attacco]]): nessun pari con cui ragionare, ogni progetto nuovo ricomincia dalla memoria; a fine carriera, tutto sparisce.
+**Dolore**: la solitudine decisionale pura (il filone della nota gemella [[Strategia - Angoli d'Attacco Landing ZirkonIA (metodo Apple-Jobs)|Angoli d'Attacco]]): nessun pari con cui ragionare, ogni progetto nuovo ricomincia dalla memoria; a fine carriera, tutto sparisce.
 **Il capitale diventa**: la biblioteca dei progetti ragionata + il partner di ragionamento quotidiano.
 **Derivato killer**: il **socio strategico sempre acceso** (qui il filone "alleato" vince su quello "eredità") + eventualmente il libro professionale a fine carriera.
 **Gancio**: "Hai sempre deciso da solo. Non sei mai stato solo così tanto quanto adesso."
@@ -132,18 +132,18 @@ Versione riscritta come lancio unitario, richiesta di Federico: ogni persona ha 
 **Chiusura**:
 > Le tue parole diventano capitale.
 > *Verba volant, data manent.*
-> **ZirconIA.**
+> **ZirkonIA.**
 
 **Nota**: la variante "Mille X" uniforme (mille serate, mille udienze, mille trattative...) è stata valutata e scartata da Federico (2026-07-20) — restano preferite le righe specifiche per persona. L'apertura del lancio (aneddoto Apple/mille canzoni) e la chiusura restano valide con queste righe in mezzo.
 
 ## Lettura trasversale — cosa dice la lista
 
-1. **Due cluster di promessa**, coerenti con la tensione già aperta in [[Strategia - Cosa Vendiamo Davvero (Capitale di Informazioni ZirconIA)]]: le personas 1-6 e 9 comprano soprattutto il **capitale** (playbook, passaggio generazionale, valorizzazione); le personas 7 e 10 comprano soprattutto l'**alleato/derivato personale** (libro, socio strategico). La 8 è ibrida. Questo suggerisce che la scelta del gancio primario della landing può dipendere dal canale: "capitale/eredità" per il grosso del target, "alleato" per i professionisti singoli.
+1. **Due cluster di promessa**, coerenti con la tensione già aperta in [[Strategia - Cosa Vendiamo Davvero (Capitale di Informazioni ZirkonIA)]]: le personas 1-6 e 9 comprano soprattutto il **capitale** (playbook, passaggio generazionale, valorizzazione); le personas 7 e 10 comprano soprattutto l'**alleato/derivato personale** (libro, socio strategico). La 8 è ibrida. Questo suggerisce che la scelta del gancio primario della landing può dipendere dal canale: "capitale/eredità" per il grosso del target, "alleato" per i professionisti singoli.
 2. **Quattro personas hanno già un aggancio reale nel vault** (2-Ricciolo, 4-2EMME, 7-Coach Academy, 1-mondo Fagioli/ristorazione): i primi test di vendita hanno già dei volti. La 4 è la più avanti (preventivo richiesto).
 3. **Il pattern comune del dolore** non è "perdo tempo a cercare informazioni" (linguaggio da tool): è "**l'azienda sono io, e questo è insieme il mio orgoglio e la mia gabbia**". Ogni gancio scritto sopra attacca quella gabbia da un'angolazione diversa.
 
 ## Collegamenti
-- [[ZirconIA]] — target confermato, offerta, pricing
-- [[Strategia - Cosa Vendiamo Davvero (Capitale di Informazioni ZirconIA)]] — la promessa "capitale" che queste personas comprano
-- [[Strategia - Angoli d'Attacco Landing ZirconIA (metodo Apple-Jobs)]] — il filone "alleato" per le personas 7/10
+- [[ZirkonIA]] — target confermato, offerta, pricing
+- [[Strategia - Cosa Vendiamo Davvero (Capitale di Informazioni ZirkonIA)]] — la promessa "capitale" che queste personas comprano
+- [[Strategia - Angoli d'Attacco Landing ZirkonIA (metodo Apple-Jobs)]] — il filone "alleato" per le personas 7/10
 - [[Centro Dentale 2EMME]], [[Il Ricciolo]], [[Coach Academy Cagliari]], [[Riccardo Fagioli]] — agganci reali

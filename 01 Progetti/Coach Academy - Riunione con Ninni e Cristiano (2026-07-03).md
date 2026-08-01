@@ -55,7 +55,7 @@ Emerse "spremendo il limone" di Coach Academy, esplicitamente non prioritarie fi
 - Workshop esperienziali "goal setting"/"stop and goal" per imprenditori (esempio citato: Matteo e Annalisa de [[Il Ricciolo]]) — ipotesi di formato giornata/weekend, prezzo indicativo intorno a €500/giorno da validare, formato "in catamarano" proposto da Denise ma Federico preferisce un'ambientazione terrestre
 - Ipotesi di gadget/merchandising ("gioco del coach" in stile tarocchi) — idea esplorativa di Federico, non validata
 - Interviste strutturate che espandono i concetti dei singoli post — formato "prodotto derivato" più strutturato, da valutare in una fase successiva
-- Sinergia con il prodotto AI/"second brain" di comunicazione che Federico sta sviluppando ([[ZirconIA]]) — Ninni indicato come possibile testimonial
+- Sinergia con il prodotto AI/"second brain" di comunicazione che Federico sta sviluppando ([[ZirkonIA]]) — Ninni indicato come possibile testimonial
 
 ## Prospettiva Experience Suite — opportunità di business (aggiunto 2026-07-08, corretto 2026-07-09)
 La prima sbobinatura era centrata sulla diagnosi/rilancio di Ninni. Federico ha chiesto di rileggere la riunione dal punto di vista opposto: cosa c'è qui per **la Experience Suite** (il gruppo — non solo la verticale [[Communikey Experience]] che gestisce operativamente il rapporto con Coach Academy), per trasformare una collaborazione finora **pro bono** in una economicamente positiva per entrambi. In riunione Federico stesso lo dice esplicitamente a Ninni: "cerchiamo di fare un lavoro con te, come se stessimo facendo un lavoro per un cliente."
@@ -65,14 +65,14 @@ Opportunità identificate per la Suite (eseguite operativamente da Communikey Ex
 1. **Produzione contenuti a retainer**: il meccanismo già proposto (Ninni produce materiale grezzo, il team lo trasforma in post/caroselli/blog/slideshow) è un servizio che Communikey vende altrove — oggi gratuito per Ninni, candidato naturale a diventare un contratto mensile.
 2. **Gestione media/ads a fee**: coordinamento con Nicola (PPC esterno) o gestione diretta delle campagne, area che Communikey dichiara esplicitamente di non coprire oggi — possibile fee di gestione invece di restare fuori dal perimetro.
 3. **Co-produzione del corso "goal setting per imprenditori"** (idea di Federico, ispirata da Matteo/Annalisa de [[Il Ricciolo]]): potrebbe nascere co-firmato Communikey/Coach Academy con quota sui ricavi, non come consulenza gratuita.
-4. **ZirconIA × Coach Academy** (la più promettente, e la più chiaramente a livello Suite): Federico ha descritto ZirconIA in riunione come "coaching molto skillato per le aziende, sviluppato in chiave AI" e ha detto esplicitamente che potrebbero esserci "prodotti di terzi" (ZirconIA, progetto tecnologico di Communikey ma di interesse per l'intera Suite) veicolati attraverso Ninni, non solo Ninni come testimonial gratuito — potenziale canale di distribuzione verso la sua rete di imprenditori, con struttura di affiliazione/revenue share.
+4. **ZirkonIA × Coach Academy** (la più promettente, e la più chiaramente a livello Suite): Federico ha descritto ZirkonIA in riunione come "coaching molto skillato per le aziende, sviluppato in chiave AI" e ha detto esplicitamente che potrebbero esserci "prodotti di terzi" (ZirkonIA, progetto tecnologico di Communikey ma di interesse per l'intera Suite) veicolati attraverso Ninni, non solo Ninni come testimonial gratuito — potenziale canale di distribuzione verso la sua rete di imprenditori, con struttura di affiliazione/revenue share.
 5. **Carte tarocchi del coach**: se sviluppate, valutare che la proprietà commerciale (o una quota) resti a Communikey, non solo a Ninni.
 6. **Interviste strutturate come asset editoriale proprio**: potrebbero diventare una serie che Communikey possiede e riusa anche per altri clienti/posizionamento, non un sottoprodotto solo di Coach Academy.
 
-**Angolo Cieco**: l'opportunità 4 (ZirconIA) è la più forte ma richiede rendere esplicito fin dall'inizio il passaggio da rapporto informale/amicale ad accordo commerciale — il rischio è restare nello stesso schema pro bono di sempre, solo con più lavoro sopra, se questo non viene reso esplicito con Ninni prima di proporre qualsiasi collaborazione.
+**Angolo Cieco**: l'opportunità 4 (ZirkonIA) è la più forte ma richiede rendere esplicito fin dall'inizio il passaggio da rapporto informale/amicale ad accordo commerciale — il rischio è restare nello stesso schema pro bono di sempre, solo con più lavoro sopra, se questo non viene reso esplicito con Ninni prima di proporre qualsiasi collaborazione.
 
 ## Collegamenti
 - [[Coach Academy]] — nota progetto principale
 - [[Il Ricciolo]] — citato come esempio cautelativo di pipeline contenuti ferma per assenza di materiale sorgente
-- [[ZirconIA]] — possibile sinergia futura (testimonial)
-- [[SOP - Tono e Stile ZirconIA Core]] — regola editoriale sui contenuti social riaffermata in riunione è coerente con le regole ferme già a vault
+- [[ZirkonIA]] — possibile sinergia futura (testimonial)
+- [[SOP - Tono e Stile ZirkonIA Core]] — regola editoriale sui contenuti social riaffermata in riunione è coerente con le regole ferme già a vault

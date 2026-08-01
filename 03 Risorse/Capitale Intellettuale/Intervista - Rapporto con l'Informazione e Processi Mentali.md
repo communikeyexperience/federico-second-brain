@@ -35,12 +35,12 @@ Crede che gli schemi mentali crescano insieme alla persona, dall'accumulo di noz
 Conferma che esiste, e lo considera necessario — "solo i pazzi assoluti hanno il totale controllo delle cose". Da ragazzino era molto disordinato (la madre, **Annalisa Pinna**, si arrabbiava per lo stato della sua cameretta) ma sapeva sempre dove trovare le cose. Nel tempo, curando di più le proprie "parti interiori" (coerente con il percorso terapeutico già noto — vedi [[Intervista - Identità Valori e Visione]]), ha imparato ad amare l'ordine: prima procrastinava (bollette accantonate fino ai solleciti), oggi incanala le cose al posto giusto senza rigidità eccessiva. Nota anche una sua chiave di lettura personale: l'ordine assoluto non esiste davvero, ed essere estremamente ordinati "potrebbe quasi essere un tratto da serial killer" (detto in tono ironico).
 
 ## Uso di AI e automazioni
-Utente di lunga data, fin dai primi strumenti disponibili — oggi le usa "a tutti i livelli", dalla ricerca personale/informativa (anche su temi medici, per un'infarinatura) fino a progetti complessi come **ZirconIA** ("Zircone" nella trascrizione originale), sviluppato con Communikey. Si descrive non solo come utilizzatore ma come chi contribuisce a svilupparle.
+Utente di lunga data, fin dai primi strumenti disponibili — oggi le usa "a tutti i livelli", dalla ricerca personale/informativa (anche su temi medici, per un'infarinatura) fino a progetti complessi come **ZirkonIA** ("Zircone" nella trascrizione originale), sviluppato con Communikey. Si descrive non solo come utilizzatore ma come chi contribuisce a svilupparle.
 
 ## Visione ideale di integrazione mente-tecnologia
 Immagina un sistema **senza frizione**, curva di apprendimento bassissima, comandi vocali naturali — un'interfaccia semplice che nasconde una complessità enorme di database e "brain" indicizzati con precisione, supportata da un'architettura AI potente in backend, con un utilizzo quasi istintivo per l'utente finale. La descrive con l'immagine di un **copilota**. Paragona lo stato attuale della tecnologia agli anni '70 dei primi telefoni cellulari, e prevede che tra vent'anni la maggior parte delle persone avrà un "second brain" per il proprio lavoro — organizzato e centralizzato in un unico punto interrogabile.
 
-**Nota**: questa è la visione originale di Federico che ha ispirato [[ZirconIA]] — utile come materiale di posizionamento diretto, in prima persona, per il prodotto stesso.
+**Nota**: questa è la visione originale di Federico che ha ispirato [[ZirkonIA]] — utile come materiale di posizionamento diretto, in prima persona, per il prodotto stesso.
 
 ## Nuovi elementi emersi — da approfondire/collegare
 - **Madre di Federico**: nome confermato, **Annalisa Pinna** — chiude parzialmente il punto aperto in [[Persone]] (restano da raccogliere i nomi di zii e il cognome della nonna Rosina)
@@ -48,6 +48,6 @@ Immagina un sistema **senza frizione**, curva di apprendimento bassissima, coman
 - **CAR a Taranto**: servizio militare svolto a Taranto — dato biografico minore, non ancora collegato altrove
 
 ## 🔗 Collegamenti al Second Brain
-- Si collega direttamente a [[ZirconIA]] — la "visione ideale" descritta qui è, di fatto, la genesi concettuale del prodotto
+- Si collega direttamente a [[ZirkonIA]] — la "visione ideale" descritta qui è, di fatto, la genesi concettuale del prodotto
 - Si collega a [[Intervista - Identità Valori e Visione]] per il percorso terapeutico/cura delle "parti interiori" già emerso lì
 - Aggiorna [[Persone]] con il nome della madre

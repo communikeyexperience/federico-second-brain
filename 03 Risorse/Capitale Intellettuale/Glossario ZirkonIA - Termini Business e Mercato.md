@@ -1,6 +1,6 @@
 ---
 tipo: risorsa
-tags: [zirconia, business, glossario, finanza, mercato]
+tags: [zirkonia, business, glossario, finanza, mercato]
 ---
 
 # Glossario ZirkonIA — Termini Business e Mercato
@@ -31,4 +31,4 @@ tags: [zirconia, business, glossario, finanza, mercato]
 [[Glossario/AI Act|AI Act]], [[Glossario/GDPR|GDPR]], [[Glossario/DPA|DPA]], [[Glossario/SOC 2|SOC 2]], [[Glossario/Compliance by design|Compliance by design]], [[Glossario/SLA|SLA]]
 
 ## Collegamenti
-[[Roadmap Strategica ZirkonIA 2026-2029]], [[ZirconIA]], [[Glossario]] (glossario di sistema del vault, termini diversi)
+[[Roadmap Strategica ZirkonIA 2026-2029]], [[ZirkonIA]], [[Glossario]] (glossario di sistema del vault, termini diversi)

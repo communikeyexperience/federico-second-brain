@@ -50,4 +50,4 @@ Cercare i punti in comune tra le loro insoddisfazioni, non le differenze — le 
 4. Adozione — quali resistenze (distributori, dipendenti, opinione pubblica) vanno affrontate da subito?
 
 ## Collegamenti
-Usato in sequenza con [[Libro - Positioning (Ries, Trout)]] (Oceano Blu decide *dove competere*, Positioning decide *come essere percepiti* una volta scelto dove giocare). Framework operativo per [[ZirconIA]] quando si tratta di differenziazione competitiva. Controparte eseguibile: skill `marketing-comunicazione` (`.claude/skills/marketing-comunicazione/references/01-posizionamento-strategico.md`).
+Usato in sequenza con [[Libro - Positioning (Ries, Trout)]] (Oceano Blu decide *dove competere*, Positioning decide *come essere percepiti* una volta scelto dove giocare). Framework operativo per [[ZirkonIA]] quando si tratta di differenziazione competitiva. Controparte eseguibile: skill `marketing-comunicazione` (`.claude/skills/marketing-comunicazione/references/01-posizionamento-strategico.md`).

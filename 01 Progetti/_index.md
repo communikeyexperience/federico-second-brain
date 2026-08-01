@@ -25,7 +25,7 @@ tags: [sistema, indice]
 - [[Riunione Roby e Riccardo Fagioli - Strategia Lead Generation Iknosys (2026-07-24)]]
 - [[Riunione con Roberto Atzori - Collaborazione e Iknosys (2026-07-18)]]
 - [[Sartiglia - Servizio Fotografico]]
-- [[ZirconIA - Piano Beta Testing e Cronoprogramma Matteo]]
+- [[ZirkonIA - Piano Beta Testing e Cronoprogramma Matteo]]
 
 **Sottocartelle:**
 - [[01 Progetti/Federico Gaudino - Sito/_index|Federico Gaudino - Sito]]

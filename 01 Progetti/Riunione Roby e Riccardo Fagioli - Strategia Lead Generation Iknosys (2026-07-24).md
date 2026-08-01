@@ -1,6 +1,6 @@
 ---
 tipo: progetto
-tags: [zirconia, communikey, roberto-atzori, riccardo-fagioli, iknosys, lead-generation, riunione]
+tags: [zirkonia, communikey, roberto-atzori, riccardo-fagioli, iknosys, lead-generation, riunione]
 data: "2026-07-24"
 ---
 

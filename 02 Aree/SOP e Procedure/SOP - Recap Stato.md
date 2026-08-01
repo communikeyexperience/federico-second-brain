@@ -1,7 +1,7 @@
 ---
 data: "2026-07-03"
 tipo: sop
-tags: [zirconia-core, recap, stato, to-do]
+tags: [zirkonia-core, recap, stato, to-do]
 ---
 
 # SOP — Recap Stato
@@ -39,6 +39,6 @@ Per ogni progetto: una riga, nome + azione o stato in poche parole. Niente parag
 ```
 
 ## Collegamenti
-[[SOP - Tono e Stile ZirconIA Core]] (il recap è un'eccezione al tono discorsivo — qui la sintesi tabellare è lo scopo stesso, non solo il Recap Operativo finale)
+[[SOP - Tono e Stile ZirkonIA Core]] (il recap è un'eccezione al tono discorsivo — qui la sintesi tabellare è lo scopo stesso, non solo il Recap Operativo finale)
 
 ## Note

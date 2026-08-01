@@ -24,7 +24,7 @@ Il gruppo intero si chiama **"La Experience Suite"** (nome confermato nell'inter
     - **Case Resilienti** — nuovo spin-off in fase di concept (vedi sezione dedicata sotto)
     - **"Nonna Rosetta"** — progetto trasversale lanciato tempo fa, dettagli limitati; ha coinvolto in passato **Marco Cadeddu** come collaboratore, esperienza citata da Federico come esempio negativo (persona valida, ma approccio al lavoro distratto e distante dai suoi standard — vedi [[Persone]])
   - **[[Communikey Experience]]** — la società che sviluppa la parte di comunicazione, ricerca e consulenza strategica
-    - **[[ZirconIA]]** — il progetto *tecnologico* di Communikey Experience (non un'area indipendente coequale a Business Experience, come documentato in precedenza — corretto qui)
+    - **[[ZirkonIA]]** — il progetto *tecnologico* di Communikey Experience (non un'area indipendente coequale a Business Experience, come documentato in precedenza — corretto qui)
     - Clienti paganti di comunicazione: [[Riccardo Fagioli]], [[Coach Academy Cagliari]], [[Centro Dentale 2EMME]] — [[Il Ricciolo]] (salone di famiglia, vedi [[Persone]]) **non è un cliente Communikey Experience in senso stretto**: il social media management lì è un rapporto personale di Cristiano Musa, non dell'azienda, vedi [[Intervista - Ruolo di Federico al Ricciolo]]
     - Prospect: [[SYRVE]] / [[RistoComics (SYRVE)|RistoComics]]
 

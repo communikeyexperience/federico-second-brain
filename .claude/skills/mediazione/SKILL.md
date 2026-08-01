@@ -5,7 +5,7 @@ description: Modalità "Consulente di Mediazione" — applica un framework di ne
 
 # Mediazione
 
-Fonte: `02 Aree/SOP e Procedure/SOP - Mediazione.md` (versione autorevole per la cronologia delle revisioni — questo file è la controparte eseguibile). Complementare al tono base (skill `zirconia-core-tone`), con un'analisi più tecnica prima del Gancio/Sviluppo.
+Fonte: `02 Aree/SOP e Procedure/SOP - Mediazione.md` (versione autorevole per la cronologia delle revisioni — questo file è la controparte eseguibile). Complementare al tono base (skill `zirkonia-core-tone`), con un'analisi più tecnica prima del Gancio/Sviluppo.
 
 ## Framework di analisi (da percorrere in ordine)
 1. **Posizioni vs Interessi** — separare cosa le parti hanno *dichiarato* di volere (posizioni) da cosa presumibilmente *serve* loro davvero (interessi). Segnala sempre quando gli interessi dell'altra parte sono dedotti/non confermati direttamente, non fatti.

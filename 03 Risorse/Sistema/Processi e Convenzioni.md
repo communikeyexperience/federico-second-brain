@@ -100,7 +100,7 @@ summary: "Una riga che riassume il contenuto della nota"
 ```
 
 ## Principio — note atomiche, non note che crescono all'infinito (aggiunto 2026-07-07)
-Quando possibile, preferire più note piccole e collegate a una nota unica che si allunga per aggiunte successive (è già successo con `ZirconIA.md`, `Business Experience.md`, `Persone.md` — utile per ora, ma da tenere d'occhio). Un segnale che è il momento di scorporare: una nota supera abbondantemente le 200-300 righe e copre più di un argomento distinto.
+Quando possibile, preferire più note piccole e collegate a una nota unica che si allunga per aggiunte successive (è già successo con `ZirkonIA.md`, `Business Experience.md`, `Persone.md` — utile per ora, ma da tenere d'occhio). Un segnale che è il momento di scorporare: una nota supera abbondantemente le 200-300 righe e copre più di un argomento distinto.
 
 ## Passaggio "Canon" per caricamenti massivi (aggiunto 2026-07-07)
 Per trascrizioni lunghe o documenti corposi (nuove interviste EDUCAZIONE, libri, trascrizioni di riunioni lunghe): prima di strutturare in note tematiche, considerare un passaggio intermedio di estrazione dei soli fatti verificati (niente inventato, numeri che quadrano), da confermare prima di procedere — riduce il rischio di errori silenziosi su materiale lungo. Da applicare quando il materiale è particolarmente denso, non come passaggio obbligato sempre.
@@ -110,7 +110,7 @@ Nato da un caso reale: la prima sintesi della riunione Coach Academy (Ninni/Cris
 
 Regola: quando si sintetizza una riunione/trascrizione che coinvolge una parte esterna (cliente, collaboratore, partner), applicare sempre **due lenti distinte**, non una sola:
 1. i bisogni/la diagnosi della controparte (come già avviene);
-2. cosa c'è per **la Experience Suite** — non solo per la singola verticale operativa che gestisce il rapporto (es. Communikey Experience), ma per il gruppo nel suo insieme (Business Experience, Communikey Experience, ZirconIA) — opportunità commerciali, angoli di business, proposte emerse dal lato Suite durante la riunione. Precisare comunque quale verticale eseguirebbe concretamente, quando è rilevante.
+2. cosa c'è per **la Experience Suite** — non solo per la singola verticale operativa che gestisce il rapporto (es. Communikey Experience), ma per il gruppo nel suo insieme (Business Experience, Communikey Experience, ZirkonIA) — opportunità commerciali, angoli di business, proposte emerse dal lato Suite durante la riunione. Precisare comunque quale verticale eseguirebbe concretamente, quando è rilevante.
 
 Se la lente 2 non produce nulla di rilevante, va dichiarato esplicitamente ("nessuna opportunità per la Suite identificata in questa riunione"), non semplicemente omesso — per evitare sia il bias opposto (inventare opportunità dove non ce ne sono) sia la ricaduta nel bias originale (ometterle di default). Vedi applicazione in [[Coach Academy - Riunione con Ninni e Cristiano (2026-07-03)]].
 
@@ -153,7 +153,7 @@ Regole operative raccolte dai singoli progetti, centralizzate qui perché non si
 - **Coaching, linguaggio**: il coach *supporta / accompagna / sostiene*, mai *aiuta / guida / suggerisce* (quei verbi vanno bene per un ruolo di mentor o consulente, non di coach).
 - **File di lavoro (PDF, DOCX, XLSX, ecc.)**: salvare sempre direttamente nella cartella del vault (percorso corretto in PARA), mai lasciarli solo nella cartella temporanea di lavoro dell'agente.
 
-## ZirconIA Core — archiviazione in background
+## ZirkonIA Core — archiviazione in background
 
 Durante le conversazioni normali (non solo nelle sessioni di lavoro strutturato), i "Nodi di Valore" — decisioni prese, SOP generate, idee di business strutturate, sintesi di riunioni — vengono salvati proattivamente nel vault, senza chiedere il permesso ogni volta. Ogni messaggio in cui questo succede si chiude con un log sintetico delle azioni fatte sui file.
 

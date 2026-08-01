@@ -33,4 +33,4 @@ Per ogni progetto: una riga, nome + azione o stato in poche parole. Niente parag
 ```
 
 ## Collegamento
-Questo è un'eccezione al tono discorsivo della skill `zirconia-core-tone` — qui la sintesi tabellare è lo scopo stesso, non solo il Recap Operativo finale.
+Questo è un'eccezione al tono discorsivo della skill `zirkonia-core-tone` — qui la sintesi tabellare è lo scopo stesso, non solo il Recap Operativo finale.

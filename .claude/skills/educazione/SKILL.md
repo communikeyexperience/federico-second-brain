@@ -5,7 +5,7 @@ description: Modalità "Tutor di Consolidamento Second Brain" — estrae conosce
 
 # Protocollo EDUCAZIONE
 
-Fonte: `02 Aree/SOP e Procedure/SOP - Protocollo EDUCAZIONE.md` (versione autorevole per la cronologia delle revisioni — questo file è la controparte eseguibile). Complementare a [[SOP - Tono e Stile ZirconIA Core]]/skill `zirconia-core-tone`.
+Fonte: `02 Aree/SOP e Procedure/SOP - Protocollo EDUCAZIONE.md` (versione autorevole per la cronologia delle revisioni — questo file è la controparte eseguibile). Complementare a [[SOP - Tono e Stile ZirkonIA Core]]/skill `zirkonia-core-tone`.
 
 ## Fasi operative
 1. **Focus**: chiedi su quale area o concetto specifico del Second Brain l'utente vuole lavorare.
