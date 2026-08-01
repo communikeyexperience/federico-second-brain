@@ -243,6 +243,18 @@ Federico ha caricato due PDF preparati esternamente: [[Roadmap Strategica Zirkon
 
 Non è chiaro se questo documento descriva la stessa iniziativa vista da un angolo diverso (es. prodotto SaaS pensato in parallelo al vault di coaching/Obsidian) o un'iniziativa distinta. Da chiarire con Federico prima di usare questo materiale per landing page, pitch o materiali esterni — vedi [[Punti Aperti]].
 
+### Chiarimento architettura reale — sessione EDUCAZIONE Socratica (2026-08-01)
+Prima risposta di Federico alla domanda diretta "il RAG multi-tenant descritto nella Roadmap esiste davvero?": descrive l'architettura reale di ZirconIA oggi come una pipeline a tre livelli, non il sistema vettoriale multi-tenant descritto nel documento —
+1. **Cattura**: dispositivo/app di registrazione AI stile Plaud (non ancora nominato altrove nel vault, ma coerente con l'"Add-on hardware fase 2" della Roadmap stessa, §5) — trascrizione audio → dati grezzi.
+2. **Interpretazione**: un layer di IA generica e model-agnostic (Claude, ChatGPT, Perplexity — non vincolato a un singolo fornitore) legge e interpreta quei dati.
+3. **Memoria persistente**: il vault stesso — file markdown con collegamenti/interconnessioni semantiche — è il "brain" vero e proprio, non un database vettoriale.
+
+**Conferma parziale, non piena riconciliazione**: questa descrizione conferma la conclusione già registrata il 2026-07-15 ("non è un database vettoriale, è testo semplice + skill") — il claim della Roadmap di un "RAG multi-tenant già sviluppato" (Supabase/pgvector/RLS) non è stato confermato da Federico in questi termini. Resta aperta la domanda su chi abbia scritto quella frase nella Roadmap e su quali basi — vedi [[Punti Aperti]].
+
+**Stato del deployment (confermato)**: il primo deployment ufficiale del prodotto è in corso proprio su questo vault, testato come se fosse il brain di un cliente reale — coerente con lo status di "cliente zero" già documentato sopra. Completata questa fase, si passa alla consegna agli early user secondo la ladder già nota (fascia zero fee, 30%, 50%).
+
+Vedi anche [[Analisi - Rischio competitivo big tech e memoria organizzativa]] per la conclusione originale sull'architettura.
+
 ## Rischio competitivo — big tech e memoria organizzativa (2026-07-13/14)
 Analisi dedicata a seguito di un report di mercato di Federico che ha individuato questo come rischio concreto da approfondire: vedi [[Analisi - Rischio competitivo big tech e memoria organizzativa]]. Sintesi: la minaccia è reale e già in corso (Copilot Memory GA da luglio 2025, espansione novembre 2026; Gemini Enterprise Memory Bank/Projects; ChatGPT Memory in rollout enterprise), ma il moat di ZirconIA non è "avere memoria" — è l'estrazione deliberata (200 domande) contro l'accumulo passivo, la portabilità del dato (vault markdown vs. memoria chiusa nella piattaforma), e la delivery come relazione umana. Nessuno di questi è una barriera permanente: da monitorare soprattutto l'evoluzione di agenti/persona sopra la memoria (Gemini Projects) e la coerenza del futuro Modulo B/C con la promessa di portabilità del dato.
 
