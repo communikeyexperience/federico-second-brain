@@ -83,3 +83,6 @@ Concetti chiave fissati nel testo definitivo:
 - **Durata**: 12 mesi iniziali (prima 3-6), verifica mensile (prima trimestrale). A scadenza: le Parti valutano la trasformazione del rapporto in una forma societaria dedicata, oppure rinnovo tacito per altri 12 mesi.
 - **Recesso**: preavviso di 90 giorni (prima un range 30/60/90 da definire).
 - **Allegato A (checklist non contrattuale)**, 5 punti aperti: percentuale definitiva e base di calcolo; corrispettivo uso spazi; pagamento consulenza PPC/CRM Atzori; dati anagrafici/fiscali + regime cessione/licenza sui contenuti + durata/recesso/foro; titolarità del marchio "SBG Academy".
+
+### 2026-08-03 — Pulizia bozza corrotta
+Il file `Accordo Communikey - SBG (bozza, corrotta) 2026-08-03.docx`, rimasto scollegato dal grafo (`_to_delete/`), è risultato tecnicamente corrotto (archivio zip invalido, non apribile) — probabile bozza intermedia persa per il bug noto di scrittura binari. Eliminato: il contenuto è comunque già coperto per intero dal log di note qui sopra. Il testo DEFINITIVO resta da salvare manualmente in `01 Progetti/` (vedi sopra).
