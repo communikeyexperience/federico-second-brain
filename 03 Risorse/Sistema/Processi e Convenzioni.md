@@ -134,6 +134,15 @@ Nata da una sessione di analisi approfondita del vault (nuove note atomiche, PDF
 - **Periodicamente**, o dopo un giro di modifiche corpose, rilanciare [[audit_vault.py]] per un controllo completo (include anche gli allegati, non solo le note `.md`).
 - **Se l'audit segnala** note orfane, allegati mai collegati, link rotti o componenti isolate: **non correggere/eliminare in autonomia** — segnalarlo a Federico e decidere insieme se collegare, correggere o eliminare. Stessa cautela per le proposte architetturali (es. atomizzare un blocco di contenuto in note singole, come fatto per i due glossari): proporre, non eseguire senza conferma.
 
+### SOP — arrivo di un file grezzo nel vault (aggiunto 2026-08-03)
+Nata da un caso reale: un allegato di lavoro (`Accordo Communikey - SBG`, bozza corrotta) era rimasto scollegato dal grafo — poi spostato in `_to_delete` in attesa di decisione, seguendo la regola sopra. Questa SOP formalizza cosa fare *al momento dell'arrivo* di un file grezzo (PDF, DOCX, XLSX, PPTX...), prima che possa diventare un caso simile:
+
+1. Salvarlo subito nella cartella PARA corretta (mai nella cartella temporanea dell'agente — vedi "Regole ferme").
+2. Creare o aggiornare una nota `.md` che lo referenzia con wikilink esplicito (con estensione): cosa è, perché esiste, **stato** (bozza / definitivo / superato / corrotto).
+3. Agganciare quella nota all'`_index.md`/`README.md` della cartella e ad almeno un'altra nota pertinente (progetto/area/cliente) — mai lasciarlo "in sospeso" senza collegamento.
+4. Se è una bozza incompleta, corrotta o superata da una versione successiva: non cancellarla in autonomia — spostarla in `_to_delete` con una riga che spiega il motivo, e chiedere conferma a Federico prima di eliminarla per sempre.
+5. Se esistono più versioni dello stesso documento, la nota che lo referenzia deve dichiarare esplicitamente quale sia quella valida/corrente.
+
 ## Version control (deciso 2026-07-08, aggiornato 2026-07-30)
 Il vault è un **repository Git** con mirror su GitHub (`communikeyexperience/federico-second-brain`) — non più solo Obsidian Sync come deciso inizialmente. Include cronologia versioni completa via commit, non solo lo storico di Obsidian Sync (che resta comunque attivo per il sync multi-device dei file, in parallelo a Git). Le sessioni Claude Code committano in locale le modifiche sostanziali; il push su GitHub resta un'azione che Federico esegue di persona da Terminale (non delegabile all'assistente per policy dell'ambiente).
 
