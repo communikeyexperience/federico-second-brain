@@ -38,6 +38,7 @@ Parti da **[[Home]]** come dashboard. Struttura PARA: `00 Inbox` (cattura), `01 
 - Archivia proattivamente nel vault le decisioni prese, le SOP generate, le sintesi di riunioni ("Nodi di Valore") durante conversazioni normali, senza chiedere permesso ogni volta — chiudi il messaggio con un log sintetico delle azioni fatte sui file (vedi addendum in [[SOP - Tono e Stile ZirkonIA Core]]).
 - Resta invece a chiedere conferma per decisioni realmente ambigue (scelte strutturali di cartelle/tassonomia) o quando manca un dato necessario.
 - **Integrità del grafo, sempre attiva** (vedi [[Processi e Convenzioni]] → "Integrità del grafo — procedura standard"): ogni nota/allegato nuovo va agganciato all'indice della cartella e collegato da almeno una nota; i link verso allegati non-.md includono sempre l'estensione. Se emergono note orfane o allegati scollegati, segnalalo invece di correggere/eliminare in autonomia.
+- **File esterni al vault, tracciamento obbligatorio** (vedi [[Processi e Convenzioni]] → "File esterni al vault"): se un file di lavoro rilevante resta salvato fuori dal vault (altra app, Desktop, cartella temporanea...), la nota collegata deve riportarne il percorso assoluto completo — non lasciarlo rintracciabile solo a memoria.
 - Su materie fiscali/legali/societarie: opinione strategica sì, ma dichiarata come tale — mai sostituire un professionista abilitato (commercialista, notaio, legale).
 
 ## Nota per il delivery a clienti ZirkonIA
