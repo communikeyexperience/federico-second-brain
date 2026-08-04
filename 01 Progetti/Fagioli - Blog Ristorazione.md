@@ -22,10 +22,16 @@ Blog B2B SEO/GEO per Riccardo Fagioli (settore HoReCa), gestito via NotebookLM (
 ## Stato attuale
 - ✅ 80 articoli scritti (8 argomenti × 10), ognuno con .docx completo + versione LinkedIn .txt pronta
 - File di supporto alla radice: `linee_guida_editoriali.md`, `prompt_stile.txt`, `keyword_report.txt`, ricerche/sintesi (`sintesi_fagioli.md`, `trend_research.json`)
-- Da verificare: quanti di questi 80 sono già pubblicati sul sito vs ancora in coda
+- 26 articoli pubblicati sul blog al 31/07, di cui 10 rilanciati su entrambi i canali social (LinkedIn + Facebook) — vedi [[Fagioli - Registro Pubblicazioni Social]]
+- Pulizia SEO tecnica (sitemap, feed, archivi autore, robots.txt, 47 link interni stale) completata il 28/07 — vedi [[Fagioli - Esclusione Pagine Tecniche dall'Indicizzazione (SEO)]]
 
 ## Prossimi passi
 - [ ] Verificare stato pubblicazione reale su riccardofagioli.it (quanti articoli live)
+- [ ] Portare sui social i 16 articoli rimasti indietro (vedi registro pubblicazioni)
+
+## Log e documentazione
+- [[Fagioli - Esclusione Pagine Tecniche dall'Indicizzazione (SEO)]] — intervento SEO del 28/07/26 (sitemap, feed, robots.txt, link interni stale)
+- [[Fagioli - Registro Pubblicazioni Social]] — registro manuale delle pubblicazioni LinkedIn/Facebook, da aggiornare a ogni post
 
 ## Note
 ⚠️ Regola ferma: mai toccare le featured image degli articoli.

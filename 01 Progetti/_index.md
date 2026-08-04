@@ -1,4 +1,4 @@
----
+﻿---
 tipo: indice
 tags: [sistema, indice]
 ---
@@ -26,6 +26,10 @@ tags: [sistema, indice]
 - [[Riunione con Roberto Atzori - Collaborazione e Iknosys (2026-07-18)]]
 - [[Sartiglia - Servizio Fotografico]]
 - [[ZirkonIA - Piano Beta Testing e Cronoprogramma Matteo]]
+- [[ZirkonIA - Piano di Consegna (Presentazione, Playbook, Protocollo, Packaging)]]
+- [[ZirkonIA - Protocollo di Delivery (Metodo e Cronoprogramma Annuale)]]
+- [[ZirkonIA - Playbook Cliente (Contenuto Sorgente)]]
 
 **Sottocartelle:**
+- [[01 Progetti/Fagioli - Blog Ristorazione/_index|Fagioli - Blog Ristorazione]]
 - [[01 Progetti/Federico Gaudino - Sito/_index|Federico Gaudino - Sito]]

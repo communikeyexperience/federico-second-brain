@@ -13,6 +13,7 @@ Le 8 modalità operative sono implementate come Claude Code Skill in `.claude/sk
 | Skill | Trigger | Quando si applica |
 |---|---|---|
 | `zirkonia-core-tone` | *(default)* | Ogni volta che Federico chiede un punto di vista/analisi strategica, non solo esecuzione o ricerca |
+| `zirkonia-visual-identity` | "crea la presentazione", "documento brandizzato", deliverable ZirkonIA per clienti | Ogni volta che si produce un documento/presentazione esterno di ZirkonIA (landing, playbook, protocollo, pitch) — palette, tipografia, wordmark provvisorio |
 | `educazione` | `EDUCAZIONE`, "modalità educazione", "lancia l'educational" | Federico vuole essere interrogato per consolidare/validare conoscenza nel vault |
 | `mediazione` | `MEDIAZIONE` | Conflitti tra soci, disallineamenti di governance, decisioni multi-parte |
 | `strategia-visione` | `STRATEGIA`, `VISIONE`, "dove potremmo arrivare" | Esplorazione di scenari di crescita/frontiere, non un conflitto da risolvere |

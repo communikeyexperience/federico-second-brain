@@ -155,5 +155,14 @@ Vedi [[ZirkonIA - Piano Beta Testing e Cronoprogramma Matteo]].
 - [ ] Il roster nominato finora (Fascia 0: 1-2 persone, Fascia 1: 5 persone) supera già la stima di "5-6 totali" — da notare, non ancora un problema
 - [ ] Costruire il Modulo B/C (backend su API commerciale) — prerequisito per il modello "account gestiti da Communikey" a regime, vedi [[ZirkonIA]] → "Architettura MVP"
 
+## ZirkonIA — Piano di Consegna, quattro pilastri (2026-08-04)
+Vedi [[ZirkonIA - Piano di Consegna (Presentazione, Playbook, Protocollo, Packaging)]].
+- [ ] Presentazione/landing (~60%): scrivere copy definitivo sulla struttura decisa + validare il gancio "capitale" con un confronto reale stile Atzori
+- [x] Playbook stampabile: **bozza v1 completata 2026-08-04** (20 pagine, brandizzata) — vedi [[ZirkonIA - Playbook Cliente (Contenuto Sorgente)]]. Resta da validare con Federico e personalizzare per ogni beta tester reale (oggi ha un placeholder "Preparato per").
+- [x] Protocollo interno (100 domande → deployment → 3-4 riunioni di allineamento): **formalizzato 2026-08-04**, vedi [[ZirkonIA - Protocollo di Delivery (Metodo e Cronoprogramma Annuale)]]
+- [ ] Verificare sul campo la cadenza trimestrale dei 4 incontri di allineamento con il primo beta tester che arriva al mese 12
+- [ ] Packaging brandizzato: attende la forma definitiva di ZirkonIA Touch prima di poter partire con un brief di design
+- [x] Logo/asset di brand ufficiali — **risolto 2026-08-04**: Federico ha fornito icona e wordmark reali, vedi [[Brand Kit ZirkonIA]]. Palette e tipografia della SOP Identità Visiva corrette di conseguenza (v1 era una stima provvisoria, ora superata).
+
 ## Note
 Vedi anche [[Persone]] per la disambiguazione degli omonimi.

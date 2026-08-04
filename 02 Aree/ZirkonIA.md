@@ -65,6 +65,9 @@ Questo sposta la promessa su un secondo asse, complementare a quello del 2026-07
 3. **Consegna ZirkonIA Touch** *(superato: Cube — oggetto fisico in ceramica zirconia, durezza 9.5 Mohs, inerte chimicamente, interfaccia vocale da scrivania — messo da parte dal 2026-07-15, vedi sezione "Pivot hardware")*: dispositivo fisico indossabile/portatile, forma esatta ancora da definire.
 4. **Evoluzione Continua**: aggiornamenti trimestrali del vault, assistenza dedicata, la memoria cresce con l'azienda.
 
+### Piano di consegna — i quattro pilastri (2026-08-04)
+Federico ha scomposto la Fase 3 (Consegna) e la presentazione commerciale a monte in quattro pezzi concreti da portare a completamento: **presentazione/landing** (stimata al 60%), **playbook stampabile** (non ancora iniziato), **protocollo interno** (100 domande → deployment → 3-4 riunioni di allineamento, in gran parte già descritto in questa nota ma da formalizzare come SOP unica) e **packaging brandizzato** (concetto "cofanetto" nominato il 2026-08-01, non ancora progettato — dipende dalla forma finale di ZirkonIA Touch). Dettaglio completo, stato per pilastro e prossimi passi in [[ZirkonIA - Piano di Consegna (Presentazione, Playbook, Protocollo, Packaging)]].
+
 ## Principio fondativo — l'"esoscheletro cognitivo" (confermato 2026-07-03)
 Articolato da Federico in sessione EDUCAZIONE: ZirkonIA non deve essere solo un archivio interrogabile (memoria passiva), ma un secondo strato che **ragiona con competenze che la persona fisicamente non può avere o non ha tempo di acquisire** — posizionamento, strategia d'impresa, finanza — sempre **ancorate ai dati reali del cliente**, non consigli generici da manuale.
 

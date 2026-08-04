@@ -44,3 +44,6 @@ Ogni voce usa il template [[Templates/Strategia|Strategia]] quando si tratta di 
 - [[Strategia - Cosa Vendiamo Davvero (Capitale di Informazioni ZirkonIA)]]
 - [[Strategia - Frontiere di sviluppo Suite Experience (2026-2030)]]
 - [[Strategia - Personas Acquirenti ZirkonIA]]
+
+**Sottocartelle:**
+- [[03 Risorse/Capitale Intellettuale/Brand/_index|Brand]] — asset ufficiali di logo ZirkonIA, vedi [[Brand Kit ZirkonIA]]
