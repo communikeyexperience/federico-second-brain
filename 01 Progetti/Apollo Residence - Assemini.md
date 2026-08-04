@@ -113,6 +113,7 @@ Federico indica una landing page su business-experience.it, ma **non trovata**: 
 - [x] Preventivo attrezzatura informatica (PC) — bozza pronta (Tuttomedia, €6.986,53, v4 senza AppleCare+), da far timbrare/firmare da Alessandro prima della consegna a Nicola
 - [ ] Preventivo attrezzatura da cantiere — richiesta spedita a Würth, in attesa di risposta
 - [x] Preparare business plan e presentazione del progetto per la pratica di microcredito — inviati a Nicola il 2026-07-09 insieme al CV di Federico
+- [ ] Inviare mail ai tre notai consigliati da Giancarlo Iba per una quotazione sull'atto di passaggio quote di [[Business Experience]] (previsto 2026-08-05) — riguarda la governance della società General Contractor di questo progetto, vedi [[Business Experience]]
 - [ ] Predisporre anticipo (~€1.000, indicativo) a Domenico (ingegnere strutturista) — chiedere supporto a Monia Boncioli
 - [ ] Risentire Riccardo Schirru (Schirru Associati) per conferma presentazione progetto prima della chiusura lavori di agosto — nessuna risposta finora
 - [ ] Incontro con gli ingegneri la sera del 2026-07-03 per valutare varie questioni sul progetto — aggiornare qui dopo l'incontro
@@ -123,3 +124,4 @@ Federico indica una landing page su business-experience.it, ma **non trovata**: 
 - [ ] Verificare se il margine di ~26% include tutti i costi (costruzione + oneri + commercializzazione) o solo costruzione
 
 ## Note
+**Aggiornamento 2026-08-04**: Federico ha incontrato il nuovo commercialista **Giancarlo Iba**, che preparerà una quotazione per la tenuta dei bilanci e la parte commerciale di [[Business Experience]] (general contractor di questo progetto). Nella stessa riunione ha consigliato tre notai per il passaggio della quota di **Monia Boncioli** a Federico — passaggio di governance che riguarda direttamente chi controlla la società che sviluppa Apollo Residence. Dettaglio completo (nomi dei notai, prossimi passi) in [[Business Experience]].
