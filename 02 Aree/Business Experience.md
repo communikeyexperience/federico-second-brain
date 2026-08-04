@@ -126,6 +126,16 @@ Con l'uscita di **Monia Boncioli** (vedi trattativa quota sopra), Federico ha in
 
 **Chiuso (2026-07-10)**: visura camerale scaricata da Federico e inviata ad Antonello. Nessuna azione residua su questo punto — resta solo da seguire l'esito delle pratiche di trasferimento quote lato Antonello.
 
+## Nuovo commercialista — Giancarlo Iba, e notai per il passaggio quote (nuovo, 2026-08-04)
+Federico ha appena concluso una riunione con **Giancarlo Iba**, commercialista: preparerà una quotazione per la tenuta dei bilanci e di tutta la parte commerciale della società. **Da chiarire con Federico**: relazione con [[Persone|Antonello]] (nuovo commercialista incaricato 2026-07-09 per il trasferimento quote, vedi sopra) — non è chiaro se Giancarlo lo sostituisce o se sono due incarichi/figure distinte.
+
+Nella stessa riunione, Giancarlo ha consigliato a Federico **tre notai** per il passaggio delle quote societarie da **Monia Boncioli** a Federico (vedi trattativa quota sopra):
+- **Federico Pavan**
+- Notaio **"Unrichter"** (nome sentito foneticamente in una nota vocale, trascrizione incerta — da confermare con Federico)
+- Notaio **Galliero**
+
+**Prossimo passo**: domani (2026-08-05) invio di una mail ai tre notai per richiedere una quotazione sull'atto di passaggio quote.
+
 ## Modello di business
 - **Operazioni Full Custom** — realizzazione chiavi in mano su richiesta del cliente
 - **Diventa Investitore** — finanziamento di progetti di sviluppo immobiliare

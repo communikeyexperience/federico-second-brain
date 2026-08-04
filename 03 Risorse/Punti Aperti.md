@@ -46,6 +46,9 @@ Tutte le domande/conferme in sospeso sparse nel vault, raccolte in un solo posto
 - [ ] Cosa sia "Axedra", il progetto di Monia
 - [ ] Costo reale della fideiussione bancaria richiesta da Monia (da verificare con un professionista prima di accettare)
 - [ ] Chiarire se il ruolo di Monia è "Property Management" o "commercialista della società" (discrepanza tra nota fondatori e conversazione 2026-07-03)
+- [ ] Inviare domani (2026-08-05) una mail ai tre notai consigliati da Giancarlo Iba (Federico Pavan, notaio "Unrichter" da confermare, notaio Galliero) per richiedere una quotazione sull'atto di passaggio quote
+- [ ] Quotazione di Giancarlo Iba (nuovo commercialista, riunione 2026-08-04) per tenuta bilanci e parte commerciale — attesa
+- [ ] Chiarire relazione tra Giancarlo Iba e Antonello (stesso incarico, sostituzione, o ruoli distinti?) — vedi [[Business Experience]] e [[Persone]]
 
 ## Il Ricciolo (aggiornato 2026-07-08 — ora area propria, vedi [[Il Ricciolo]])
 - [x] Identità di "Matteo" → **Matteo Gaudino**, fratello di Federico, socio al 51% in "Ricciolo Manzoni"
