@@ -41,6 +41,11 @@ La memoria è il mezzo, non la promessa. La vera promessa è **decisionale**: il
 
 **Angolo cieco**: la promessa "decisionale" è più vera ma meno immediata di "memoria" per un primo sguardo sulla landing — probabile che serva un hook concreto (memoria, sempre presente) + un payoff che sposti la promessa in avanti (competenza/lucidità), non uno dei due da solo.
 
+**Landing page HTML — copiata nel vault (2026-08-04)**: [[ZirkonIA - Landing Page (HTML).html|ZirkonIA - Landing Page]] (titolo "ZirkonIA — Your limitless brain", hero con grafo di nodi concettuali, "Prenota una call"/"Scopri come funziona"), in `03 Risorse/Capitale Intellettuale/`. Era rimasta irraggiungibile per giorni perché salvata solo in una sessione separata di Claude Desktop ("local agent mode") e nessuna nota ne riportava la posizione — caso che ha originato la regola in [[Processi e Convenzioni]] → "File esterni al vault". Copia originale (provenienza, non più l'unica esistente):
+```
+/Users/federicogaudino/Library/Application Support/Claude/local-agent-mode-sessions/c2eba406-5680-4e53-ae08-51928ecd2d8e/a87f15e6-34af-409b-a1f9-a99ee6d013e1/local_bac022a5-21fc-43a6-8b9b-ccb1668d0759/uploads/zirkonia-landing.html
+```
+
 ### Sviluppo — frame "C-suite personale" (2026-07-11, proposta di Federico)
 Federico propone un frame concettuale più concreto per la landing: ZirkonIA come **board personale/C-suite virtuale** (CEO, CFO, CMO, coach, ghostwriter...) che affianca l'imprenditore lungo un percorso, invece di un generico "second brain intelligente". Diagnosi di Federico sul perché le persone non raggiungono gli obiettivi: non è che il metodo non esista (es. dimagrire, mettersi in forma — il "come" è noto), è che si decide di getto, senza dati, senza restare ancorati a un processo nel tempo.
 

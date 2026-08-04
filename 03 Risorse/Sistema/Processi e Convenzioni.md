@@ -143,6 +143,13 @@ Nata da un caso reale: un allegato di lavoro (`Accordo Communikey - SBG`, bozza 
 4. Se è una bozza incompleta, corrotta o superata da una versione successiva: non cancellarla in autonomia — spostarla in `_to_delete` con una riga che spiega il motivo, e chiedere conferma a Federico prima di eliminarla per sempre.
 5. Se esistono più versioni dello stesso documento, la nota che lo referenzia deve dichiarare esplicitamente quale sia quella valida/corrente.
 
+## File esterni al vault — tracciamento obbligatorio (aggiunto 2026-08-04)
+Nato da un caso reale: la landing page `zirkonia-landing.html` era stata caricata in una sessione separata di Claude Desktop (modalità "local agent") e mai più ritrovata — nessuna nota del vault ne riportava la posizione, quindi era di fatto lavoro perso finché non è stata ritrovata a mano.
+
+**Regola**: ogni volta che un file di lavoro rilevante per un progetto/nota del vault resta salvato **fuori** dal vault — cartella di un'altra app (es. le sessioni locali di Claude Desktop), Desktop, cartella temporanea, un repository come `STUDIO` se il file non è pensato per starci — la nota del vault a cui quel file si collega deve riportare **il percorso assoluto completo** e una riga di contesto su cosa sia e perché si trova lì. Vale sia quando il file avrebbe dovuto essere salvato nel vault e per qualche motivo non lo è stato (fallback rispetto alla regola ferma sopra), sia quando resta fuori di proposito (es. un repository di codice).
+
+Niente registro centralizzato separato: la traccia vive nella nota pertinente, dove chi legge la trova già nel contesto giusto. Se non è chiaro a quale nota collegarla, usare la nota di progetto più vicina o chiedere a Federico.
+
 ## Version control (deciso 2026-07-08, aggiornato 2026-07-30)
 Il vault è un **repository Git** con mirror su GitHub (`communikeyexperience/federico-second-brain`) — non più solo Obsidian Sync come deciso inizialmente. Include cronologia versioni completa via commit, non solo lo storico di Obsidian Sync (che resta comunque attivo per il sync multi-device dei file, in parallelo a Git). Le sessioni Claude Code committano in locale le modifiche sostanziali; il push su GitHub resta un'azione che Federico esegue di persona da Terminale (non delegabile all'assistente per policy dell'ambiente).
 

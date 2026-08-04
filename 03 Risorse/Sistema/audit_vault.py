@@ -45,6 +45,7 @@ EXTRA_VALID_EXTENSIONS = {
     ".base", ".canvas",
     ".pdf", ".docx", ".doc", ".pptx", ".ppt", ".xlsx", ".xls", ".csv",
     ".png", ".jpg", ".jpeg", ".gif", ".mp4", ".mp3", ".zip", ".key", ".py",
+    ".html",
 }
 
 EXEMPT_FROM_MIN_LINKS = {
