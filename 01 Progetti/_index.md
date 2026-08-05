@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: indice
 tags: [sistema, indice]
 ---
