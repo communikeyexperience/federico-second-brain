@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: indice
 tags: [sistema, indice]
 ---
@@ -25,6 +25,7 @@ tags: [sistema, indice]
 - [[Riunione Roby e Riccardo Fagioli - Strategia Lead Generation Iknosys (2026-07-24)]]
 - [[Riunione con Roberto Atzori - Collaborazione e Iknosys (2026-07-18)]]
 - [[Sartiglia - Servizio Fotografico]]
+- [[ZirkonIA - App (Sviluppo Tecnico)]]
 - [[ZirkonIA - Piano Beta Testing e Cronoprogramma Matteo]]
 - [[ZirkonIA - Piano di Consegna (Presentazione, Playbook, Protocollo, Packaging)]]
 - [[ZirkonIA - Protocollo di Delivery (Metodo e Cronoprogramma Annuale)]]

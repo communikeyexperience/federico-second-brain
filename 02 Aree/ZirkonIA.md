@@ -196,6 +196,8 @@ Federico vuole definire la prima versione da dare a early user (persone della pr
 
 **Interfaccia consigliata**: canale a minor attrito possibile (chat web semplice o bot su canale già installato tipo WhatsApp/Telegram), non un'app nativa da scaricare — coerente col target piccolo imprenditore non tecnico.
 
+**Sviluppo tecnico avviato (dal 2026-08-06)**: il Modulo B/C descritto sopra è ora in costruzione attiva — front-end di chat Next.js + RAG ("app ZirkonIA": chat, RAG, grafo, dashboard) nel repository `STUDIO`, in packaging come app desktop Windows via Electron. Dettaglio tecnico, stato e file coinvolti in [[ZirkonIA - App (Sviluppo Tecnico)]].
+
 **Alternativa a costo zero, nominata per completezza**: Claude.ai Projects — accessibile ovunque senza build, ma sola consultazione, nessun write-back nel vault. Utile come demo rapida, non come prodotto (rompe la promessa "board sempre acceso, che ti tiene sul percorso").
 
 **Angolo cieco aperto**: con più early user reali, il punto già aperto sotto ("isolare l'IP/i materiali commerciali... quando arriveranno clienti reali con dati sensibili") diventa immediato — ogni early user necessita vault isolato (come fatto con Cristiano Musa), il backend condiviso deve distinguere gli utenti fin dal primo test.
