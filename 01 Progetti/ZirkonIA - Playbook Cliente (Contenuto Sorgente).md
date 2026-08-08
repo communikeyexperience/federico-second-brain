@@ -5,12 +5,14 @@ stato: attivo
 priorita: alta
 cliente: ""
 tags: [zirkonia, playbook, consegna, copilot, cronosequenza]
-summary: "Contenuto sorgente (markdown) del Playbook stampabile ZirkonIA — pilastro 2 del Piano di Consegna. Intro visionaria, spiegazione del sistema, struttura, grafo, EDUCAZIONE, uso quotidiano, regole d'uso, cronosequenza ipotetica di crescita."
+summary: "Contenuto sorgente (markdown) del Playbook stampabile ZirkonIA — pilastro 2 del Piano di Consegna. Intro visionaria, spiegazione del sistema, struttura, grafo, EDUCAZIONE, uso quotidiano, regole d'uso, e (dal 2026-08-08) il sistema di maturità cosmico della dashboard (Nebula/Nucleus/Comet/Planet/Galaxy) al posto della vecchia cronosequenza generica. Versione brandizzata v2 (21 pagine, logo reale) generata il 2026-08-08 — vedi [[ZirkonIA - Playbook Cliente v2.pdf]]."
 ---
 
 # ZirkonIA — Playbook Cliente (contenuto sorgente)
 
 > Nota sorgente del **Playbook stampabile** (pilastro 2 del [[ZirkonIA - Piano di Consegna (Presentazione, Playbook, Protocollo, Packaging)|Piano di Consegna]]) — richiesta diretta di Federico il 2026-08-04, dopo il Protocollo di Delivery. Il documento brandizzato (PDF, 20+ pagine) è generato a partire da questo contenuto, secondo [[SOP - Identità Visiva ZirkonIA]]. Placeholder `[Nome Cliente]` da sostituire alla consegna reale a ogni beta tester.
+>
+> **Raffinata il 2026-08-08**: la sezione "cronosequenza di crescita" (5 punti generici) è stata sostituita dal sistema di maturità cosmico sviluppato nella sessione dedicata — vedi [[Strategia - Dashboard Maturità del Brain (Sistema di Livelli)]] per il ragionamento completo e [[Report - Sessione Dashboard Maturità ZirkonIA (2026-08-08)]] per il percorso. **La versione brandizzata v2 è stata generata lo stesso giorno** — vedi [[ZirkonIA - Playbook Cliente v2.pdf]] e il blocco "Versione brandizzata" in fondo.
 
 ## Immagina (apertura)
 È lunedì mattina. Un cliente ti chiama con una domanda che pensavi di aver già risolto due anni fa — e in dieci secondi hai la risposta, con i numeri esatti, non un ricordo approssimativo.
@@ -99,14 +101,16 @@ Non un generico "second brain intelligente": pensalo come un **board personale s
 
 **Il confine**: c'è una linea netta tra applicare framework per strutturare il tuo ragionamento sui tuoi dati (questo è il prodotto) e dare consulenza con l'autorevolezza di un professionista abilitato (questo non lo fa mai). Su materie fiscali, legali o di investimento, l'opinione resta strategica, mai spacciata per certezza professionale.
 
-## La cronosequenza di crescita — ipotetica
-Una proiezione di come il tuo capitale informativo può crescere, se lo alimenti con costanza. Non una promessa — una direzione.
+## Il tuo brain cresce — la dashboard di maturità
+Il tuo secondo cervello non è statico: cresce, e lo vedi crescere. Nella tua dashboard, sotto ai numeri (parole, note, collegamenti), trovi lo stadio a cui sei arrivato — cinque tappe pensate per raccontare la stessa cosa che vedi succedere guardando il grafo: una nube di dati che via via si addensa, si muove, e diventa un corpo compiuto.
 
-1. **Giorno 10 — Il tuo secondo cervello è vivo**: le basi sono scritte, puoi già interrogarlo.
-2. **3 mesi — Il manuale operativo**: i tuoi processi chiave sono scritti, la prima vera leva negoziale è misurabile.
-3. **1 anno — La fabbrica dei derivati**: un libro, un playbook per chi verrà dopo di te, una data room pronta, un motore di contenuti che parte dalla tua voce reale.
-4. **3 anni — Il sistema che si autoalimenta**: nuovi collaboratori operativi in giorni, non mesi; decisioni di anni fa richiamabili in secondi.
-5. **10 anni — L'eredità**: un patrimonio trasferibile — a un successore, a chi acquisirà l'azienda, a chi verrà dopo di te.
+1. **Nebula** *(0 – 25.000 parole)* — l'inizio. Hai risposto alle prime domande, il brain esiste ma non collega ancora nulla. È normale: ogni cosa che esiste è cominciata così.
+2. **Nucleus** *(25.000 – 250.000 parole)* — un centro si è formato. Il brain comincia a ricordare — non ragiona ancora con te, ma non riparte più da zero. Ora il lavoro passa nelle tue mani: EDUCAZIONE in autonomia, senza il coach in sessione.
+3. **Comet** *(250.000 – 1.000.000 parole)* — il brain si muove con te: entra nelle riunioni, nelle decisioni, negli strumenti che già usi ogni giorno. Comincia a notare, nei tuoi stessi pattern, quello che tu per primo non avevi messo a fuoco.
+4. **Planet** *(oltre 1.000.000 di parole)* — un anno di lavoro — il tuo, non il nostro — compattato in qualcosa che non evapora più. Da qui nascono i derivati: il tuo libro, il tuo playbook, il tuo passaggio generazionale. Il traguardo è di sostanza, non di calendario: arrivarci prima o dopo dodici mesi dipende da quanto nutri il brain, non da una scadenza imposta.
+5. **Galaxy** *(dal primo rinnovo in poi)* — ogni anno che rinnovi, il tuo mondo prende un nome nuovo (il primo si chiama **Prima Lux**) e si apre a progetti nuovi, che un anno prima non erano nemmeno pensabili.
+
+**Non è una gara, e non è un voto**: è la fotografia di quanto il brain ha lavorato per te finora. Più lo nutri, più le sue risposte sono precise e calibrate sul tuo contesto — la dashboard mostra anche il tuo **ritmo medio** (quanto lo alimenti, in media, ogni giorno), non per metterti sotto pressione, ma perché tu possa vedere con chiarezza dove sei diretto. In fondo alla dashboard trovi anche una lista di cose da fare — la tua, aggiornabile ogni giorno, separata dalla crescita del brain.
 
 ## Il tuo primo anno con Communikey (recap)
 Dettaglio completo in [[ZirkonIA - Protocollo di Delivery (Metodo e Cronoprogramma Annuale)]]. In sintesi: Giorno 0 le ~100 domande, Giorno 10 la consegna operativa, poi quattro incontri — Mese 3 Consolidamento, Mese 6 Espansione, Mese 9 Validazione, Mese 12 Bilancio e Rinnovo.
@@ -118,8 +122,12 @@ Dettaglio completo in [[ZirkonIA - Protocollo di Delivery (Metodo e Cronoprogram
 - **Cosa faccio se non so cosa chiedere?** Usa la modalità EDUCAZIONE: ti guida lei con le domande.
 - **A chi mi rivolgo per assistenza?** Al tuo referente Communikey — i contatti sono nell'ultima pagina del playbook stampato.
 
-## Versione brandizzata — "ZirkonIA - Playbook.pdf" (v1, 2026-08-04)
-Generata da questa nota secondo [[SOP - Identità Visiva ZirkonIA]]: 20 pagine A4, logo e wordmark ufficiali, watermark cristallino su ogni pagina, diagrammi (grafo, cronosequenza a gradini). **Stato: bozza v1, consegnata in chat a Federico — non ancora salvata come file nel vault** (stesso limite tecnico già noto, vedi nota di memoria "Accesso al vault"). Placeholder "Preparato per: ___" da personalizzare a ogni consegna reale.
+## Versione brandizzata — v2 generata (2026-08-08)
+La v1 (20 pagine A4, generata secondo [[SOP - Identità Visiva ZirkonIA]]) conteneva la vecchia "cronosequenza ipotetica" a 5 punti generici — **superata dal contenuto**, non più valida.
+
+**File**: [[ZirkonIA - Playbook Cliente v2.pdf]] — 21 pagine A4, generato il 2026-08-08 secondo [[SOP - Identità Visiva ZirkonIA]], con logo e wordmark reali (icona "Z cristallino" + wordmark ufficiale, [[Brand Kit ZirkonIA]]) e il sistema di maturità cosmico (§"Il tuo brain cresce" sopra) come cinque pagine dedicate (Nebula/Nucleus/Comet/Planet/Galaxy), più la rinomina annuale della Galaxy (Prima Lux/Magnum Opus/Mens Aeterna). Copertina, sezioni e stadi seguono la palette e la tipografia della SOP (fondo `#050607`, verde `#3BC79B` per setup, blu `#5B90D1` per evoluzione, numeri/soglie in monospace, sigillo "Verba volant, data manent." in chiusura sotto il wordmark reale).
+
+**Ancora placeholder**: `[Nome Cliente]` in copertina — da sostituire alla consegna reale a ogni beta tester. Contatti del referente Communikey non ancora inseriti in ultima pagina (segnaposto FAQ generico) — da aggiungere quando si assegna il primo cliente reale.
 
 ## Collegamenti
 - [[ZirkonIA - Piano di Consegna (Presentazione, Playbook, Protocollo, Packaging)]]
@@ -130,4 +138,8 @@ Generata da questa nota secondo [[SOP - Identità Visiva ZirkonIA]]: 20 pagine A
 - [[Report - Sessione Landing ZirkonIA (2026-07-20)]]
 - [[Intervista - Rapporto con l'Informazione e Processi Mentali]]
 - [[Intervista - Il Campo di Battaglia, Strategia e Team]]
-- [[Strategia - Dashboard Maturità del Brain (Sistema di Livelli)]] — tabella task-per-stadio (Nebula/Nucleus/Comet/Planet/Galaxy) da incorporare qui, e da riconciliare con la cronosequenza già presente sopra
+- [[Strategia - Dashboard Maturità del Brain (Sistema di Livelli)]] — il ragionamento completo dietro il sistema di maturità appena incorporato sopra
+- [[ZirkonIA - Presentazione Dashboard Maturità del Brain (Contenuto Sorgente)]] — testi completi per stadio, versione estesa di quanto riassunto qui
+- [[ZirkonIA - Dashboard Maturità del Brain (Specifica Tecnica)]] — dettaglio tecnico per chi sviluppa la dashboard che questo playbook descrive
+- [[Brand Kit ZirkonIA]] — stato reale degli asset di logo, vedi blocco sopra
+- [[ZirkonIA - Playbook Cliente v2.pdf]] — il PDF brandizzato generato da questo contenuto

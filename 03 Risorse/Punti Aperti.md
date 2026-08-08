@@ -161,11 +161,11 @@ Vedi [[ZirkonIA - Piano Beta Testing e Cronoprogramma Matteo]].
 ## ZirkonIA — Piano di Consegna, quattro pilastri (2026-08-04)
 Vedi [[ZirkonIA - Piano di Consegna (Presentazione, Playbook, Protocollo, Packaging)]].
 - [ ] Presentazione/landing (~60%): scrivere copy definitivo sulla struttura decisa + validare il gancio "capitale" con un confronto reale stile Atzori
-- [x] Playbook stampabile: **bozza v1 completata 2026-08-04** (20 pagine, brandizzata) — vedi [[ZirkonIA - Playbook Cliente (Contenuto Sorgente)]]. Resta da validare con Federico e personalizzare per ogni beta tester reale (oggi ha un placeholder "Preparato per").
+- [x] Playbook stampabile: **v1 (2026-08-04) superata, v2 generata 2026-08-08** (21 pagine, logo e wordmark reali, sistema di maturità cosmico) — vedi [[ZirkonIA - Playbook Cliente v2.pdf]] e contenuto sorgente [[ZirkonIA - Playbook Cliente (Contenuto Sorgente)]]. Resta da sostituire il placeholder `[Nome Cliente]` e aggiungere i contatti del referente per ogni beta tester reale.
 - [x] Protocollo interno (100 domande → deployment → 3-4 riunioni di allineamento): **formalizzato 2026-08-04**, vedi [[ZirkonIA - Protocollo di Delivery (Metodo e Cronoprogramma Annuale)]]
 - [ ] Verificare sul campo la cadenza trimestrale dei 4 incontri di allineamento con il primo beta tester che arriva al mese 12
 - [ ] Packaging brandizzato: lavoro avviato (2026-08-08) — creazione del cofanetto con libretti/playbook; serie di esemplari ZirkonIA Touch in viaggio, test da fare all'arrivo prima di finalizzare la forma del packaging
-- [x] Logo/asset di brand ufficiali — **risolto 2026-08-04**: Federico ha fornito icona e wordmark reali, vedi [[Brand Kit ZirkonIA]]. Palette e tipografia della SOP Identità Visiva corrette di conseguenza (v1 era una stima provvisoria, ora superata).
+- [x] Logo/asset di brand ufficiali — **descritti 2026-08-04, file veri salvati nel vault 2026-08-08**: Federico ha fornito icona e wordmark reali, vedi [[Brand Kit ZirkonIA]]. Tra le due date i file erano solo consegnati in chat, non ancora nella cartella `Brand/` — chiuso definitivamente l'8/8. Palette e tipografia della SOP Identità Visiva corrette di conseguenza (v1 era una stima provvisoria, ora superata).
 
 ## ZirkonIA — Dashboard Maturità del Brain, specifica tecnica pronta (nuovo, 2026-08-08)
 Vedi [[ZirkonIA - Dashboard Maturità del Brain (Specifica Tecnica)]] — deriva da [[Strategia - Dashboard Maturità del Brain (Sistema di Livelli)]].

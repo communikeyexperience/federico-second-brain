@@ -166,7 +166,7 @@ Federico vuole che l'intero lavoro si appoggi anche a concetti di fisica quantis
 - [ ] Definire le metriche mancanti (numero Aree attive, densità media di collegamento) lato applicativo
 - [ ] Disegnare la vista "due assi" (ampiezza × consistenza) come layer secondario sotto lo stadio principale
 - [ ] Prototipare visivamente lo stadio corrente sulla dashboard (mockup) prima di toccare codice
-- [ ] Incorporare la tabella task-per-stadio in [[ZirkonIA - Playbook Cliente (Contenuto Sorgente)]] come sezione ufficiale
+- [x] Incorporato il sistema di maturità (in forma condensata) in [[ZirkonIA - Playbook Cliente (Contenuto Sorgente)]], sostituendo la vecchia cronosequenza generica — 2026-08-08
 
 ## Collegamenti
 - [[Report - Sessione Dashboard Maturità ZirkonIA (2026-08-08)]] — report narrativo dell'intera sessione, per chi vuole il percorso invece del solo risultato

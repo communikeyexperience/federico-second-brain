@@ -46,7 +46,7 @@ Il "cofanetto" (box fisico con registratore AI + playbook) è già stato nominat
 | Pilastro | Stato | Prossimo passo |
 |---|---|---|
 | Presentazione/landing | ~60% | Scrivere copy definitivo + validare "capitale" |
-| Playbook | **Bozza v1 completata 2026-08-04** — vedi [[ZirkonIA - Playbook Cliente (Contenuto Sorgente)]] (20 pagine) | Validare i contenuti con Federico, poi personalizzare per il primo beta tester reale |
+| Playbook | **PDF v2 generato 2026-08-08** — 21 pagine A4, logo e wordmark reali, sistema di maturità cosmico al posto della vecchia cronosequenza — vedi [[ZirkonIA - Playbook Cliente v2.pdf]], contenuto sorgente in [[ZirkonIA - Playbook Cliente (Contenuto Sorgente)]] | Sostituire il placeholder `[Nome Cliente]` e aggiungere i contatti del referente Communikey quando si assegna il primo beta tester reale |
 | Protocollo interno | **Formalizzato 2026-08-04** — vedi [[ZirkonIA - Protocollo di Delivery (Metodo e Cronoprogramma Annuale)]] | Costruire la versione brandizzata (in corso) |
 | Packaging | Concetto nominato, non progettato | Attendere forma ZirkonIA Touch, poi brief di design |
 

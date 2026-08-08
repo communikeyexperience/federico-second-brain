@@ -30,8 +30,10 @@ tags: [sistema, indice]
 - [[ZirkonIA - Piano di Consegna (Presentazione, Playbook, Protocollo, Packaging)]]
 - [[ZirkonIA - Protocollo di Delivery (Metodo e Cronoprogramma Annuale)]]
 - [[ZirkonIA - Playbook Cliente (Contenuto Sorgente)]]
+- [[ZirkonIA - Playbook Cliente v2.pdf]]
 - [[ZirkonIA - Presentazione Dashboard Maturità del Brain (Contenuto Sorgente)]]
 - [[ZirkonIA - Dashboard Maturità del Brain (Specifica Tecnica)]]
+- [[ZirkonIA - Dashboard Maturità del Brain (Report di Funzionamento)]]
 - [[ZirkonIA - Prompt di Implementazione Dashboard Maturità del Brain]]
 
 **Sottocartelle:**

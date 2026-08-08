@@ -172,6 +172,7 @@ Richiesta di Federico: uno **stesso emblema/logo che cambia forma in base allo s
 - [ ] Decidere se il pannello task è cliente-per-cliente o condiviso/visibile anche al coach durante gli incontri di allineamento
 
 ## Collegamenti
+- [[ZirkonIA - Dashboard Maturità del Brain (Report di Funzionamento)]] — come funziona davvero oggi, dopo l'implementazione (questa nota era il piano, prima di scrivere il codice)
 - [[ZirkonIA - Prompt di Implementazione Dashboard Maturità del Brain]] — la versione sintetica e azionabile di questa specifica, verificata contro lo screenshot reale della dashboard, pronta da incollare in una sessione di sviluppo
 - [[Strategia - Dashboard Maturità del Brain (Sistema di Livelli)]] — il ragionamento completo dietro ogni numero e ogni scelta qui
 - [[Punti Aperti]] — precedente diretto del pannello task: lo stesso pattern già in uso in questo vault, qui esposto come funzionalità del prodotto

@@ -2,7 +2,7 @@
 data: "2026-08-04"
 tipo: risorsa
 tags: [zirkonia, brand, logo, identita-visiva]
-summary: "Riferimento ufficiale ai due asset di logo forniti da Federico il 2026-08-04: icona (Z cristallino) e wordmark (ZirkonIA cromato+blu). Sostituisce il wordmark tipografico provvisorio usato in precedenza."
+summary: "Riferimento ufficiale ai due asset di logo ZirkonIA: icona (Z cristallino) e wordmark (ZirkonIA cromato+blu), descritti il 2026-08-04 e salvati come file PNG reali in questa cartella il 2026-08-08. Sostituisce il wordmark tipografico provvisorio usato in precedenza."
 ---
 
 # Brand Kit ZirkonIA — asset ufficiali (2026-08-04)
@@ -12,12 +12,12 @@ Federico ha fornito i due asset di logo reali il 2026-08-04, durante la costruzi
 ## 1. Icona — "Z cristallino"
 Icona app-style: quadrato arrotondato, sfondo a gradiente verde-smeraldo → blu-petrolio (diagonale), con una "Z" a sfaccettature cristalline (stile diamante/zircone tagliato) in tonalità cromate/argento con riflessi blu. Coerente con la narrativa di brand già scritta in [[ZirkonIA]] (zircone, cristalli, permanenza) — qui resa visivamente per la prima volta.
 
-**File**: `ZirkonIA - Icona (Z cristallino).png` — **da salvare in questa cartella**, consegnato in chat a Federico il 2026-08-04 (limite tecnico di questa sessione sulla scrittura diretta di binari nel vault, vedi nota di memoria "Accesso al vault").
+**File**: [[ZirkonIA - Icona (Z cristallino).png]] — **salvato in questa cartella il 2026-08-08** (caricato da Federico in chat, copiato nel vault). Risolve il limite tecnico segnalato il 2026-08-04.
 
 ## 2. Wordmark ufficiale
 Logotipo orizzontale su fondo nero: "Zirkon" in effetto cromato/argento (gradiente chiaro-scuro, testo bold), "IA" in blu (gradiente azzurro chiaro → blu più saturo). Questo è il lockup da usare in intestazioni di documenti, footer, firme — l'icona cristallina è per usi "a sigillo" (badge, favicon, copertine).
 
-**File**: `ZirkonIA - Wordmark Ufficiale.png` — **da salvare in questa cartella**, stesso limite tecnico di cui sopra.
+**File**: [[ZirkonIA - Wordmark Ufficiale.png]] — **salvato in questa cartella il 2026-08-08** (caricato da Federico in chat, copiato nel vault). Risolve lo stesso limite tecnico di cui sopra.
 
 ## Palette derivata (misurata sui file, non stimata)
 | Ruolo | Hex | Fonte |
