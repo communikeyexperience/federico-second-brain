@@ -28,6 +28,8 @@ Precisazione di scope, dichiarata esplicitamente come "la parte importante del p
 
 Modello di consegna concretizzato: oltre agli incontri periodici durante l'anno (già Fase 4 — Evoluzione Continua), la consegna include un **"cofanetto"** — box fisico con il registratore AI + un playbook con le linee guida generali d'uso del sistema.
 
+**Aggiornamento 2026-08-08**: la serie di esemplari ZirkonIA Touch (l'ordine successivo al primo test soddisfacente) è **in viaggio** — test da eseguire non appena arriva. In parallelo, Federico sta lavorando alla creazione del packaging brandizzato ("cofanetto") con tutti i libretti/playbook — coerente con il pilastro 4 del Piano di Consegna, che restava in attesa proprio della forma definitiva di ZirkonIA Touch (vedi [[ZirkonIA - Piano di Consegna (Presentazione, Playbook, Protocollo, Packaging)]]).
+
 ## Positioning landing page — la vera promessa (2026-07-11)
 Domanda di Federico durante lavoro sulla landing page: qual è la promessa reale di ZirkonIA, oltre "conserva la memoria"? Riflessione (ZirkonIA Core):
 

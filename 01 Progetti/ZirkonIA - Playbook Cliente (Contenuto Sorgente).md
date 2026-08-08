@@ -130,3 +130,4 @@ Generata da questa nota secondo [[SOP - Identità Visiva ZirkonIA]]: 20 pagine A
 - [[Report - Sessione Landing ZirkonIA (2026-07-20)]]
 - [[Intervista - Rapporto con l'Informazione e Processi Mentali]]
 - [[Intervista - Il Campo di Battaglia, Strategia e Team]]
+- [[Strategia - Dashboard Maturità del Brain (Sistema di Livelli)]] — tabella task-per-stadio (Nebula/Nucleus/Comet/Planet/Galaxy) da incorporare qui, e da riconciliare con la cronosequenza già presente sopra

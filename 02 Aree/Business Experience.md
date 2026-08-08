@@ -136,6 +136,8 @@ Nella stessa riunione, Giancarlo ha consigliato a Federico **tre notai** per il 
 
 **Prossimo passo**: domani (2026-08-05) invio di una mail ai tre notai per richiedere una quotazione sull'atto di passaggio quote.
 
+**Aggiornamento 2026-08-08**: Giancarlo Iba ha inviato via mail la quotazione per la tenuta bilanci/parte commerciale — **da riscontrare**, risposta ancora da inviare. Federico conferma inoltre l'intenzione di sentire sempre i tre notai proposti (Federico Pavan, "Unrichter" da confermare, Galliero) per una quotazione sull'atto di passaggio quote — non confermato se la mail prevista per il 2026-08-05 sia già stata inviata.
+
 ## Modello di business
 - **Operazioni Full Custom** — realizzazione chiavi in mano su richiesta del cliente
 - **Diventa Investitore** — finanziamento di progetti di sviluppo immobiliare

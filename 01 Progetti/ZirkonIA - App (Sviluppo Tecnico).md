@@ -29,7 +29,13 @@ Il front-end web viene impacchettato come applicazione desktop nativa per Window
 
 **Stato**: lavoro in corso, non completato — nessun `.exe` ancora generato/testato.
 
+## Dashboard cliente — proposta sistema di livelli/maturità (2026-08-08)
+Sessione di ragionamento avviata da Federico sulla dashboard principale (distinta dal grafo, già giudicato di alta qualità): come rappresentare al cliente l'evoluzione del proprio brain su una scala 0-12 mesi, in stile "livelli" ma coerente col posizionamento. Proposta completa, con lessico, soglie e sblocchi ancorati ai derivati reali del prodotto, in [[Strategia - Dashboard Maturità del Brain (Sistema di Livelli)]] — non ancora implementata, solo concept validato lato ragionamento.
+
 ## Collegamenti
 - [[ZirkonIA]] — area principale, business/prodotto/posizionamento
 - [[ZirkonIA - Piano di Consegna (Presentazione, Playbook, Protocollo, Packaging)]]
+- [[Strategia - Dashboard Maturità del Brain (Sistema di Livelli)]] — concept per la dashboard, in attesa di sviluppo
+- [[ZirkonIA - Dashboard Maturità del Brain (Specifica Tecnica)]] — specifica tecnica pronta per lo sviluppo (formule, schema dati, soglie)
+- [[ZirkonIA - Prompt di Implementazione Dashboard Maturità del Brain]] — prompt pronto da incollare, verificato contro lo screenshot reale della dashboard (313 note/133.365 parole/958 collegamenti)
 - [[Processi e Convenzioni]] — "File esterni al vault"

@@ -46,8 +46,8 @@ Tutte le domande/conferme in sospeso sparse nel vault, raccolte in un solo posto
 - [ ] Cosa sia "Axedra", il progetto di Monia
 - [ ] Costo reale della fideiussione bancaria richiesta da Monia (da verificare con un professionista prima di accettare)
 - [ ] Chiarire se il ruolo di Monia è "Property Management" o "commercialista della società" (discrepanza tra nota fondatori e conversazione 2026-07-03)
-- [ ] Inviare domani (2026-08-05) una mail ai tre notai consigliati da Giancarlo Iba (Federico Pavan, notaio "Unrichter" da confermare, notaio Galliero) per richiedere una quotazione sull'atto di passaggio quote
-- [ ] Quotazione di Giancarlo Iba (nuovo commercialista, riunione 2026-08-04) per tenuta bilanci e parte commerciale — attesa
+- [ ] Inviare/confermare invio ai tre notai consigliati da Giancarlo Iba (Federico Pavan, notaio "Unrichter" da confermare, notaio Galliero) per richiedere una quotazione sull'atto di passaggio quote — prevista per il 2026-08-05, stato invio non confermato (2026-08-08)
+- [x] Quotazione di Giancarlo Iba (nuovo commercialista, riunione 2026-08-04) per tenuta bilanci e parte commerciale — **arrivata via mail (2026-08-08)**, ora da riscontrare/rispondere
 - [ ] Chiarire relazione tra Giancarlo Iba e Antonello (stesso incarico, sostituzione, o ruoli distinti?) — vedi [[Business Experience]] e [[Persone]]
 
 ## Il Ricciolo (aggiornato 2026-07-08 — ora area propria, vedi [[Il Ricciolo]])
@@ -164,8 +164,19 @@ Vedi [[ZirkonIA - Piano di Consegna (Presentazione, Playbook, Protocollo, Packag
 - [x] Playbook stampabile: **bozza v1 completata 2026-08-04** (20 pagine, brandizzata) — vedi [[ZirkonIA - Playbook Cliente (Contenuto Sorgente)]]. Resta da validare con Federico e personalizzare per ogni beta tester reale (oggi ha un placeholder "Preparato per").
 - [x] Protocollo interno (100 domande → deployment → 3-4 riunioni di allineamento): **formalizzato 2026-08-04**, vedi [[ZirkonIA - Protocollo di Delivery (Metodo e Cronoprogramma Annuale)]]
 - [ ] Verificare sul campo la cadenza trimestrale dei 4 incontri di allineamento con il primo beta tester che arriva al mese 12
-- [ ] Packaging brandizzato: attende la forma definitiva di ZirkonIA Touch prima di poter partire con un brief di design
+- [ ] Packaging brandizzato: lavoro avviato (2026-08-08) — creazione del cofanetto con libretti/playbook; serie di esemplari ZirkonIA Touch in viaggio, test da fare all'arrivo prima di finalizzare la forma del packaging
 - [x] Logo/asset di brand ufficiali — **risolto 2026-08-04**: Federico ha fornito icona e wordmark reali, vedi [[Brand Kit ZirkonIA]]. Palette e tipografia della SOP Identità Visiva corrette di conseguenza (v1 era una stima provvisoria, ora superata).
+
+## ZirkonIA — Dashboard Maturità del Brain, specifica tecnica pronta (nuovo, 2026-08-08)
+Vedi [[ZirkonIA - Dashboard Maturità del Brain (Specifica Tecnica)]] — deriva da [[Strategia - Dashboard Maturità del Brain (Sistema di Livelli)]].
+- [ ] Confermare l'opzione A o B per il "giorno zero" del ritmo medio
+- [ ] Definire la soglia N di "aree attive" e implementare le metriche mancanti (collegamenti totali, densità media)
+- [ ] Validare le soglie di parole (0/25k/250k/1M) sui primi beta tester reali
+- [ ] Decidere lo scope v1 del pannello task (solo manuali, o anche "suggeriti dal brain")
+- [ ] Brief per l'emblema visivo dello stadio da passare a chi disegna l'interfaccia
+
+## Da chiarire — "app" da installare e testare (nuovo, 2026-08-08)
+Federico ha menzionato in un aggiornamento vocale di dover "finire l'installazione e il testing dell'app del Ricciolo" — trascrizione incerta, nessuna nota del vault documenta un'app dedicata a [[Il Ricciolo]]. Possibili letture da verificare con Federico: (a) riferimento in realtà a [[ZirkonIA - App (Sviluppo Tecnico)|l'app ZirkonIA]] in sviluppo (chat/RAG, in packaging come app desktop Windows), (b) il software di marketing/CRM per Il Ricciolo già segnalato come punto aperto (vedi sezione "Il Ricciolo" sopra — "riunione dedicata sul software di marketing/CRM"), (c) un'app non ancora tracciata nel vault. Non assunta nessuna interpretazione, in attesa di conferma.
 
 ## Note
 Vedi anche [[Persone]] per la disambiguazione degli omonimi.
