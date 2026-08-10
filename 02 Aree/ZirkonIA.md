@@ -61,6 +61,9 @@ Questo sposta la promessa su un secondo asse, complementare a quello del 2026-07
 - "Il board che i grandi si comprano. Tu lo hai sempre acceso." — nomina il board, allude alla tenuta nel tempo ("sempre acceso" vs. una consulenza puntuale).
 - "Non ti manca il metodo. Ti manca chi te lo fa seguire." — proposta principale: risponde direttamente alla diagnosi di Federico (il metodo esiste, manca l'accountability), non descrive il prodotto ma il problema reale del cliente.
 
+### Tre concetti per il modello di presentazione — positioning, wow, think different (2026-08-10)
+Sessione dedicata di Cristiano e Federico su tre concetti-cardine per presentare ZirkonIA agli utenti, distinti dalla definizione base già coperta dalla landing: **brand positioning** (memoria strutturata locale e di proprietà dell'utente, indipendenza dal motore AI, wrapping di più tecnologie — orecchio AI, trascrizione, vault, motore — non concorrente ma "espansione" delle AI generiche, metafora della preparazione racing su un'auto esistente), **effetto Wow** (espansione del cervello dell'utente, fine della solitudine cognitiva — stessa promessa del frame "board personale" sopra, in altre parole), **Think Different/Work Smarter** (accorciare la distanza tra stato attuale e obiettivi; confine dichiarato: ZirkonIA non pensa da sola, "ricordo" più che "pensiero", la coscienza resta dell'utente; implicazione — richieste imprecise producono interpretazioni scorrette, l'utente va accompagnato a richieste sempre più precise). Dettaglio completo e trascrizione in [[Report - Sessione Positioning e Presentazione ZirkonIA (2026-08-10)]].
+
 ## Il problema che indirizza
 - 2h/giorno perse da ogni professionista a cercare informazioni che l'azienda già possiede (email, chat, documenti sparsi)
 - 70% delle decisioni strategiche non lascia traccia strutturata

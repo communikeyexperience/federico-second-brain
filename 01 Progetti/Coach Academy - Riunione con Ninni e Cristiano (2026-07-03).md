@@ -76,3 +76,4 @@ Opportunità identificate per la Suite (eseguite operativamente da Communikey Ex
 - [[Il Ricciolo]] — citato come esempio cautelativo di pipeline contenuti ferma per assenza di materiale sorgente
 - [[ZirkonIA]] — possibile sinergia futura (testimonial)
 - [[SOP - Tono e Stile ZirkonIA Core]] — regola editoriale sui contenuti social riaffermata in riunione è coerente con le regole ferme già a vault
+- [[ZirkonIA - Traccia Presentazione Orale per Ninni (2026-08-10)]] — traccia di presentazione ZirkonIA a Ninni, costruita partendo dal blocco "improvvisare senza traccia" e dal contesto documentato qui

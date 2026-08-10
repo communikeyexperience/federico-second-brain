@@ -40,13 +40,16 @@ Ogni voce usa il template [[Templates/Strategia|Strategia]] quando si tratta di 
 - [[Progetto Storico - Total Sense (ANTdesign)]]
 - [[Report - Sessione Dashboard Maturità ZirkonIA (2026-08-08)]]
 - [[Report - Sessione Landing ZirkonIA (2026-07-20)]]
+- [[Report - Sessione Positioning e Presentazione ZirkonIA (2026-08-10)]]
 - [[Roadmap Strategica ZirkonIA 2026-2029]]
 - [[Strategia - Angoli d'Attacco Landing ZirkonIA (metodo Apple-Jobs)]]
 - [[Strategia - Cosa Vendiamo Davvero (Capitale di Informazioni ZirkonIA)]]
 - [[Strategia - Dashboard Maturità del Brain (Sistema di Livelli)]]
 - [[Strategia - Frontiere di sviluppo Suite Experience (2026-2030)]]
 - [[Strategia - Personas Acquirenti ZirkonIA]]
+- [[Strategia - Traccia Presentazione Orale ZirkonIA (Universale)]]
 - [[ZirkonIA - Landing Page (HTML).html|ZirkonIA - Landing Page (HTML)]]
+- [[ZirkonIA - Traccia Presentazione Orale (Universale).pdf|ZirkonIA - Traccia Presentazione Orale (Universale, PDF)]]
 
 **Sottocartelle:**
 - [[03 Risorse/Capitale Intellettuale/Brand/_index|Brand]] — asset ufficiali di logo ZirkonIA, vedi [[Brand Kit ZirkonIA]]
