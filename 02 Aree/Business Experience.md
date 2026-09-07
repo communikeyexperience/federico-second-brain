@@ -173,5 +173,10 @@ Verificato direttamente sul profilo LinkedIn pubblico di Federico (`it.linkedin.
 - YouTube `@gaudino77` — bio con riferimento all'attività immobiliare di famiglia e link a gaudinoinvestment.com
 - Notebook NotebookLM "FG Second Brain" — report di Deep Research "Strategic Assessment of Multi-Dimensional Professionalism..." (il secondo report, basato su fonti di mercato generiche non citanti Federico, è stato rimosso dal notebook su indicazione esplicita di Federico — vedi [[Ricerca - Presenza Online (Federico Gaudino)|Ricerca - Presenza Online]])
 
+## Chiarimento — "La Experience Suite" come direzione d'intenti, non struttura finanziaria (sessione EDUCAZIONE, 2026-08-17)
+Confermato da Federico: Business Experience e Communikey Experience/ZirkonIA sono iniziative operativamente e finanziariamente **separate**. "La Experience Suite" è una holding "di fatto" solo come volontà di direzione comune (sviluppo, taglio stilistico) — non implica flussi di capitale, dipendenza operativa o struttura legale condivisa, coerente con quanto già scritto sopra ("oggi solo branding condiviso, nessuna holding formale esiste ancora").
+
+Nella pratica di presentazione a una banca (già fatto per Business Experience), Federico parla esclusivamente della branca immobiliare — non dell'aggregato del gruppo. L'obiettivo "impianto finanziario credibile per le banche" si gioca quindi oggi **per verticale**, non come narrativa aggregata; l'ambizione ~€5M aggregata (vedi [[Strategia - Frontiere di sviluppo Suite Experience (2026-2030)]]) resta un orizzonte a più lungo termine, non l'argomento usato nelle trattative bancarie attuali.
+
 ## Note
 Vedi anche [[Federico Gaudino]] per il quadro d'insieme.

@@ -25,6 +25,7 @@ Tutte le domande/conferme in sospeso sparse nel vault, raccolte in un solo posto
 - [x] Ruolo di Cristiano — socio operativo al 50%, omonimia con Coach Academy risolta (stessa persona)
 - [ ] Se ha sito/presenza propria
 - [x] Governance della "suite delle società Experience" — nome confermato **"La Experience Suite"** (intervista 2026-07-04); oggi è solo branding condiviso, Federico immagina una holding/hub futura ma non ancora creata
+- [ ] Trigger concreto per il passaggio da "cappello di stile" a struttura finanziaria reale (holding con controllate/spin-off) — confermato in sessione EDUCAZIONE (2026-08-17) che è direzione desiderata **senza** un piano operativo o un evento scatenante già definiti: resta un'opzione tenuta aperta, non un progetto in costruzione
 
 ## 626 School
 - [x] Rivalutare `stato_relazione` — declassificato a "occasionale", confermato non prioritario

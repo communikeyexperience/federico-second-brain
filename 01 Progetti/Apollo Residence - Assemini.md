@@ -59,6 +59,24 @@ Documento di presentazione creato per Nicola (pratica microcredito, vedi [[Busin
 
 **Potenziali investitori (2026-07-03)**: interesse espresso ma nessun contratto chiuso — [[Persone|Matteo Gaudino]] (fratello di Federico), [[Persone|Maria Carolina Gaudino]] (sorella di Federico), [[Persone|Fabrizio Guisu]] (amico imprenditore). Candidati naturali per coprire i €30.000 mancanti.
 
+## Finanziamento — mutuo edile/di costruzione, richiesta banca principale (nuovo, 2026-08-17)
+Canale di finanziamento **distinto** dal microcredito Banco di Sardegna sotto (quello copre attrezzatura/PC per ~€60.000; questo è il mutuo edile per la costruzione vera e propria). La banca (nome istituto non ancora specificato da Federico) ha posto due condizioni:
+
+1. **Capitolato lavori — RICONCILIATO (2026-08-17)**: **~€850.000, gran totale con spese e tasse incluse** (stima più precisa, sostituisce sia la vecchia stima iniziale ~€950.000 del 2026-07-03 sia il dato €686.400 del business plan per Nicola, che era solo la componente costruzione, non il totale). Il capitolato lavori formale non esiste ancora — €850.000 resta comunque una stima, la più aggiornata disponibile.
+2. **Mezzi propri richiesti**: 30% del capitolato lavori, versato/posseduto dalla società **prima** dell'erogazione → **~€255.000** su base €850.000. Confermato da Federico che valgono tutti gli investimenti "in conto lavori": acquisto terreno, spese di progettazione, ecc.
+3. **Erogazione**: a stati di avanzamento lavori (SAL), presumibilmente 5-6 tranche.
+
+**Capitale oggi effettivamente dimostrabile verso il 30% — CHIARITO (2026-08-17)**:
+- ✅ **Spese di progettazione**: ~€25.000-30.000 — tracciabile, imputabile
+- ✅ **Investimento Veronica Inderisano**: €30.000 (vedi tabella sopra)
+- ❌ **Terreno — NON imputabile, per due motivi distinti**: (1) una parte del pagamento è avvenuta in contanti non tracciati, quindi non dimostrabile alla banca; (2) il terreno è stato acquisito tramite **permuta** (2 delle 9 unità totali dovute al precedente proprietario) — non è ancora formalmente posseduto al 100% da Business Experience, quindi non contabilizzabile come apporto di capitale allo stato attuale
+
+**Totale capitale utilizzabile**: ~€55.000-60.000. **Gap reale rispetto al 30% (€255.000)**: **~€195.000-200.000** — sostanzialmente invariato rispetto alla stima iniziale di Federico, nonostante la conferma che il terreno *in teoria* varrebbe come apporto: nella pratica non è utilizzabile per i due motivi sopra.
+
+**Report completo**: [[Report - Business Experience e Apollo Residence - Strategia Finanziamento (2026-08-17).pdf|Report - Strategia Finanziamento (2026-08-17)]] — sintesi PDF dell'intera analisi (struttura La Experience Suite, richiesta banca, capitale dimostrabile, 4 strategie parallele di copertura del gap), salvato in `00 Inbox`.
+
+⚠️ **Nota da verificare con un professionista (opinione strategica, non consulenza fiscale/legale)**: la porzione di terreno pagata in contanti non tracciati può essere un tema più ampio della sola contabilizzazione ai fini del mutuo — i trasferimenti immobiliari in Italia richiedono tracciabilità dei pagamenti; vale la pena chiarirlo con Giancarlo Iba o un legale prima che emerga in fase di due diligence bancaria o dal notaio (già coinvolto per il passaggio quote Monia, vedi [[Business Experience]]).
+
 ## Finanziamento — microcredito Banco di Sardegna (nuovo, 2026-07-09)
 Incontro preliminare la mattina del 2026-07-09 con **Nicola**, referente dell'associazione **"Sportello Contributi e Lavoro"** (nome riferito da Federico, grafia da confermare) — vedi [[Persone]] per la disambiguazione rispetto all'omonimo Nicola di Coach Academy. L'associazione sta supportando la richiesta di un **microcredito tramite Banco di Sardegna** per la costruzione di Apollo Residence.
 
@@ -122,6 +140,12 @@ Federico indica una landing page su business-experience.it, ma **non trovata**: 
 - [ ] Conferma effettiva della data di avvio cantiere (settembre 2026 è ipotesi condizionata all'approvazione comunale — chiedere se già protocollata)
 - [ ] Tracciare nuovi investitori man mano che arrivano (tabella sopra)
 - [ ] Verificare se il margine di ~26% include tutti i costi (costruzione + oneri + commercializzazione) o solo costruzione
+- [x] Chiedere alla banca cosa conta come "capitale proprio" nel 30% — confermato: tutti gli investimenti in conto lavori (terreno, progettazione, ecc.)
+- [x] Riconciliare le cifre di costo — risolto: ~€850.000 è il gran totale aggiornato con spese/tasse, sostituisce le stime precedenti
+- [ ] Regolarizzare/chiarire con un professionista (Giancarlo Iba o legale) la porzione di terreno pagata in contanti non tracciati, prima che diventi un problema in due diligence bancaria o notarile
+- [ ] Verificare con notaio/Giancarlo se lo stato legale della permuta (accordo firmato ma unità non ancora consegnate) ha un valore parziale documentabile ai fini del 30%
+- [ ] Riattivare i tre investitori con interesse già espresso e mai formalizzato: Matteo Gaudino, Maria Carolina Gaudino, Fabrizio Guisu — leva più veloce per coprire il gap di ~€195.000-200.000
+- [ ] Verificare con Nicola/banca se il microcredito Banco di Sardegna (€60.000) è cumulabile col mutuo edile o rischia di sovrapporsi nel conteggio del capitale proprio
 
 ## Note
 **Aggiornamento 2026-08-04**: Federico ha incontrato il nuovo commercialista **Giancarlo Iba**, che preparerà una quotazione per la tenuta dei bilanci e la parte commerciale di [[Business Experience]] (general contractor di questo progetto). Nella stessa riunione ha consigliato tre notai per il passaggio della quota di **Monia Boncioli** a Federico — passaggio di governance che riguarda direttamente chi controlla la società che sviluppa Apollo Residence. Dettaglio completo (nomi dei notai, prossimi passi) in [[Business Experience]].
