@@ -19,8 +19,8 @@ Le 8 modalità operative sono implementate come Claude Code Skill in `.claude/sk
 | `strategia-visione` | `STRATEGIA`, `VISIONE`, "dove potremmo arrivare" | Esplorazione di scenari di crescita/frontiere, non un conflitto da risolvere |
 | `recap-stato` | `RECAP`, `STATO`, "come siamo messi" | Quadro rapido e azionabile dei progetti aperti — solo azioni/stato, niente prosa |
 | `federico-voice-writer` | "scrivi come me", testi a firma personale di Federico | Ghostwriting nella voce personale di Federico — non i contenuti brandizzati dei clienti Communikey |
-| `allineamento-brain` | "allinea il brain", "aggiorna l'indice", "sincronizza ZirkonIA" | Rigenera `data/vault-index.json` nel repository `STUDIO` dal contenuto aggiornato del brain (comando intenzionale, non stringa fissa) |
-| `sync-repository-sessione` | saluti di chiusura ("ci vediamo", "stacco") o ripresa ("buongiorno", "riprendiamo") | Push automatico del repository `STUDIO` alla chiusura sessione, pull automatico alla ripresa — allinea Mac e PC senza comandi git manuali |
+| `allineamento-brain` | "allinea il brain", "aggiorna l'indice", "sincronizza ZirkonIA" | Rigenera l'indice RAG per-brain di ZirkonIA (`zirkonia-app/data/vault-index.<slug>.json`) — **solo** con `RAG_PROVIDER=fg-vault-embeddings`; col default `fg-vault` non serve. Comando intenzionale |
+| `sync-repository-sessione` | saluti di chiusura ("ci vediamo", "stacco") o ripresa ("buongiorno", "riprendiamo") | Allinea via git i **due** repository (vault `federico-second-brain` + `STUDIO`) tra Mac e PC alla chiusura/ripresa e rigenera il registro brain locale con `npm run brains:bootstrap` — senza comandi git manuali |
 
 Se un trigger è ambiguo (potrebbe essere il nome di un progetto/cliente invece del protocollo), conferma in una riga prima di procedere invece di assumere in silenzio — vale soprattutto per `EDUCAZIONE`, che non va confuso con la nota cliente "Coach Academy Cagliari".
 
