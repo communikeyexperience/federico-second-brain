@@ -1,6 +1,6 @@
 ---
 tipo: progetto
-stato: attivo
+stato: completato
 priorita: media
 cliente: "[[Centro Dentale 2EMME]]"
 scadenza: ""

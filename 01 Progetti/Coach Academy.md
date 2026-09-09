@@ -32,6 +32,9 @@ Registrazione caricata da Federico il 2026-07-09 e sbobinata. Diagnosi: calo isc
 ## Aggiornamento (2026-07-22, da Federico — vocale, dettaglio da confermare)
 Federico riferisce che con Cristiano "abbiamo già definito alcune cose" sulle proposte Experience Suite, ma il lavoro resta da concludere. Non ha specificato quali proposte siano state definite né cosa manchi esattamente — da chiarire con Federico prima di aggiornare la checklist sotto.
 
+## Aggiornamento (2026-09-09) — progetto pilota ZirkonIA con Ninni ambassador
+Confermato in sessione di revisione: si procede con un **progetto pilota ZirkonIA con Ninni (Giovanni Spissu) come ambassador**. La presentazione orale preparata per lui (vedi [[ZirkonIA - Traccia Presentazione Orale per Ninni (2026-08-10)]], ora marcata completata) ha avuto esito positivo. Questo è probabilmente il concretizzarsi dell'opportunità 4 ("Prospettiva Experience Suite" — Ninni come canale verso la sua rete) già identificata in [[Coach Academy - Riunione con Ninni e Cristiano (2026-07-03)]] — da verificare con Federico se il rapporto sia già transitato da informale a un accordo commerciale (angolo cieco già segnalato in vault).
+
 ## Prossimi passi
 - [x] Sbobinare la riunione con Ninni del 2026-07-03 e preparare proposte di collaborazione evolutive (2026-07-09)
 - [ ] Con Cristiano: valutare quali delle proposte "Prospettiva Experience Suite" (retainer contenuti, gestione media/ads a fee, co-produzione corso goal setting, ZirkonIA × Coach Academy, tarocchi del coach, interviste strutturate — vedi [[Coach Academy - Riunione con Ninni e Cristiano (2026-07-03)]]) portare avanti e proporre a Ninni (2026-07-10)

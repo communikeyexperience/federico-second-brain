@@ -1,6 +1,6 @@
 ---
 tipo: progetto
-stato: attivo
+stato: in-pausa
 priorita: media
 cliente: "[[Business Experience]]"
 scadenza: ""
@@ -127,6 +127,7 @@ Emersa nell'intervista "Il Campo di Battaglia": Federico immagina un sistema di 
 Federico indica una landing page su business-experience.it, ma **non trovata**: né in homepage né nella pagina "Opportunità" c'è menzione di Apollo Residence, e una ricerca mirata (anche `site:business-experience.it Assemini`) non ha restituito risultati. Possibile che non sia ancora indicizzata, o che l'URL non sia linkato dal menu principale — serve il link diretto da Federico.
 
 ## Prossimi passi
+- [ ] **In attesa dell'OK del Comune di Assemini** (aggiornato 2026-09-09) — nessun'altra azione possibile sul progetto fino alla risposta
 - [x] Preventivo mezzo (veicolo) — fatto (2026-07-17), fornitore AF Motors
 - [x] Preventivo attrezzatura informatica (PC) — bozza pronta (Tuttomedia, €6.986,53, v4 senza AppleCare+), da far timbrare/firmare da Alessandro prima della consegna a Nicola
 - [ ] Preventivo attrezzatura da cantiere — richiesta spedita a Würth, in attesa di risposta

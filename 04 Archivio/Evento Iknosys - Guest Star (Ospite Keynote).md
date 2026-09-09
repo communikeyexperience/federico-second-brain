@@ -1,5 +1,7 @@
 ---
 tipo: progetto
+stato: archiviato
+cliente: "[[Iknosys]]"
 tags: [iknosys, evento, guest-star, speaker, riccardo-fagioli]
 data: "2026-07-30"
 ---
@@ -61,3 +63,6 @@ Non usa agenzie di booking esterne pubbliche — gestisce tutto in-house tramite
 
 ## Collegamenti
 [[Riunione Riccardo Fagioli e Cristiano - Mini Aula e Evento Iknosys (2026-07-28)]], [[Punti Aperti]], [[Persone]]
+
+## Archiviato (2026-09-09)
+Deciso in sessione di revisione: quest'anno l'evento Iknosys non prevede un guest star, il punto è chiuso — nessun profilo della shortlist verrà contattato per l'edizione 2026. Nota mantenuta come riferimento (shortlist e contatti) per un'eventuale edizione futura.

@@ -48,6 +48,7 @@ Tutte le voci sono ora quantificate. **Totale primo anno**: €4.300 una tantum 
 - [[Punti Aperti]]
 
 ## Prossimi passi
+- [ ] Risentire Stefano Vacca per fissare un appuntamento e presentargli il preventivo già preparato (aggiornato 2026-09-09)
 - [ ] Rivedere le cifre proposte per Cultura Interna ed Espansione Territoriale (ricerca di mercato, non canone storico) prima dell'invio definitivo a Stefano Vacca
 - [ ] Fissare la data della prima sessione di profilazione ZirkonIA con Stefano Vacca
 - [ ] Calendarizzare il set fotografico dedicato

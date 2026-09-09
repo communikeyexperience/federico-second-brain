@@ -1,6 +1,6 @@
 ---
 tipo: progetto
-stato: attivo
+stato: completato
 priorita: alta
 cliente: ""
 data: "2026-08-10"

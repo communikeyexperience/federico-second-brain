@@ -1,6 +1,6 @@
 ---
 tipo: progetto
-stato: attivo
+stato: completato
 data: "2026-07-20"
 tags: [il-ricciolo, social-media, marketing, restyling]
 summary: "Progetto di restyling della comunicazione social de Il Ricciolo: nuova identità visiva (palette Rosa Prada/Perla/Verde chiarissimo), tono istituzionale/fashion, calendario 3 post/settimana. In attesa di preventivo di Cristiano Musa; promo pilota su Manzoni da definire con Roberta."
