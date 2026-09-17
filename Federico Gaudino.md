@@ -44,6 +44,8 @@ Sposato con **Sanja Rakitnican**, croata di Zagabria — vedi [[Persone]]. Si so
 
 **Aggiornamento 2026-07-06**: nell'intervista "Orizzonte, Missione e Impatto" dichiara di aver rinunciato, per dedicarsi ai suoi progetti, alla possibilità/volontà di costruire una famiglia "tradizionale" con figli — consapevole che potrebbe un giorno pentirsene. Precisazione di contesto: la rinuncia riguarda specificamente la genitorialità, non il matrimonio in sé (è sposato dal 2022) — nessuna contraddizione tra i due dati.
 
+**Aggiornamento 2026-09-02**: sul fronte patrimonio personale, in valutazione la vendita della casa attuale in Via Cilloco e l'acquisto di un terreno con casa da ristrutturare a Sasperate — dettagli economici e di tempistica in [[Passaggio Casa - Via Cilloco a Sasperate]].
+
 ## Valori e visione
 <!-- Da intervista del 2026-07-03, prima applicazione del protocollo di Profilazione Profonda ZirkonIA -->
 Si definisce un sognatore con valori sani: giustizia sociale/filantropia, unione tra sapere e creazione del bello, ambizione non egoistica ma orientata a lasciare un segno concreto. Punti di forza: resilienza, coraggio, creatività trasversale. Ostacolo riconosciuto: incostanza / troppi progetti in parallelo, letta come tratto di una mente che ha bisogno di varietà. Successo professionale = numeri/valore creato; successo personale = serenità familiare. Intervista completa in [[Intervista - Identità Valori e Visione]].
