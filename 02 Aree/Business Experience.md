@@ -126,6 +126,18 @@ Con l'uscita di **Monia Boncioli** (vedi trattativa quota sopra), Federico ha in
 
 **Chiuso (2026-07-10)**: visura camerale scaricata da Federico e inviata ad Antonello. Nessuna azione residua su questo punto — resta solo da seguire l'esito delle pratiche di trasferimento quote lato Antonello.
 
+## Nuovo commercialista — Giancarlo Iba, e notai per il passaggio quote (nuovo, 2026-08-04)
+Federico ha appena concluso una riunione con **Giancarlo Iba**, commercialista: preparerà una quotazione per la tenuta dei bilanci e di tutta la parte commerciale della società. **Da chiarire con Federico**: relazione con [[Persone|Antonello]] (nuovo commercialista incaricato 2026-07-09 per il trasferimento quote, vedi sopra) — non è chiaro se Giancarlo lo sostituisce o se sono due incarichi/figure distinte.
+
+Nella stessa riunione, Giancarlo ha consigliato a Federico **tre notai** per il passaggio delle quote societarie da **Monia Boncioli** a Federico (vedi trattativa quota sopra):
+- **Federico Pavan**
+- Notaio **"Unrichter"** (nome sentito foneticamente in una nota vocale, trascrizione incerta — da confermare con Federico)
+- Notaio **Galliero**
+
+**Prossimo passo**: domani (2026-08-05) invio di una mail ai tre notai per richiedere una quotazione sull'atto di passaggio quote.
+
+**Aggiornamento 2026-08-08**: Giancarlo Iba ha inviato via mail la quotazione per la tenuta bilanci/parte commerciale — **da riscontrare**, risposta ancora da inviare. Federico conferma inoltre l'intenzione di sentire sempre i tre notai proposti (Federico Pavan, "Unrichter" da confermare, Galliero) per una quotazione sull'atto di passaggio quote — non confermato se la mail prevista per il 2026-08-05 sia già stata inviata.
+
 ## Modello di business
 - **Operazioni Full Custom** — realizzazione chiavi in mano su richiesta del cliente
 - **Diventa Investitore** — finanziamento di progetti di sviluppo immobiliare
@@ -160,6 +172,11 @@ Verificato direttamente sul profilo LinkedIn pubblico di Federico (`it.linkedin.
 - LinkedIn — Immobilia Real Estate | Investimenti immobiliari a Dubai
 - YouTube `@gaudino77` — bio con riferimento all'attività immobiliare di famiglia e link a gaudinoinvestment.com
 - Notebook NotebookLM "FG Second Brain" — report di Deep Research "Strategic Assessment of Multi-Dimensional Professionalism..." (il secondo report, basato su fonti di mercato generiche non citanti Federico, è stato rimosso dal notebook su indicazione esplicita di Federico — vedi [[Ricerca - Presenza Online (Federico Gaudino)|Ricerca - Presenza Online]])
+
+## Chiarimento — "La Experience Suite" come direzione d'intenti, non struttura finanziaria (sessione EDUCAZIONE, 2026-08-17)
+Confermato da Federico: Business Experience e Communikey Experience/ZirkonIA sono iniziative operativamente e finanziariamente **separate**. "La Experience Suite" è una holding "di fatto" solo come volontà di direzione comune (sviluppo, taglio stilistico) — non implica flussi di capitale, dipendenza operativa o struttura legale condivisa, coerente con quanto già scritto sopra ("oggi solo branding condiviso, nessuna holding formale esiste ancora").
+
+Nella pratica di presentazione a una banca (già fatto per Business Experience), Federico parla esclusivamente della branca immobiliare — non dell'aggregato del gruppo. L'obiettivo "impianto finanziario credibile per le banche" si gioca quindi oggi **per verticale**, non come narrativa aggregata; l'ambizione ~€5M aggregata (vedi [[Strategia - Frontiere di sviluppo Suite Experience (2026-2030)]]) resta un orizzonte a più lungo termine, non l'argomento usato nelle trattative bancarie attuali.
 
 ## Note
 Vedi anche [[Federico Gaudino]] per il quadro d'insieme.

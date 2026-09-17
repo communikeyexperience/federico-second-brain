@@ -25,6 +25,7 @@ Tutte le domande/conferme in sospeso sparse nel vault, raccolte in un solo posto
 - [x] Ruolo di Cristiano — socio operativo al 50%, omonimia con Coach Academy risolta (stessa persona)
 - [ ] Se ha sito/presenza propria
 - [x] Governance della "suite delle società Experience" — nome confermato **"La Experience Suite"** (intervista 2026-07-04); oggi è solo branding condiviso, Federico immagina una holding/hub futura ma non ancora creata
+- [ ] Trigger concreto per il passaggio da "cappello di stile" a struttura finanziaria reale (holding con controllate/spin-off) — confermato in sessione EDUCAZIONE (2026-08-17) che è direzione desiderata **senza** un piano operativo o un evento scatenante già definiti: resta un'opzione tenuta aperta, non un progetto in costruzione
 
 ## 626 School
 - [x] Rivalutare `stato_relazione` — declassificato a "occasionale", confermato non prioritario
@@ -46,6 +47,9 @@ Tutte le domande/conferme in sospeso sparse nel vault, raccolte in un solo posto
 - [ ] Cosa sia "Axedra", il progetto di Monia
 - [ ] Costo reale della fideiussione bancaria richiesta da Monia (da verificare con un professionista prima di accettare)
 - [ ] Chiarire se il ruolo di Monia è "Property Management" o "commercialista della società" (discrepanza tra nota fondatori e conversazione 2026-07-03)
+- [ ] Inviare/confermare invio ai tre notai consigliati da Giancarlo Iba (Federico Pavan, notaio "Unrichter" da confermare, notaio Galliero) per richiedere una quotazione sull'atto di passaggio quote — prevista per il 2026-08-05, stato invio non confermato (2026-08-08)
+- [x] Quotazione di Giancarlo Iba (nuovo commercialista, riunione 2026-08-04) per tenuta bilanci e parte commerciale — **arrivata via mail (2026-08-08)**, ora da riscontrare/rispondere
+- [ ] Chiarire relazione tra Giancarlo Iba e Antonello (stesso incarico, sostituzione, o ruoli distinti?) — vedi [[Business Experience]] e [[Persone]]
 
 ## Il Ricciolo (aggiornato 2026-07-08 — ora area propria, vedi [[Il Ricciolo]])
 - [x] Identità di "Matteo" → **Matteo Gaudino**, fratello di Federico, socio al 51% in "Ricciolo Manzoni"
@@ -158,11 +162,22 @@ Vedi [[ZirkonIA - Piano Beta Testing e Cronoprogramma Matteo]].
 ## ZirkonIA — Piano di Consegna, quattro pilastri (2026-08-04)
 Vedi [[ZirkonIA - Piano di Consegna (Presentazione, Playbook, Protocollo, Packaging)]].
 - [ ] Presentazione/landing (~60%): scrivere copy definitivo sulla struttura decisa + validare il gancio "capitale" con un confronto reale stile Atzori
-- [x] Playbook stampabile: **bozza v1 completata 2026-08-04** (20 pagine, brandizzata) — vedi [[ZirkonIA - Playbook Cliente (Contenuto Sorgente)]]. Resta da validare con Federico e personalizzare per ogni beta tester reale (oggi ha un placeholder "Preparato per").
+- [x] Playbook stampabile: **v1 (2026-08-04) superata, v2 generata 2026-08-08** (21 pagine, logo e wordmark reali, sistema di maturità cosmico) — vedi [[ZirkonIA - Playbook Cliente v2.pdf]] e contenuto sorgente [[ZirkonIA - Playbook Cliente (Contenuto Sorgente)]]. Resta da sostituire il placeholder `[Nome Cliente]` e aggiungere i contatti del referente per ogni beta tester reale.
 - [x] Protocollo interno (100 domande → deployment → 3-4 riunioni di allineamento): **formalizzato 2026-08-04**, vedi [[ZirkonIA - Protocollo di Delivery (Metodo e Cronoprogramma Annuale)]]
 - [ ] Verificare sul campo la cadenza trimestrale dei 4 incontri di allineamento con il primo beta tester che arriva al mese 12
-- [ ] Packaging brandizzato: attende la forma definitiva di ZirkonIA Touch prima di poter partire con un brief di design
-- [x] Logo/asset di brand ufficiali — **risolto 2026-08-04**: Federico ha fornito icona e wordmark reali, vedi [[Brand Kit ZirkonIA]]. Palette e tipografia della SOP Identità Visiva corrette di conseguenza (v1 era una stima provvisoria, ora superata).
+- [ ] Packaging brandizzato: lavoro avviato (2026-08-08) — creazione del cofanetto con libretti/playbook; serie di esemplari ZirkonIA Touch in viaggio, test da fare all'arrivo prima di finalizzare la forma del packaging
+- [x] Logo/asset di brand ufficiali — **descritti 2026-08-04, file veri salvati nel vault 2026-08-08**: Federico ha fornito icona e wordmark reali, vedi [[Brand Kit ZirkonIA]]. Tra le due date i file erano solo consegnati in chat, non ancora nella cartella `Brand/` — chiuso definitivamente l'8/8. Palette e tipografia della SOP Identità Visiva corrette di conseguenza (v1 era una stima provvisoria, ora superata).
+
+## ZirkonIA — Dashboard Maturità del Brain, specifica tecnica pronta (nuovo, 2026-08-08)
+Vedi [[ZirkonIA - Dashboard Maturità del Brain (Specifica Tecnica)]] — deriva da [[Strategia - Dashboard Maturità del Brain (Sistema di Livelli)]].
+- [ ] Confermare l'opzione A o B per il "giorno zero" del ritmo medio
+- [ ] Definire la soglia N di "aree attive" e implementare le metriche mancanti (collegamenti totali, densità media)
+- [ ] Validare le soglie di parole (0/25k/250k/1M) sui primi beta tester reali
+- [ ] Decidere lo scope v1 del pannello task (solo manuali, o anche "suggeriti dal brain")
+- [ ] Brief per l'emblema visivo dello stadio da passare a chi disegna l'interfaccia
+
+## Da chiarire — "app" da installare e testare (nuovo, 2026-08-08)
+Federico ha menzionato in un aggiornamento vocale di dover "finire l'installazione e il testing dell'app del Ricciolo" — trascrizione incerta, nessuna nota del vault documenta un'app dedicata a [[Il Ricciolo]]. Possibili letture da verificare con Federico: (a) riferimento in realtà a [[ZirkonIA - App (Sviluppo Tecnico)|l'app ZirkonIA]] in sviluppo (chat/RAG, in packaging come app desktop Windows), (b) il software di marketing/CRM per Il Ricciolo già segnalato come punto aperto (vedi sezione "Il Ricciolo" sopra — "riunione dedicata sul software di marketing/CRM"), (c) un'app non ancora tracciata nel vault. Non assunta nessuna interpretazione, in attesa di conferma.
 
 ## Note
 Vedi anche [[Persone]] per la disambiguazione degli omonimi.

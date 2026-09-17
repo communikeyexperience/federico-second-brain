@@ -24,7 +24,7 @@ Progetto personale — vedi [[Federico Gaudino]].
 - ✅ Cartelle `Nuove immagini` e `assets` popolate — sembra in stato avanzato/quasi pronto
 
 ## Prossimi passi
-- [ ] Fare il deployment del sito (confermato 2026-07-03: non ancora online, va pubblicato — ma non è una priorità al momento)
+- [ ] Fare il deployment del sito — non ancora online, va pubblicato. **Confermato di nuovo il 2026-09-09: va finito**, non più rimandato a data indefinita.
 
 ## Note
 Bozza testo "Chi sono" pronta: [[Chi Sono - Articolo di presentazione]].

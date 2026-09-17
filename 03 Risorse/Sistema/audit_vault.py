@@ -36,10 +36,10 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 # lo script vive in "03 Risorse/Sistema/", il vault è due livelli sopra
 VAULT_ROOT = os.path.abspath(os.path.join(ROOT, "..", ".."))
 
-EXCLUDE_DIR_NAMES = {".obsidian", ".claude"}
+EXCLUDE_DIR_NAMES = {".obsidian", ".claude", ".agents"}
 EXCLUDE_FOLDER_PREFIX = "ELIMINA_"
 EXCLUDE_FILE_PREFIX = "ELIMINA_"
-EXCLUDE_BASENAMES = {"CLAUDE"}
+EXCLUDE_BASENAMES = {"CLAUDE", "AGENTS"}
 KNOWN_PLACEHOLDER_TARGETS = {"Progetto X", "Concetto Y", "Area Z", "Nome Cliente"}
 EXTRA_VALID_EXTENSIONS = {
     ".base", ".canvas",

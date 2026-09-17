@@ -1,0 +1,8 @@
+{
+  "id": "federico-gaudino",
+  "name": "Federico Gaudino - Second Brain",
+  "standardVersion": 1,
+  "language": "it",
+  "instructions": ["AGENTS.md"],
+  "capabilities": ["notes.read", "notes.write"]
+}

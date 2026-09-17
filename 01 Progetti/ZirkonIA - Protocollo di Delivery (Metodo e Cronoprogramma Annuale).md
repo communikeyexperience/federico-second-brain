@@ -47,3 +47,4 @@ Generata da questa nota secondo [[SOP - Identità Visiva ZirkonIA]] e [[SOP - Sc
 - [[SOP - Schema di Gantt]]
 - [[SOP - Protocollo EDUCAZIONE]]
 - [[ZirkonIA - Piano Beta Testing e Cronoprogramma Matteo]]
+- [[Strategia - Dashboard Maturità del Brain (Sistema di Livelli)]] — le 6 tappe di questo cronoprogramma sono la base dei task per stadio della dashboard cosmica

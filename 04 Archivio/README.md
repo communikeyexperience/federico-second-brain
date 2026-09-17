@@ -10,4 +10,5 @@ Progetti chiusi o messe in pausa. Quando un progetto in [[01 Progetti/_index|01 
 *(generato automaticamente il 2026-07-08 — collega sistematicamente ogni nota per evitare orfani nel grafo; se aggiungi/rimuovi note qui dentro, rilancia lo script di audit per rigenerare questa sezione)*
 
 - [[Gaudino Costruzioni]]
+- [[Evento Iknosys - Guest Star (Ospite Keynote)]]
 - [[Framework - Conflitto di Governance Ricciolo Center (Annalisa vs Marco)]]

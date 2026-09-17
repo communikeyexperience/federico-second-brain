@@ -5,94 +5,130 @@ priorita: alta
 cliente: ""
 scadenza: ""
 percorso_file: ""
-tags: [personale, immobiliare, finanza-personale]
-summary: "Vendita della casa in Via Cilloco e acquisto di un terreno con casa da ristrutturare a Sasperate — valutazione economica, tempistiche e contrattuale del passaggio."
+tags: [personale, immobiliare, casa, cilloco, sasperate, san-sperate, finanza-personale]
+summary: "Vendita della casa in Via Cilloco e acquisto programmato di un terreno con casa da ristrutturare a Sasperate/San Sperate — valutazione economica, tempistiche e dinamiche contrattuali con le due controparti."
 ---
 
 # Passaggio Casa - Via Cilloco a Sasperate
 
 ## Cos'è
-Valutare l'operazione di vendita della casa attuale (Via Cilloco) e acquisto di un nuovo immobile (terreno + casa da ristrutturare) a Sasperate: implicazioni economiche, tempistiche e contrattuali tra le parti.
+Progetto personale di Federico: valutare la vendita della casa attuale in **Via Cilloco** e l'acquisto di un terreno con casa da ristrutturare a **Sasperate** — implicazioni economiche, tempistiche e dinamiche di accordo con le due controparti (chi compra Via Cilloco, chi vende il terreno a Sasperate), **senza accendere un nuovo mutuo**. Report di pianificazione personale aggiornato al 2026-09-09, uso privato di Federico.
+
+⚠️ **Nota sul toponimo**: il report parla di "Sasperate" — quasi certamente **San Sperate** (comune dell'hinterland di Cagliari), con "a San Sperate" probabilmente contratto in scrittura/trascrizione in "a Sasperate". Da confermare con Federico; nel frattempo questa nota usa entrambe le forme come sinonimi.
 
 ## Cliente / contesto
-Progetto personale — patrimonio personale di Federico, non legato a clienti/ZirkonIA. Vedi [[Federico Gaudino]] → "Vita privata".
+Progetto personale — patrimonio personale di Federico, non legato a ZirkonIA, Business Experience o le altre sue società. Vedi [[Federico Gaudino]] → "Vita privata".
 
-## Percorso file
-`` <!-- nessun file esterno per ora -->
+## Obiettivo
+Vendere Via Cilloco e comprare terreno + casa da ristrutturare a Sasperate, restando interamente dentro il netto della vendita (nessun nuovo mutuo).
 
 ## Risorse esterne
 - [[01 Progetti/Passaggio Casa - Via Cilloco a Sasperate.xlsx|Modello economico (Excel)]] — foglio "Quadro Economico" (vendita, acquisto, ristrutturazione, margine finale) + foglio "Note e Assunzioni" (percentuali/importi di default, da verificare con notaio/commercialista/banca).
 
-## Stato attuale (dati raccolti 2026-09-02)
+## Cifre chiave
+Dal modello Excel collegato (offerta Sasperate al massimo indicato, €85.000; ipotesi correnti dettagliate nel foglio "Note e Assunzioni").
 
-**Vendita — Via Cilloco (casa attuale)**
-- Valore stimato: ~240.000–250.000 €
-- Mutuo residuo da restituire alla banca: ~80.000 €
-- Netto atteso dalla vendita: ~160.000–170.000 € (stima grezza, solo al netto dell'estinzione mutuo — da affinare con costi di vendita: agenzia, eventuale imposta di plusvalenza, penale/costi di estinzione anticipata mutuo)
-
-**Acquisto — Sasperate (terreno + casa da ristrutturare)**
-- Offerta che Federico intende proporre: 80.000–85.000 € massimo
-- Da aggiungere: tasse e spese di acquisto (notaio, imposte di registro, eventuale agenzia) — non ancora quantificate
-- Costo di ristrutturazione della casa: non ancora quantificato
-
-**Complicanze menzionate da Federico (2026-09-02)** — dettaglio ancora da completare (messaggio interrotto), ma tre decisioni chiave sono state prese:
-- **Sequenza**: operazioni **coordinate/in parallelo** (non vendita-poi-acquisto né acquisto-poi-vendita) — compromessi e rogiti allineati nel tempo.
-- **Finanziamento**: **nessun nuovo mutuo** — acquisto + ristrutturazione devono stare dentro il netto della vendita di Via Cilloco.
-- **Output**: nota di pianificazione (questa) + modello economico in Excel.
-
-## Scenario aggiornato (2026-09-02) — acquisto programmato a Sasperate, non più rogiti sincronizzati
-Prima bozza (coordinamento stretto vendita/acquisto, con condizione sospensiva reciproca nei due compromessi) superata da un'idea di Federico che cambia la struttura del problema: un **acquisto programmato** a Sasperate — acconto importante alla firma (esempio indicato: ~20.000 €) e **saldo entro ~12 mesi**, sul modello di un preliminare con saldo differito o di un vero **rent to buy** (art. 23 DL 133/2014).
-
-**Perché cambia tutto**: se il saldo a Sasperate è dovuto solo dopo ~12 mesi, la vendita di Via Cilloco non deve più chiudersi nella stessa finestra del rogito Sasperate — deve solo chiudersi *prima della scadenza del saldo*, con margine. Il vincolo di sincronizzazione stretta (e la clausola di interdipendenza reciproca nei compromessi) diventa quindi meno critico: resta un'opzione di riserva se l'acquisto programmato non si concretizzasse, non più il piano principale.
-
-**Dinamica di accordo da definire col venditore di Sasperate**:
-- Strumento giuridico: preliminare con acconto e saldo differito, oppure rent to buy vero e proprio con godimento anticipato dietro canone — la differenza pratica più importante è se Federico può iniziare la ristrutturazione *prima* del saldo (serve il rent to buy o una clausola esplicita di possesso anticipato: un preliminare semplice di norma non dà possesso prima del rogito).
-- Natura dei 20.000 € di acconto: **caparra confirmatoria** (tutela più forte — art. 1385 c.c., in caso di inadempimento la parte in colpa rischia di perdere/restituire il doppio) o **acconto semplice** (tutela più debole, richiede provare il danno) — va reso esplicito nel contratto, non lasciato implicito.
-- Prezzo bloccato per i 12 mesi, o soggetto a interessi/rivalutazione sul saldo differito.
-- Eventuali garanzie richieste dal venditore sul saldo (es. fideiussione bancaria/assicurativa) — prassi comune in operazioni con pagamento dilazionato, ha un costo da considerare.
-- **Trascrizione** del contratto nei registri immobiliari, a tutela di Federico durante l'attesa (protegge da una doppia vendita o da azioni dei creditori del venditore nel frattempo).
-- Se il terreno è di natura catastale agricola, resta valido il punto sulla **prelazione agraria** già segnalato — indipendente dallo strumento contrattuale scelto.
-
-**Dinamica di accordo da definire col compratore di Via Cilloco**:
-- La vendita (rogito + incasso) deve chiudersi entro la finestra del saldo Sasperate, con margine di sicurezza — non ridotta all'ultimo mese disponibile.
-- **Aggiornamento 2026-09-02**: Federico ha specificato che la vendita di Via Cilloco sarà comunque strutturata con un intervallo lungo tra preliminare e consegna — **almeno 6-8 mesi**. Questo di fatto risponde al punto aperto sul dove abitare nel frattempo: Federico resta nella disponibilità di Via Cilloco per 6-8 mesi dopo il preliminare, e usa proprio questa finestra per avviare l'acquisto a Sasperate (versare l'acconto, far partire l'iter). Vedi dettaglio in "Tempistica — messa a sistema" più sotto.
-- Con margine temporale su entrambi i fronti (6-8 mesi lato Cilloco, ~12 mesi lato Sasperate) Federico ha meno urgenza di accettare condizioni sfavorevoli pur di vendere in fretta — un vantaggio negoziale rispetto allo scenario "tutto coordinato e stretto" della prima bozza.
-
-## Tempistica — messa a sistema (2026-09-02)
-Con i due parametri temporali ora noti (Cilloco: 6-8 mesi da preliminare a consegna; Sasperate: acconto ora, saldo a ~12 mesi), lo schema diventa, assumendo che le due trattative partano più o meno in parallelo:
-
-| Momento indicativo | Cosa succede |
+| Voce | Importo |
 |---|---|
-| Mese 0 | Firma preliminare vendita Via Cilloco. In parallelo: firma dell'accordo di acquisto programmato a Sasperate e versamento dell'acconto (~20.000 €). Federico resta nella disponibilità di Via Cilloco. |
-| Mesi 0–6/8 | Finestra per avviare le "cose sull'altro fronte" a Sasperate: iter di acquisto, progettazione della ristrutturazione, eventuali pratiche — mentre vive ancora a Via Cilloco. |
-| Mese 6-8 | Consegna di Via Cilloco al compratore. Punto da chiarire: se consegna e rogito (quindi incasso del netto vendita, ~161.250 € nel modello) coincidono, o se il rogito è anticipato rispetto alla consegna fisica. |
-| Mese 12 | Scadenza del saldo a Sasperate (~73.350 € nel modello). |
+| Netto da vendita Cilloco | €161.250 |
+| Esborso totale acquisto | €93.350 |
+| Budget per la ristrutturazione | €67.900 |
 
-Se lo schema regge, tra l'incasso della vendita di Cilloco (mese 6-8) e la scadenza del saldo Sasperate (mese 12) resta un **cuscinetto di ~4-6 mesi** — il margine di sicurezza già raccomandato, ora quantificato invece che solo auspicato. Il punto da verificare è che le due trattative partano effettivamente in parallelo: se il preliminare Sasperate slitta rispetto a quello di Cilloco, il cuscinetto si riduce di conseguenza.
+## Situazione di partenza
 
-## Quadro economico (dal modello Excel — aggiornato 2026-09-02, terzo giro di correzioni)
-Ultimo aggiornamento: provvigione agenzia acquisto impostata al **3%** (standard indicato da Federico, provvisorio — "poi vediamo"), più una nuova sezione nel foglio Excel con la **tempistica di pagamento** ipotizzata per Sasperate: acconto 20.000 € alla firma, saldo differito a ~12 mesi.
+### Vendita — Via Cilloco (casa attuale)
+- Valore stimato: €240.000–250.000
+- Mutuo residuo da estinguere: €80.000
+- Provvigione agenzia di vendita: 1% (agenzia di un amico, ridotta rispetto al 3% di mercato)
+- Penale di estinzione anticipata mutuo: stimata 1% del residuo (≈€800), probabile ma da confermare con la banca
 
-Con prezzo di vendita 245.000 €, mutuo residuo 80.000 € e offerta di acquisto al massimo (85.000 €):
-- Netto da vendita: **~161.250 €**
-- Esborso totale acquisto (prezzo + costi, regime prima casa, agenzia 3%): **~93.350 €**
-  - di cui acconto alla firma: 20.000 € — saldo a rogito differito (~12 mesi): **~73.350 €**
-- **Budget disponibile per la ristrutturazione: ~67.900 €**
+### Acquisto — Sasperate (terreno + casa da ristrutturare)
+- Offerta massima che Federico intende proporre: €80.000–85.000
+- Acquisto qualificato come prima casa → imposta di registro agevolata al 2% (anziché 9%), più imposte ipotecaria e catastale fisse (50+50 €)
+- Provvigione agenzia acquisto: 3% (standard indicato da Federico, provvisorio)
+- Onorario notaio: stima €3.000; altri oneri (accatastamento, perizie): stima €1.000
+- Costo di ristrutturazione: non ancora quantificato — nessun preventivo raccolto finora
 
-Il budget scende leggermente (da ~70.450 € a ~67.900 €) per effetto della provvigione d'acquisto al 3% invece di 0% — ma resta il tetto di riferimento finché non c'è un preventivo di ristrutturazione reale da confrontarci.
+## Decisioni prese
+- **Finanziamento**: nessun nuovo mutuo — acquisto e ristrutturazione devono stare interamente dentro il netto della vendita di Via Cilloco
+- **Sequenza**: non più rogiti sincronizzati con condizione sospensiva reciproca (prima ipotesi), ma un acquisto programmato a Sasperate — acconto importante alla firma (esempio: €20.000) e saldo entro ~12 mesi
+- **Budget ristrutturazione**: non è una cifra a parte, ma definito come quanto resta dall'operazione (netto vendita meno esborso acquisto)
+- **Vendita Cilloco**: strutturata con un intervallo lungo tra preliminare e consegna, almeno 6–8 mesi — finestra usata per avviare in parallelo l'acquisto a Sasperate
+
+## Quadro economico
+Con prezzo di vendita €245.000, mutuo residuo €80.000 e offerta di acquisto al massimo (€85.000):
+
+**VENDITA — VIA CILLOCO**
+
+| Voce | Importo |
+|---|---|
+| Valore stimato immobile | €245.000 |
+| Mutuo residuo da estinguere | (€80.000) |
+| Provvigione agenzia vendita (1%) | (€2.450) |
+| Penale estinzione mutuo (1% del residuo) | (€800) |
+| Imposta plusvalenza (ipotesi, da verificare) | €0 |
+| Altri costi di vendita | (€500) |
+| **NETTO DA VENDITA** | **€161.250** |
+
+**ACQUISTO — SASPERATE (regime prima casa)**
+
+| Voce | Importo |
+|---|---|
+| Prezzo offerta | €85.000 |
+| Imposta di registro (2%, min. €1.000) | €1.700 |
+| Imposte ipotecaria + catastale (fisse) | €100 |
+| Onorario notaio | €3.000 |
+| Provvigione agenzia acquisto (3%) | €2.550 |
+| Altri oneri (accatastamento, perizie) | €1.000 |
+| **TOTALE ESBORSO ACQUISTO** | **€93.350** |
+| di cui acconto alla firma | €20.000 |
+| di cui saldo a rogito differito (~12 mesi) | €73.350 |
+| **BUDGET DISPONIBILE PER LA RISTRUTTURAZIONE** | **€67.900** |
+
+Le percentuali/importi su imposta di registro, penale mutuo, plusvalenza, notaio e oneri vari sono assunzioni di lavoro (vedi foglio "Note e Assunzioni" nel modello Excel) — da confermare con notaio, commercialista e banca prima di decidere. Il budget di ristrutturazione è un tetto, non una stima di quanto serve davvero: va confrontato con un preventivo reale appena disponibile.
+
+## Tempistica
+Ipotesi di lavoro, assumendo che le due trattative (Cilloco e Sasperate) partano in parallelo:
+
+| Momento | Cosa succede |
+|---|---|
+| Mese 0 | Firma preliminare vendita Via Cilloco. In parallelo: firma dell'accordo di acquisto programmato a Sasperate e versamento dell'acconto (~€20.000). Federico resta nella disponibilità di Via Cilloco |
+| Mesi 0–6/8 | Finestra per avviare l'iter a Sasperate (acquisto, progettazione ristrutturazione, eventuali pratiche) mentre si vive ancora a Via Cilloco |
+| Mese 6–8 | Consegna di Via Cilloco al compratore. Da chiarire se consegna e rogito (quindi incasso del netto vendita, ~€161.250) coincidono o sono separati |
+| Mese 12 | Scadenza del saldo a Sasperate (~€73.350) |
+
+Se lo schema regge, tra l'incasso della vendita di Cilloco (mese 6–8) e la scadenza del saldo Sasperate (mese 12) resta un cuscinetto di ~4–6 mesi. Si riduce se il preliminare Sasperate slitta rispetto a quello di Cilloco: le due trattative vanno avviate davvero in parallelo, non in sequenza.
+
+## Dinamiche di accordo con le controparti
+
+### Con il venditore del terreno a Sasperate
+- Strumento giuridico: preliminare con acconto e saldo differito, oppure rent to buy vero e proprio (art. 23 DL 133/2014) con godimento anticipato dietro canone — differenza chiave se si vuole iniziare la ristrutturazione prima del saldo
+- Natura dell'acconto (€20.000): caparra confirmatoria (tutela più forte, art. 1385 c.c.) o acconto semplice (tutela più debole) — da rendere esplicito nel contratto
+- Prezzo bloccato per i 12 mesi, o soggetto a interessi/rivalutazione sul saldo differito
+- Eventuali garanzie richieste dal venditore sul saldo (es. fideiussione bancaria/assicurativa)
+- Trascrizione del contratto nei registri immobiliari, a tutela di Federico durante l'attesa
+- Se il terreno è di natura catastale agricola: verificare l'eventuale diritto di prelazione agraria di confinanti/affittuari coltivatori diretti
+
+### Con il compratore di Via Cilloco
+- La vendita (rogito + incasso) deve chiudersi entro la finestra del saldo Sasperate, con margine di sicurezza
+- L'intervallo di 6–8 mesi tra preliminare e consegna risponde alla domanda di dove abitare nel frattempo: Federico resta a Via Cilloco per quella finestra
+- Da verificare in fase di negoziazione: se consegna e rogito/incasso coincidono o sono separati nel tempo
 
 ## Prossimi passi
-- [ ] Ottenere un preventivo (anche di massima) per la ristrutturazione della casa a Sasperate — è il confronto decisivo col budget disponibile (~67.900 €)
-- [ ] Con notaio/legale: scegliere lo strumento per l'acquisto programmato a Sasperate (preliminare con saldo differito vs rent to buy) — dipende soprattutto da se Federico vuole iniziare la ristrutturazione prima del saldo
-- [ ] Con notaio/legale: definire se i 20.000 € di acconto sono caparra confirmatoria o acconto semplice, se il prezzo resta bloccato per 12 mesi, se serve una garanzia (fideiussione) sul saldo, e la trascrizione del contratto
-- [ ] Proporre al venditore di Sasperate lo schema acconto 20.000 € + saldo a ~12 mesi e verificarne la disponibilità
-- [ ] Verificare, quando si negozia il preliminare di Via Cilloco, se consegna (mese 6-8) e rogito/incasso coincidono o sono separati — cambia quando Federico ha davvero la liquidità disponibile
-- [ ] Far partire in parallelo (non in sequenza) l'avvio delle due trattative — Cilloco e Sasperate — per non erodere il cuscinetto di ~4-6 mesi tra le due scadenze
-- [ ] Confermare con la banca l'importo esatto della penale di estinzione anticipata mutuo su Via Cilloco (nel modello: stima 1% del residuo = 800 €)
-- [ ] Verificare con un commercialista se la vendita di Via Cilloco genera plusvalenza tassabile
-- [ ] Verificare con il notaio: che l'intero immobile di Sasperate (terreno + casa) rientri nell'agevolazione prima casa — un eventuale terreno agricolo oltre la pertinenza potrebbe essere tassato a parte con aliquota più alta — e i requisiti soggettivi (trasferimento residenza entro 18 mesi)
-- [ ] Verificare col notaio l'eventuale diritto di prelazione agraria, se il terreno è agricolo
+- [ ] **Incontro venerdì 2026-09-11** per presentare una proposta (aggiornato 2026-09-09)
+- [ ] Ottenere un preventivo, anche di massima, per la ristrutturazione della casa a Sasperate — confronto decisivo col budget disponibile (~€67.900)
+- [ ] Con notaio/legale: scegliere lo strumento per l'acquisto programmato a Sasperate (preliminare con saldo differito vs rent to buy)
+- [ ] Con notaio/legale: definire natura dell'acconto (caparra o acconto semplice), blocco del prezzo, eventuale garanzia sul saldo, trascrizione
+- [ ] Proporre al venditore di Sasperate lo schema acconto €20.000 + saldo a ~12 mesi e verificarne la disponibilità
+- [ ] Verificare, negoziando il preliminare Cilloco, se consegna (mese 6–8) e rogito/incasso coincidono o sono separati
+- [ ] Far partire in parallelo (non in sequenza) le due trattative, per non erodere il cuscinetto di ~4–6 mesi
+- [ ] Confermare con la banca l'importo esatto della penale di estinzione anticipata mutuo
+- [ ] Verificare con un commercialista l'eventuale plusvalenza tassabile sulla vendita di Cilloco
+- [ ] Verificare col notaio i requisiti dell'agevolazione prima casa sull'intero immobile di Sasperate (terreno + casa) e l'eventuale prelazione agraria
+- [ ] Confermare il toponimo esatto: "San Sperate" vs "Sasperate" (vedi nota in cima)
 - [ ] Aggiornare le celle di input nel modello Excel man mano che questi dati diventano certi
 
 ## Note
-Impostata come analisi organizzativa/di pianificazione, non come consulenza fiscale, legale o notarile — per gli aspetti di imposte (es. plusvalenza, prima/seconda casa), estinzione mutuo e contrattualistica tra le parti resta necessario il coinvolgimento di un professionista abilitato (commercialista, notaio).
+Questo report è un'analisi organizzativa e di pianificazione, non consulenza fiscale, legale o notarile. Per gli aspetti di imposte (plusvalenza, prima/seconda casa), estinzione mutuo e contrattualistica tra le parti resta necessario il coinvolgimento di un professionista abilitato (commercialista, notaio).
+
+Fonte: report "Passaggio Casa — Via Cilloco → San Sperate" fornito da Federico (aggiornato al 2026-09-02, incontro di presentazione proposta fissato per il 2026-09-11), con modello di calcolo su foglio Excel collegato sopra in "Risorse esterne" — due versioni della stessa nota (una con il file Excel già salvato nel vault, una con il testo aggiornato al 9 settembre) sono state riconciliate qui in un merge git il 2026-09-17.

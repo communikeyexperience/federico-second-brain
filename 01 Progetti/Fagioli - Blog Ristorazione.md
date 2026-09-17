@@ -34,4 +34,5 @@ Blog B2B SEO/GEO per Riccardo Fagioli (settore HoReCa), gestito via NotebookLM (
 - [[Fagioli - Registro Pubblicazioni Social]] — registro manuale delle pubblicazioni LinkedIn/Facebook, da aggiornare a ogni post
 
 ## Note
+- **Aggiornamento 2026-09-09**: il progetto è ora seguito da Cristiano, non più direttamente da Federico.
 ⚠️ Regola ferma: mai toccare le featured image degli articoli.

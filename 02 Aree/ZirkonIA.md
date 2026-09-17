@@ -28,6 +28,8 @@ Precisazione di scope, dichiarata esplicitamente come "la parte importante del p
 
 Modello di consegna concretizzato: oltre agli incontri periodici durante l'anno (già Fase 4 — Evoluzione Continua), la consegna include un **"cofanetto"** — box fisico con il registratore AI + un playbook con le linee guida generali d'uso del sistema.
 
+**Aggiornamento 2026-08-08**: la serie di esemplari ZirkonIA Touch (l'ordine successivo al primo test soddisfacente) è **in viaggio** — test da eseguire non appena arriva. In parallelo, Federico sta lavorando alla creazione del packaging brandizzato ("cofanetto") con tutti i libretti/playbook — coerente con il pilastro 4 del Piano di Consegna, che restava in attesa proprio della forma definitiva di ZirkonIA Touch (vedi [[ZirkonIA - Piano di Consegna (Presentazione, Playbook, Protocollo, Packaging)]]).
+
 ## Positioning landing page — la vera promessa (2026-07-11)
 Domanda di Federico durante lavoro sulla landing page: qual è la promessa reale di ZirkonIA, oltre "conserva la memoria"? Riflessione (ZirkonIA Core):
 
@@ -58,6 +60,9 @@ Questo sposta la promessa su un secondo asse, complementare a quello del 2026-07
 **Candidati frase aggiornati**:
 - "Il board che i grandi si comprano. Tu lo hai sempre acceso." — nomina il board, allude alla tenuta nel tempo ("sempre acceso" vs. una consulenza puntuale).
 - "Non ti manca il metodo. Ti manca chi te lo fa seguire." — proposta principale: risponde direttamente alla diagnosi di Federico (il metodo esiste, manca l'accountability), non descrive il prodotto ma il problema reale del cliente.
+
+### Tre concetti per il modello di presentazione — positioning, wow, think different (2026-08-10)
+Sessione dedicata di Cristiano e Federico su tre concetti-cardine per presentare ZirkonIA agli utenti, distinti dalla definizione base già coperta dalla landing: **brand positioning** (memoria strutturata locale e di proprietà dell'utente, indipendenza dal motore AI, wrapping di più tecnologie — orecchio AI, trascrizione, vault, motore — non concorrente ma "espansione" delle AI generiche, metafora della preparazione racing su un'auto esistente), **effetto Wow** (espansione del cervello dell'utente, fine della solitudine cognitiva — stessa promessa del frame "board personale" sopra, in altre parole), **Think Different/Work Smarter** (accorciare la distanza tra stato attuale e obiettivi; confine dichiarato: ZirkonIA non pensa da sola, "ricordo" più che "pensiero", la coscienza resta dell'utente; implicazione — richieste imprecise producono interpretazioni scorrette, l'utente va accompagnato a richieste sempre più precise). Dettaglio completo e trascrizione in [[Report - Sessione Positioning e Presentazione ZirkonIA (2026-08-10)]].
 
 ## Il problema che indirizza
 - 2h/giorno perse da ogni professionista a cercare informazioni che l'azienda già possiede (email, chat, documenti sparsi)
@@ -195,6 +200,8 @@ Federico vuole definire la prima versione da dare a early user (persone della pr
 **Framing proposto**: costruire ora il Modulo B/C per il canale PC/telefono early-user non è un ramo laterale rispetto al futuro dispositivo fisico (ZirkonIA Touch, ex-Cube, concetto ancora in ridefinizione dal 2026-07-15) — è lo stesso backend che servirà anche a quel canale in futuro (stessa logica: legge il vault sincronizzato, inietta system prompt equivalente a CLAUDE.md + skill attive, chiama l'API Claude, scrive le risposte/decisioni indietro nel vault), solo con un'interfaccia chat al posto della voce. Costruirlo ora significa validarlo su utenti veri prima del collo di bottiglia hardware, non deviare la roadmap.
 
 **Interfaccia consigliata**: canale a minor attrito possibile (chat web semplice o bot su canale già installato tipo WhatsApp/Telegram), non un'app nativa da scaricare — coerente col target piccolo imprenditore non tecnico.
+
+**Sviluppo tecnico avviato (dal 2026-08-06)**: il Modulo B/C descritto sopra è ora in costruzione attiva — front-end di chat Next.js + RAG ("app ZirkonIA": chat, RAG, grafo, dashboard) nel repository `STUDIO`, in packaging come app desktop Windows via Electron. Dettaglio tecnico, stato e file coinvolti in [[ZirkonIA - App (Sviluppo Tecnico)]].
 
 **Alternativa a costo zero, nominata per completezza**: Claude.ai Projects — accessibile ovunque senza build, ma sola consultazione, nessun write-back nel vault. Utile come demo rapida, non come prodotto (rompe la promessa "board sempre acceso, che ti tiene sul percorso").
 
