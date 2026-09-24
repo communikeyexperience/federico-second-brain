@@ -1,3 +1,9 @@
+---
+tipo: risorsa
+tags: [ristorazione, libro, manuale-ristorante]
+progetto: "[[Manuale Aprire Ristorante]]"
+---
+
 # Capitolo 6 — Food Cost & Pricing: la matematica del profitto
 
 *Fase operativa*
@@ -91,3 +97,6 @@ Da compilare per ogni piatto del menu, e da aggiornare a ogni variazione di prez
 - [ ] So quanto incide il costo del lavoro, non solo quello degli ingredienti, sul mio piatto più venduto
 
 *Prossimo capitolo → Capitolo 7: Le Persone — organigramma, costo aziendale reale e formazione alla vendita in sala.*
+
+---
+*Navigazione:* ← [[capitolo-05-location]] · [[Manuale Aprire Ristorante]] · [[indice-struttura]] · [[capitolo-07-le-persone]] →

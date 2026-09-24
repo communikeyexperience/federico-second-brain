@@ -1,3 +1,9 @@
+---
+tipo: risorsa
+tags: [ristorazione, libro, manuale-ristorante]
+progetto: "[[Manuale Aprire Ristorante]]"
+---
+
 # Capitolo 13 — Checklist e Strumenti Operativi
 
 *Capitolo di chiusura*
@@ -78,3 +84,6 @@ Una raccolta dei segnali che, in ciascuna area, indicano quasi sempre un problem
 - [ ] So a quale capitolo tornare per ciascuna area del mio progetto, in qualunque fase mi trovi
 
 *Il giorno dell'inaugurazione dovrebbe essere la festa che conclude questo percorso di progettazione — non il giorno in cui cominci a scoprire come funziona davvero la tua azienda.*
+
+---
+*Navigazione:* ← [[capitolo-12-dopo-apertura]] · [[Manuale Aprire Ristorante]] · [[indice-struttura]] · [[conclusione]] →

@@ -1,3 +1,9 @@
+---
+tipo: risorsa
+tags: [ristorazione, libro, manuale-ristorante]
+progetto: "[[Manuale Aprire Ristorante]]"
+---
+
 # Capitolo 7 — Le Persone: organigramma, costo reale, formazione
 
 *Fase operativa*
@@ -67,3 +73,6 @@ Da compilare per fascia oraria/turno, prima di scrivere il primo annuncio di lav
 - [ ] Il costo totale del personale è coerente con il fatturato atteso del business plan
 
 *Prossimo capitolo → Capitolo 8: Sicurezza e Procedure — HACCP, allergeni e lo scudo operativo del locale.*
+
+---
+*Navigazione:* ← [[capitolo-06-food-cost-pricing]] · [[Manuale Aprire Ristorante]] · [[indice-struttura]] · [[capitolo-08-sicurezza-haccp]] →

@@ -1,3 +1,9 @@
+---
+tipo: risorsa
+tags: [ristorazione, libro, manuale-ristorante]
+progetto: "[[Manuale Aprire Ristorante]]"
+---
+
 # Capitolo 11 — Forma Societaria e Aspetti Legali
 
 *Fase operativa*
@@ -66,3 +72,6 @@ Quanto scritto qui è un'introduzione orientativa a temi societari, legali e aut
 - [ ] Non ho firmato contratti o assunto impegni prima di questa verifica
 
 *Prossimo capitolo → Capitolo 12: Dopo l'apertura — i primi 12 mesi.*
+
+---
+*Navigazione:* ← [[capitolo-10-marketing]] · [[Manuale Aprire Ristorante]] · [[indice-struttura]] · [[capitolo-12-dopo-apertura]] →

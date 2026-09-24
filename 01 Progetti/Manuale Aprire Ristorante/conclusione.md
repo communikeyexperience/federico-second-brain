@@ -1,3 +1,9 @@
+---
+tipo: risorsa
+tags: [ristorazione, libro, manuale-ristorante]
+progetto: "[[Manuale Aprire Ristorante]]"
+---
+
 # Conclusione — Dalla Progettazione al Margine
 
 Se hai attraversato questo manuale capitolo per capitolo, compilando davvero i template e non solo leggendoli, sei arrivato a un punto molto diverso da quello di chi apre un ristorante seguendo solo l'entusiasmo iniziale.
@@ -21,3 +27,6 @@ Aprire un ristorante nel 2026 è prima di tutto un lavoro di progettazione: nume
 Hai trovato un'idea. Te ne sei innamorato. E ora l'hai messa alla prova, punto dopo punto, con lo stesso rigore con cui un'azienda solida tratta ogni sua decisione importante.
 
 Questa è la vera differenza tra chi apre un locale e chi costruisce un'impresa di ristorazione. E ora sai da che parte stai.
+
+---
+*Navigazione:* ← [[capitolo-13-checklist-strumenti]] · [[Manuale Aprire Ristorante]] · [[indice-struttura]] · [[_index|indice capitoli]] →

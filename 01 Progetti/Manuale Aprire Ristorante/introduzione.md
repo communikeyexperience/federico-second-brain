@@ -1,3 +1,9 @@
+---
+tipo: risorsa
+tags: [ristorazione, libro, manuale-ristorante]
+progetto: "[[Manuale Aprire Ristorante]]"
+---
+
 # Introduzione — Prima di Aprire
 
 ## Perché la maggior parte degli entusiasmi si infrange sui numeri
@@ -25,3 +31,6 @@ Il percorso è diviso in due fasi. Nella prima — **Le Fondamenta** — trovi u
 Non tutti i capitoli richiedono lo stesso tempo, e non tutti si applicano con la stessa intensità a ogni format. Ma saltarne uno perché "sembra scontato" o "ci penserò dopo" è quasi sempre il modo più costoso di procedere.
 
 Aprire un ristorante richiede passione. Costruire un ristorante che produce margine richiede anche metodo. Questo libro è pensato per darti entrambi, nell'ordine giusto.
+
+---
+*Navigazione:* ← [[indice-struttura]] · [[Manuale Aprire Ristorante]] · [[indice-struttura]] · [[capitolo-01-trova-idea]] →

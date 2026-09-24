@@ -1,3 +1,9 @@
+---
+tipo: risorsa
+tags: [ristorazione, libro, manuale-ristorante]
+progetto: "[[Manuale Aprire Ristorante]]"
+---
+
 # Capitolo 9 — Tecnologia: il cruscotto digitale del locale
 
 *Fase operativa*
@@ -60,3 +66,6 @@ Da compilare per capire cosa hai già, cosa ti manca, e soprattutto cosa quello 
 - [ ] Ho verificato che il sistema scelto dialoghi con le altre parti della gestione (magazzino, personale, prenotazioni)
 
 *Prossimo capitolo → Capitolo 10: Marketing — farsi trovare prima ancora della prenotazione.*
+
+---
+*Navigazione:* ← [[capitolo-08-sicurezza-haccp]] · [[Manuale Aprire Ristorante]] · [[indice-struttura]] · [[capitolo-10-marketing]] →

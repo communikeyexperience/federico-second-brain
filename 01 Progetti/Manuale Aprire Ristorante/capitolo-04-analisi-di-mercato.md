@@ -1,3 +1,9 @@
+---
+tipo: risorsa
+tags: [ristorazione, libro, manuale-ristorante]
+progetto: "[[Manuale Aprire Ristorante]]"
+---
+
 # Capitolo 4 — Analisi di mercato reale (e il check finale prima di procedere)
 
 *Parte I — Le Fondamenta (validazione dell'idea)*
@@ -86,3 +92,6 @@ Rispondi con onestà a queste domande. Non servono per giudicarti: servono per c
 - [ ] So se sto procedendo alla ricerca della location, o se torno prima su un capitolo precedente
 
 *Prossimo capitolo → Parte II: la valutazione della location.*
+
+---
+*Navigazione:* ← [[capitolo-03-definire-il-concept]] · [[Manuale Aprire Ristorante]] · [[indice-struttura]] · [[capitolo-05-location]] →

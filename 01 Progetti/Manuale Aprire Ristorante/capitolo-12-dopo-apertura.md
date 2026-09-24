@@ -1,3 +1,9 @@
+---
+tipo: risorsa
+tags: [ristorazione, libro, manuale-ristorante]
+progetto: "[[Manuale Aprire Ristorante]]"
+---
+
 # Capitolo 12 — Dopo l'Apertura: i Primi 12 Mesi
 
 *Fase operativa*
@@ -68,3 +74,6 @@ Correggere la rotta non significa smontare tutto il progetto: significa tornare 
 - [ ] So a quale capitolo di questo manuale tornare per ciascun tipo di scostamento
 
 *Prossimo capitolo → Capitolo 13: Checklist e Strumenti Operativi — la sintesi di tutto il percorso.*
+
+---
+*Navigazione:* ← [[capitolo-11-forma-societaria-legale]] · [[Manuale Aprire Ristorante]] · [[indice-struttura]] · [[capitolo-13-checklist-strumenti]] →

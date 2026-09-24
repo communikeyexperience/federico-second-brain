@@ -1,3 +1,9 @@
+---
+tipo: risorsa
+tags: [ristorazione, libro, manuale-ristorante, struttura]
+progetto: "[[Manuale Aprire Ristorante]]"
+---
+
 # Manuale "Aprire un Ristorante": struttura e stato
 
 Fonte di partenza analizzata: articolo di Riccardo Fagioli, "Hai sempre sognato di aprire un ristorante? La checklist definitiva per aprire un ristorante nel 2026" (7 agosto 2026).
@@ -50,3 +56,6 @@ Dalla progettazione al margine; il giorno dell'inaugurazione come fine di un per
 - Uniformità di tono tra i capitoli motivazionali di apertura (1-2) e quelli più tecnici (6, 8, 11).
 - Verificare se alcuni template (in particolare Cap. 2, 6, 7, 12) siano troppo densi per il formato libro e vadano eventualmente spostati in un'appendice/allegati scaricabili separati.
 - Aggiornare cifre e riferimenti normativi appena prima della pubblicazione definitiva.
+
+---
+*Navigazione:* [[Manuale Aprire Ristorante]] · [[_index|indice capitoli]] · inizia da [[introduzione]]

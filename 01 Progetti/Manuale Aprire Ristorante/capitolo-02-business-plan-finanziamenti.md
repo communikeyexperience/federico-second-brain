@@ -1,3 +1,9 @@
+---
+tipo: risorsa
+tags: [ristorazione, libro, manuale-ristorante]
+progetto: "[[Manuale Aprire Ristorante]]"
+---
+
 # Capitolo 2 — Business Plan e Finanziamenti: la parte dura (dove si vince o si perde)
 
 *Parte I — Il Modello di Business (prima dei fornelli)*
@@ -159,3 +165,6 @@ Da compilare dopo aver stimato il capitale totale necessario (vedi sezione prece
 - [ ] So che il prossimo passo è definire il concept in modo preciso (Capitolo 3), non ancora cercare un locale
 
 *Prossimo capitolo → Capitolo 3: Definire il concept — cosa vendi, a chi, e perché dovrebbe sceglierti.*
+
+---
+*Navigazione:* ← [[capitolo-01-trova-idea]] · [[Manuale Aprire Ristorante]] · [[indice-struttura]] · [[capitolo-03-definire-il-concept]] →

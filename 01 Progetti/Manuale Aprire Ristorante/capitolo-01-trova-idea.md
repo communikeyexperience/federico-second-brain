@@ -1,3 +1,9 @@
+---
+tipo: risorsa
+tags: [ristorazione, libro, manuale-ristorante]
+progetto: "[[Manuale Aprire Ristorante]]"
+---
+
 # Capitolo 1 — Trova un'idea. Innamorati di quell'idea. Poi mettila alla prova.
 
 *Parte I — Il Modello di Business (prima dei fornelli)*
@@ -102,3 +108,6 @@ Da fare **prima** di scrivere il business plan definitivo (Capitolo 2) e ben pri
 - [ ] Ho valutato onestamente anche la strada del franchising, non solo quella indipendente
 
 *Prossimo capitolo → Capitolo 2: Business Plan e Finanziamenti — la parte dura, dove si vince o si perde prima ancora di aprire.*
+
+---
+*Navigazione:* ← [[introduzione]] · [[Manuale Aprire Ristorante]] · [[indice-struttura]] · [[capitolo-02-business-plan-finanziamenti]] →

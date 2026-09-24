@@ -1,3 +1,9 @@
+---
+tipo: risorsa
+tags: [ristorazione, libro, manuale-ristorante]
+progetto: "[[Manuale Aprire Ristorante]]"
+---
+
 # Capitolo 8 — Sicurezza e Procedure: lo scudo operativo del locale
 
 *Fase operativa*
@@ -72,3 +78,6 @@ Da usare come punto di partenza per il tuo manuale di autocontrollo, da personal
 - [ ] So chi è responsabile di ogni procedura, non genericamente "tutti"
 
 *Prossimo capitolo → Capitolo 9: Tecnologia — il cruscotto digitale del locale.*
+
+---
+*Navigazione:* ← [[capitolo-07-le-persone]] · [[Manuale Aprire Ristorante]] · [[indice-struttura]] · [[capitolo-09-tecnologia]] →

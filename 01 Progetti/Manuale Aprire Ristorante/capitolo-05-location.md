@@ -1,3 +1,9 @@
+---
+tipo: risorsa
+tags: [ristorazione, libro, manuale-ristorante]
+progetto: "[[Manuale Aprire Ristorante]]"
+---
+
 # Capitolo 5 — Location: dove aprire, e perché lì e non altrove
 
 *Fase operativa*
@@ -86,3 +92,6 @@ Compila una scheda per ogni location candidata, e confrontale fianco a fianco pr
 - [ ] Ho confrontato almeno 2-3 location candidate con la stessa scheda, non solo quella di cui mi sono innamorato per primo
 
 *Prossimo capitolo → Capitolo 6: Food Cost & Pricing — la matematica del profitto.*
+
+---
+*Navigazione:* ← [[capitolo-04-analisi-di-mercato]] · [[Manuale Aprire Ristorante]] · [[indice-struttura]] · [[capitolo-06-food-cost-pricing]] →

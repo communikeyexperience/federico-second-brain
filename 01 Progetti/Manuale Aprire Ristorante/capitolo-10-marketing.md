@@ -1,3 +1,9 @@
+---
+tipo: risorsa
+tags: [ristorazione, libro, manuale-ristorante]
+progetto: "[[Manuale Aprire Ristorante]]"
+---
+
 # Capitolo 10 — Marketing: fatti trovare prima della prenotazione
 
 *Fase operativa*
@@ -66,3 +72,6 @@ Il marketing dell'apertura dovrebbe essere l'estensione naturale del concept def
 - [ ] So come rispondere professionalmente anche a una recensione negativa
 
 *Prossimo capitolo → Capitolo 11: Forma societaria e aspetti legali.*
+
+---
+*Navigazione:* ← [[capitolo-09-tecnologia]] · [[Manuale Aprire Ristorante]] · [[indice-struttura]] · [[capitolo-11-forma-societaria-legale]] →

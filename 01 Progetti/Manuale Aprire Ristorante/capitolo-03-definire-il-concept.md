@@ -1,3 +1,9 @@
+---
+tipo: risorsa
+tags: [ristorazione, libro, manuale-ristorante]
+progetto: "[[Manuale Aprire Ristorante]]"
+---
+
 # Capitolo 3 — Definire il concept: cosa vendi, a chi, e perché dovrebbe sceglierti
 
 *Parte I — Le Fondamenta (validazione dell'idea)*
@@ -71,3 +77,6 @@ Uno strumento visivo, da compilare in una pagina sola. Se non riesci a stare in 
 - [ ] Ho fatto il test della frase unica con almeno 3 persone esterne al progetto
 
 *Prossimo capitolo → Capitolo 4: Analisi di mercato reale — e il check finale prima di passare alla fase operativa.*
+
+---
+*Navigazione:* ← [[capitolo-02-business-plan-finanziamenti]] · [[Manuale Aprire Ristorante]] · [[indice-struttura]] · [[capitolo-04-analisi-di-mercato]] →
